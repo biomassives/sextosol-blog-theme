@@ -1,114 +1,36 @@
 ---
-title: Why do I need Markdown Slot
+title: Poverty
 date: 2019-2-26
-tags: 
-  - markdown
-  - vuepress
-author: Sal
+tags:
+- Poverty
+author: Tamara
 featuredimg: https://images.unsplash.com/photo-1569851409587-7e3a27cbfe1b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=946&q=80
 summary: VuePress implements a content distribution API for Markdown.
+
 ---
+# Poverty
 
-VuePress implements a content distribution API for Markdown. With this feature, you can split your document into multiple fragments to facilitate flexible composition in the layout component.
+#### "The unfinished work of our heroes, truely must be our own." Ben Harper
 
-## Why do I need Markdown Slot?
+When then president Vicente Fox addressed visited El Porvenir in the heart of the Sierra Madre, he told the crowd that theirs was the poorest town in Mexico. Former governor Pablo Salazar's office found that more children in Chiapas were malnourished than not and that in the Sierra at least 60% suffered severe malnutrition. Diseases that have been eradicated elsewhere are still present. Many adults do not know how to read. Environmental degradation has exacerbated the challenges for land-based people to live on the steep slopes and high elevations.
 
-First, let's review the relationship between layout components and markdown files:
+In this region, most people earn their livelihoods from growing cash crops, mostly coffee or potatoes. This makes them vulnerable to inclement weather which is all too frequent now that weather patterns are so eratic. For example, in January, 2008, an abnormally strong gale force windstorm hit the Soconusco coastal area and the Sierra Madre of Chiapas. In just two days of wind, tens of thousands of small-scale coffee farmers lost an entire year's earnings. Businesses were impacted as the usual surge in sales after the coffee harvest did not happened. This was especially hard on people still trying to recover from the losses from Hurricane Stan. It is times like these when people look to finding work in the U.S. as their only hope to sustain their family.
 
-<diagram-markdown-slot-relationship/>
+In an impoverished region such as the Sierra Madre, people immigrate in search of work when they feel that there is no other opportunity to keep their families fed, earn money to build a house or start a business. Behind every immigrant working illegally in the U.S., there is a story of heartache; from the sacrifice of being separated from loved ones so far away and that of children who long for the warmth of an absent father or mother.
 
-Markdown files are providers of metadata (Page content, Configuration, etc.), while layout components consume them. We can use `frontmatter` to define some metadata for common data types, but `frontmatter` is hard to do something about markdown / HTML, a complex metadata that involves differences before and after compilation.
+As the saying goes, "When the U.S. sneezes, Mexico suffers pneumonia". In 2009, the recession have reduced the opportunities immigrants might have to find work in the U.S. Many are returning home even though most poor families here rely on the funds sent home by a family member working in "El Norte".
 
-Markdown Slot is to solve this kind of problem.
+The Sexto Sol Center has always sought to give people the tools they need to build a better life at home so that they would not have to immigrate. This keeps families in tact, giving children a better chance of developing in a healthy way.
 
-## Named Slots
+### Education is one of the best ways to help people create more prosperous lives.
 
-You can define a named markdown slot through the following markdown syntax:
+Sexto Sol has a fund-raising campaign underway for 6 projects that will make significant improvments to 8 schools. Together, projects will benefit over 800 children in the Sierra Madre and in Nuevo Bullaj community in Guatemala.
 
-``` md
-::: slot name
+These schools suffer inadequate support under the separate system for indigneous education. The Sexto Sol Center advocates for the right of all children to receive a quality education that honors the history and culture of their community.
 
-:::
-```
+![](http://www.sextosol.org/images/schools/2girls.jpg =x135) ![](http://www.sextosol.org/images/blank.gif =10x135)
 
-Use the `Content` component to use the slot in the layout component:
+Building on past work to provide books and more, Sexto Sol has developed the projects to improve the schools in consultation with teachers and parents. We will work with them so that these young people will not one day face the difficult choice of leaving family and country just for the chance to work but instead will be prepared to create their own opportunities.   
+ [**click to learn more…**](http://www.sextosol.org/children.html)
 
-``` vue
-<Content slot-key="name"/>
-```
-
-::: tip
-Here we are using `slot-key` instead of `slot`, because in Vue, `slot` is a reserved prop name.
-:::
-
-## Default Slot Content
-
-By default, the slot-free part of a markdown file becomes the default content of a markdown slot, which you can access directly using the `Content` component:
-
-``` vue
-<Content/>
-```
-
-## Example
-
-Suppose your layout component is as follows:
-
-``` vue
-<template>
-  <div class="container">
-    <header>
-      <Content slot-key="header"/>
-    </header>
-    <main>
-      <Content/>
-    </main>
-    <footer>
-      <Content slot-key="footer"/>
-    </footer>
-  </div>
-</template>
-```
-
-If the markdown content of a page is like this:
-
-```md
-::: slot header
-# Here might be a page title
-:::
-
-- A Paragraph
-- Another Paragraph
-
-::: slot footer
-Here's some contact info
-:::
-```
-
-Then the rendered HTML of this page will be:
-
-```html
-<div class="container">
-  <header>
-    <div class="content header">
-      <h1>Here might be a page title</h1>
-    </div>
-  </header>
-  <main>
-    <div class="content default">
-      <ul>
-        <li>A Paragraph</li>
-        <li>Another Paragraph</li>
-      </ul>
-    </div>
-  </main>
-  <footer>
-    <div class="content footer">
-      <p>Here's some contact info</p>
-    </div>
-  </footer>
-</div>
-```
-
-Note that:
-1. Unlike the slot mechanism provided by [Vue](https://vuejs.org/v2/guide/components-slots.html) itself, each content distribution is wrapped in a `div` whose class is `content` with the name of the slot.
-2. Please ensure the uniqueness of the slot defined.
+**We can't change the weather, but we can help children become better prepared for the future by making significant improvements to these schools.**
