@@ -12,7 +12,7 @@ summary: The geographical distribution of the land within the tropics.
 ---
 # Commitments
 
-#### "The unfinished work of our heroes, truely must be our own." Ben Harper
+#### "The unfinished work of our heroes, truly must be our own." Ben Harper
 
 ##### The projects of the Sexto Sol Center are guided by our commitment to these ideals and action.
 
