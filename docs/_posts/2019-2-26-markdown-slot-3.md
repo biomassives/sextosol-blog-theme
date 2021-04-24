@@ -31,7 +31,8 @@ Philosophically, we do not see people as separate from the natural world, rather
 
 ### View the Sexto Sol Story on YouTube!
 
-![](http://www.sextosol.org/images/blank.gif =500x25)![](http://www.sextosol.org/images/blank.gif =500x25)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-vwotU5GDUs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Our work is made possible by the financial support of people like you
 
