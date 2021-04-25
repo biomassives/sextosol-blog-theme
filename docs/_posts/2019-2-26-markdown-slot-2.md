@@ -1,22 +1,17 @@
 ---
-title: Migrants clash with Greek police at border after Turkey opens floodgates
-date: 2019-2-26
-tags:
-- markdown
-- vuepress
-author: John Doe
+title: Suggested Reading List
+date: 2021-04-24 04:00:00 +0000
+tags: []
+author: Tamara
 featuredimg: https://images.unsplash.com/photo-1501631957818-9f4b96ca2b0f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80
 summary: Greek police fired tear gas to repel hundreds of migrants.
 
 ---
 # Suggested Reading List
 
-## Help Sexto Sol earn funds for projects by purchasing books from Amazon.com from the link on the right
-
 This is a list of books that you might find helpful for your study of how we can move into a new era in which poverty no longer is considered something that is unavoidable. Some of these books are classics that have influenced the writing of others who followed. Included are titles on globalization.
 
 For additional books on food security, people's movements, globalization and more, see **www.foodfirst.org/books** for titles published by the Institute for Food and Development Policy, Food First.
-
 
 | The Politics of Meaning | Michael Lerner |
 | Gaviotas | Alan Weisman |
