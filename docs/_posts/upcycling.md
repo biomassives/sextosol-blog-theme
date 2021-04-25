@@ -1,10 +1,15 @@
 ---
-tags: []
+tags:
+- saleable goods
+- plastic reuse
+- solid waste management
 title: Upcycling
 date: 2021-04-24 04:00:00 +0000
 author: Tamara
 featuredimg: "/assets/img/header_bolsas.jpg"
-summary: ''
+summary: Each year tons of bottles and other plastic junk is dredged from the Canyon
+  de Sumidero, a national park that attracts tens of thousands of tourists each year.
+  Beaches are littered with plastic that has been tumbled in the surf.
 
 ---
 # Upcycling
