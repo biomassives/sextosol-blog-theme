@@ -2,11 +2,15 @@
 tags:
 - Solar
 - Approproate Tech
-title: Solar Furnaces
+title: Solar cookers, heaters, water heaters & dehydrators
 date: 2021-04-24 04:00:00 +0000
 author: Tamara
 featuredimg: ''
-summary: ''
+summary: 'Help us place solar heaters in a very cold school. The principal has requested
+  urgent help from Sexto Sol. The school serves a poor community. Many children don''t
+  have adequate shoes or warm clothing. The freezing classrooms are in disrepair.
+  Education is the best way to break the cycle of poverty. Funds are needed for supplies
+  and to transport the heaters. Thank you. '
 
 ---
 # Promoting Low Tech Ways to Heat and Cook
