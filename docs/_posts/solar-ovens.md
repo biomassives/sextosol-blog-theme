@@ -6,13 +6,11 @@ title: Solar Ovens
 date: 2021-04-24 04:00:00 +0000
 author: ''
 featuredimg: ''
-summary: The Sexto Sol Center promotes what is called "appropriate technology" which
-  is simply building low cost, low tech things that meet practical household needs
-  without creating pollution. Ideally we use found materials like cardboard boxes
-  to reduce not only cost but also to reduce solid waste, a big problem where there
-  is no formal recycling.  helping to improve the temperatures inside high mountain
-  schools so that children, who often don't have appropriate clothing for the cold,
-  can better concentrate and learn.
+summary: 'Help us place solar heaters in a very cold school. The principal has requested
+  urgent help from Sexto Sol. The school serves a poor community. Many children don''t
+  have adequate shoes or warm clothing. The freezing classrooms are in disrepair.
+  Education is the best way to break the cycle of poverty. Funds are needed for supplies
+  and to transport the heaters. Thank you. '
 
 ---
 # Promoting Low Tech Ways to Heat and Cook
