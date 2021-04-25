@@ -7,7 +7,9 @@ tags:
 - fair trade honey
 author: Tamara
 featuredimg: https://images.unsplash.com/photo-1482876555840-f31c5ebbff1c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80
-summary: For a moment she wondered how she had happened to wake so early.
+summary: Sexto Sol assists small, grower-managed organizations to become "certified"
+  to sell under fair trade contracts. We provide the guidance to help farmers grow
+  in their ability to administer their own enterprise.
 
 ---
 # Fair Trade
