@@ -5,7 +5,7 @@ tags:
 title: Reforestation
 date: 2021-04-24 04:00:00 +0000
 author: Tamara
-featuredimg: ''
+featuredimg: "/assets/img/header_forest.jpg"
 summary: Sexto Sol has been providing native trees to the community for reforestation
   since 1997. Local children come to Escuela Tierra Linda to help with the work in
   the nursery.
