@@ -1,7 +1,7 @@
 {
-  "name": "vuepress-theme-mediumish",
+  "name": "sextosol-blog-theme",
   "version": "1.0.32",
-  "description": "Mediumish blog theme for VuePress",
+  "description": "Vuepress site for sextosol center for community action",
   "keywords": [
     "vue",
     "vuepress",
@@ -12,10 +12,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "wowthemesnet/mediumish-vuepress-blog-theme"
+    "url": "biomassives/sextosol-blog-theme"
   },
   "license": "MIT",
-  "author": "sal<wowthemesnet@gmail.com>",
+  "orignal_author": "sal<wowthemesnet@gmail.com>",
+  "author": "Waidaka Maina<greg@ecocity.com>",
   "main": "index.js",
   "files": [
     "index.js",
