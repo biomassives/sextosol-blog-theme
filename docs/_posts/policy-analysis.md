@@ -2,9 +2,9 @@
 tags:
 - Globalization
 title: Policy Analysis
-date: 2021-04-24 04:00:00 +0000
+date: 2021-04-24T04:00:00.000+00:00
 author: Tamara
-featuredimg: ''
+featuredimg: "/assets/img/header_ribbonhats.jpg"
 summary: We can think of the current global economy as a work in progress requiring
   continued scrutiny to measure it's effectiveness in creating an improvement in the
   quality of life for the all.
