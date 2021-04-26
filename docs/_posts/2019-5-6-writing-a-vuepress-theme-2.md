@@ -6,7 +6,7 @@ tags:
 - sustainability
 - mexico
 author: Tamara
-featuredimg: https://images.unsplash.com/photo-1555819207-d089c9205ba5?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80
+featuredimg: "/assets/img/header_zinacatan.jpg"
 summary: The geographical distribution of the land within the tropics.
 
 ---
