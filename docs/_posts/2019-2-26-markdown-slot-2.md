@@ -1,9 +1,10 @@
 ---
 title: Suggested Reading List
 date: 2021-04-24 04:00:00 +0000
-tags: []
+tags:
+- reading list
 author: Tamara
-featuredimg: https://images.unsplash.com/photo-1501631957818-9f4b96ca2b0f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80
+featuredimg: "/assets/img/header_circulomale.jpg"
 summary: Greek police fired tear gas to repel hundreds of migrants.
 
 ---
