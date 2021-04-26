@@ -1,0 +1,614 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+<head> 
+<title>The Sexto Sol Center - Life-affirming policy
+</title> 
+ 
+<link rel="stylesheet" type="text/css" href="site_style.css" /> 
+ 
+ 
+</head> 
+ 
+<body> 
+<!-- START of freefind onpage results html --> 
+<!-- position these div's right after your body tag --> 
+ 
+<!--  FreeFind on-page results divs  --> 
+<div id="ffresult_win"   style=" z-index:1; padding: 20px 0 16px 0; margin:0px; width:538px; height:728px; border:none; 
+        display:none; position:absolute; top:0px; left:0px;"> 
+	<div  id="ffresult_bar" onmousedown="ffresults.drag(event,false)"  style="cursor: move; z-index:5; 
+        position:absolute; top:0px; left:0px; background-color:maroon; padding:0; text-align: right; width:100%; 
+        height:20px; display:block;  border:solid; border-width: 1px; border-bottom: 0px; border-color:maroon;"> 
+ 	<a  id="ffrclose" style="z-index:6; font-family: arial, verdana, sans-serif; font-size:8pt; color:white; " 
+        href="javascript:ffresults.hide()">Close window [X]</a>&nbsp;&nbsp;&nbsp;
+	</div> 
+	<div  id="ffresult_2" style="z-index:7; position: relative; height: 100%; background-color:white;  
+        display:block;"> 
+	<div  id="ffresult_cvr" style="z-index:0; position:absolute; top:0px; left:0px; display:block; width:100%;   
+        height:100%;"> 
+	</div> 
+	<iframe  id="ffresult_ifr" name="ffresult_frame"  style="z-index:1; position:absolute; top:0px; left:0px; 
+        border:solid; border-width: 0px 1px 0px 1px; border-color:gray;" src="" width="100%" height="100%" 
+        scrolling="auto" frameborder="0"> 
+	</iframe> 
+	</div> 
+ 	<div  id="ffresult_btm" style=" position:absolute; bottom:-1; left:0px; border:solid; border-color:gray; border-
+         width: 1px; border-top: 0px; display: block; z-index:18; background-color:#d0d0d0; width:100%; height:16px; " > 
+ 		<div  id="ffresult_sbx" onmousedown="ffresults.drag(event,true);" style="cursor: se-resize; 
+                float:right; border:none; border-color:gray; border-width: 0px; width:16px; height:16px; "><img     
+               style="" id="ffresult_szimg" height=16 width=16 border=0 src="" alt=""></div> 
+	</div> 
+</div> 
+ 
+ 
+<!--  FreeFind on-page results handler  --> 
+ 
+<script type="text/javascript"> 
+<!--
+var ffresults = {
+ 
+	// copyright 2008 - 2010 FreeFind.com - authorized for use with the FreeFind service only
+ 
+	// Start of config settings
+ 
+    autoPos : true,			// automatic initial window position / size.
+ 
+	// if autoPos if false, the following four numbers are used as initial window position and size
+ 
+	initialX : 78,			// left position (pixels)
+	initialY : 66,			// right position (pixels)
+	initialH : 395,			// height of window
+	initialW : 622,			// width of window
+ 
+	// choose a number for z-index that is high enough so the results window appears above other windows on your page
+ 
+	initialZ : 10000000,    // initial z-index of the results window
+ 
+	// the following value controls the color of the window's drag bar (top area of window)
+	barColor : 'navy',
+ 	// end of config settings
+ 	element : undefined,
+	cover : undefined,
+	mouseDownX : 0,
+	mouseDownY : 0,
+	objectX : 0,
+	objectY : 0,
+	objectH : 0,
+	objectW : 0,
+    ipos : false,
+	resize : false,
+ 	sizeImageUrl : 'http://search.freefind.com/img/rsize.gif',
+ 	selectFunc : undefined,
+	selectState : undefined,
+	mozSelect : undefined,
+ 
+	noSelect : function()
+	{
+	    var obj = document.body;
+ 
+        ffresults.selectFunc = obj.onselectstart;
+		ffresults.selectState = obj.unselectable;
+		ffresults.mozSelect = obj.style.MozUserSelect;
+ 
+		obj.onselectstart = function(){ return false; };
+		obj.unselectable = 'on';
+		obj.style.MozUserSelect = 'none';
+	},
+ 
+	restoreSelect : function()
+	{
+	    var obj = document.body;
+ 
+		obj.onselectstart = ffresults.selectFunc;
+		obj.unselectable = ffresults.selectState;
+		obj.style.MozUserSelect = ffresults.mozSelect;
+	},
+ 
+ 
+	drag : function (e,size)
+	{
+		if(!document.getElementById) return;
+ 
+		if(!e) e = window.event;
+		var targ = e.target || e.srcElement;
+	    ffresults.resize = size;
+ 
+		if(targ.id != 'ffresult_bar' && targ.id != 'ffresult_szimg') return true;
+		ffresults.noSelect();
+ 
+		ffresults.element = document.getElementById('ffresult_win');
+		ffresults.objectX = parseInt(ffresults.element.style.left,10);
+		ffresults.objectY = parseInt(ffresults.element.style.top,10);
+		ffresults.objectH = parseInt(ffresults.element.style.height,10);
+		ffresults.objectW = parseInt(ffresults.element.style.width,10);
+ 
+		ffresults.cover = document.getElementById('ffresult_cvr');
+		ffresults.cover.style.zIndex = '40';
+		ffresults.mouseDownX = e.clientX;
+		ffresults.mouseDownY = e.clientY;
+		if(e.preventDefault) e.preventDefault();
+		e.returnValue = false;
+		e.cancelBubble = true;
+		ffresults.attach(document,"mouseup",ffresults.drop);
+		ffresults.attach(document,"mousemove",ffresults.move);
+	},
+ 
+ 
+ 
+ 
+	attach : function(to,eventname,func)
+	{
+		if(to.addEventListener)
+			to.addEventListener(eventname,func,false);
+		else
+			to.attachEvent("on" + eventname,func);
+	},
+ 
+	detach : function(to,eventname,func)
+	{
+		if(to.removeEventListener)
+			to.removeEventListener(eventname,func,false);
+		else
+			to.detachEvent("on" + eventname,func);
+	},
+ 
+	drop : function(e)
+	{
+		ffresults.detach(document,"mouseup",ffresults.drop);
+		ffresults.detach(document,"mousemove",ffresults.move);
+		ffresults.cover.style.zIndex = 0;
+		ffresults.element = null;
+		ffresults.restoreSelect();
+	},
+ 
+	move: function(e)
+	{
+	   if(!e) e = window.event;
+ 
+	   e.returnValue = false;
+	   e.cancelBubble = true;
+	   if(e.preventDefault) e.preventDefault();
+ 
+		var x = e.clientX;
+		var y = e.clientY;
+ 
+		if(ffresults.resize)
+		{
+			var winW = ffresults.objectW + x - ffresults.mouseDownX;
+			var winH = ffresults.objectH + y - ffresults.mouseDownY;
+ 
+			if(winH < 128) winH = 128;
+			if(winW < 128) winW = 128;
+ 
+			ffresults.element.style.width = winW + "px";
+			ffresults.element.style.height = winH + "px";
+		}
+		else
+		{
+			var left = ffresults.objectX + x - ffresults.mouseDownX;
+			var top = ffresults.objectY + y - ffresults.mouseDownY;
+ 
+			ffresults.element.style.left = left + "px";
+			ffresults.element.style.top = top + "px";
+		}
+ 
+ 
+	},
+ 
+	hide : function()
+	{
+		var rStyle = document.getElementById('ffresult_win').style;
+		rStyle.display = "none";
+		rStyle.zIndex = 0;
+		var ifr = document.getElementById('ffresult_ifr');
+		if(ifr) ifr.src="";
+		var szImg = document.getElementById('ffresult_szimg');
+		if(szImg) szImg.src = "";
+ 
+	},
+ 
+ 
+	show : function(num)
+	{
+		if(!document.getElementById) return;
+ 
+		var searchForm = document.getElementById('ffresult_sbox'+num);
+		var idxLink = document.getElementById('ffresult_idx'+num);
+		var smpLink = document.getElementById('ffresult_smp'+num);
+		var advLink = document.getElementById('ffresult_adv'+num);
+ 
+		if(searchForm) searchForm.target = 'ffresult_frame';
+		if(idxLink) idxLink.target = 'ffresult_frame';
+		if(smpLink) smpLink.target = 'ffresult_frame';
+		if(advLink) advLink.target = 'ffresult_frame';
+ 
+		var rDiv = document.getElementById('ffresult_win');
+ 
+		if(!ffresults.ipos)
+		{
+		    if(ffresults.autoPos)
+			{
+			    ffresults.computePos(rDiv);
+			}
+			else
+			{
+				rDiv.style.top = ffresults.initialY + 'px';
+				rDiv.style.left = ffresults.initialX + 'px';
+				rDiv.style.width = ffresults.initialW + 'px';
+				rDiv.style.height = (ffresults.initialH - 36) + 'px';
+			}
+			ffresults.ipos = true;
+		}
+ 
+		var szImg = document.getElementById('ffresult_szimg');
+		if(szImg) szImg.src = ffresults.sizeImageUrl;
+ 
+		var dragBar = document.getElementById('ffresult_bar');
+		if(dragBar)
+		{
+			dragBar.style.backgroundColor = ffresults.barColor;
+			dragBar.style.borderColor = ffresults.barColor;
+		}
+ 
+		rDiv.style.zIndex = ffresults.initialZ;
+		rDiv.style.display = "block";
+	},
+ 
+ 
+ 
+	computePos : function(rDiv)
+	{
+ 
+		var view = ffresults.viewSize();
+		var w = parseInt(view.width * 0.75,10);
+		var h = parseInt(view.height * 0.75,10);
+		if(w < 220) w = 220;
+		if(h < 220) h = 220;
+ 
+ 
+		var left = parseInt((view.width - w ) / 2,10);
+		var top = parseInt((view.height - (h + 36)) / 2,10);
+ 
+ 
+		if(left < 0) left = 0;
+		if(top < 0) top = 0;
+ 
+		rDiv.style.top = (top + view.scrollY) + 'px';
+		rDiv.style.left =  (left + view.scrollX) + 'px';
+		rDiv.style.width =  w + 'px';
+		rDiv.style.height =  h + 'px';
+ 
+	},
+ 
+	viewSize : function()
+	{
+		var w = 0;
+		var h = 0;
+		var sx = 0;
+		var sy = 0;
+ 
+	    if(window.innerWidth)
+		{  // non-ie
+		   w = window.innerWidth;
+		   h = window.innerHeight;
+		   sx = window.pageXOffset;
+		   sy = window.pageYOffset;
+		}
+		else
+		{
+		    var elem;
+			if(document.documentElement && document.documentElement.clientWidth != 0)
+			{   // ie strict
+				elem = document.documentElement;
+			}
+			else
+			{	// ie quirks
+				elem = document.body;
+			}
+			w = elem.clientWidth;
+			h = elem.clientHeight;
+			sx = elem.scrollLeft;
+			sy = elem.scrollTop;
+ 
+		}
+ 
+ 
+		return {width: w,height: h, scrollX: sx, scrollY: sy};
+ 
+	}
+ 
+ 
+};
+ 
+//-->
+</script> 
+<!-- END of freefind onpage results html --> 
+ 
+<div id="wrapper"> 
+ 
+<div id="header"> 
+<img align=center src="http://www.sextosol.org/images/headers/header_zinacatan.jpg"
+ WIDTH=727 vspace="5" hspace="5" align="bottom" border="1"> 
+ 
+<div id="headertools"> 
+ 
+<!-- start of freefind search box html -->
+<script>
+var ffBValue = null;
+function ffOnFocus(e) {
+    if(ffBValue == null) {
+         ffBValue = e.value.split();
+   }
+    if(ffBValue == e.value) {
+         e.value = "";
+    }
+
+}
+
+function ffOnBlur(e) {
+
+    if(e.value.length == 0) {
+
+         e.value = ffBValue;
+
+    }
+
+}
+
+</script>
+
+<table cellpadding=0 cellspacing=0 border=0 >
+   <tr>
+    <td colspan=2 style="font-family: Arial, Helvetica, sans-serif; font-size: 7.5pt;">
+        <form id="ffresult_sbox0" style="margin:0px; margin-top:4px;" action="http://search.freefind.com/find.html" method="get" accept-charset="utf-8" onsubmit="ffresults.show(0);">
+         <input type="hidden" name="si" value="89915721">
+         <input type="hidden" name="pid" value="r">
+         <input type="hidden" name="n" value="0">
+         <input type="hidden" name="_charset_" value="">
+         <input type="hidden" name="bcd" value="&#247;">
+         <input type="hidden" name="sbv" value="j1">
+         <input style="color:silver;" type="text" name="query" size="12" value="search this site" onfocus="ffOnFocus(this);" onblur="ffOnBlur(this);">
+         <input style="padding-left:1px;padding-right:1px;" type="submit" value="go">
+         </form>
+        </td>
+
+        </tr>
+      </table>
+
+<!-- end of freefind search box html -->
+
+<a href="http://www.facebook.com/pages/The-Sexto-Sol-Center/211129337269?ref=ts"> 
+    <img src="images/index/facebook.png" width="144" border="1" borderColor=#606060 padding-top="10px" 
+
+    align="bottom"></a> 
+ 
+<!-- DONATE BUTTON BEGINS --> 
+<div class="topbuttons">
+    <a class="donate" href="http://www.sextosol.org/donations.html">
+    <img src="http://www.sextosol.org/images/buttons/DonateClear.png" alt="" />
+    </a>
+</div>
+
+<!-- DONATE BUTTON ENDS -->   
+ 
+ 
+</div></div> 
+ 
+<div id="nav">
+<div id="menu">		
+	
+	<ul>
+	<li><a href="http://www.sextosol.org/index.html">Home</a></li>
+	<li><a href="http://www.sextosol.org/espanol.html">Espa&ntilde;ol</a></li>
+	<li><a href="http://www.sextosol.org/the_work.html">Philosophy</a>
+		<ul>
+		<li><a href="http://www.sextosol.org/the_work.html">Our Approach</a></li>
+		<li><a href="http://www.sextosol.org/commitments.html">Commitments</a></li>
+		</ul>
+	</li>
+	<li><a href="http://www.sextosol.org/issues.html">Issues</a>
+		<ul>
+		<li><a href="http://www.sextosol.org/immigration.html">Poverty</a></li>
+		<li><a href="http://www.sextosol.org/coffee_concerns.html">Coffee Challenges</a></li>
+		<li><a href="http://www.sextosol.org/eco_concerns.html">Environment</a></li>
+                <li><a href="http://www.sextosol.org/women.html">Women</a></li>
+		<li><a href="http://www.sextosol.org/reading_room.html">Suggested Reading</a></li>
+		</ul>
+	</li>
+
+	<li><a href="http://www.sextosol.org/overview.html">What We Do</a>
+		<ul>
+		<li><a href="http://www.sextosol.org/sustainableLivelihoods.html">Sustainable Livelihoods</a>
+			<ul>
+			<li><a href="http://www.sextosol.org/coffee_solutions.html">Coffee Solutions</a></li>
+			<li><a href="http://www.sextosol.org/fair_trade.html">Fair Trade</a></li>
+			<li><a href="http://www.sextosol.org/Artisans.html">Artisan Cooperatives</a></li>
+                        <li><a href="http://www.sextosol.org/eco_tourism.html">Eco Tourism</a></li>
+			<li><a href="http://www.sextosol.org/women.html">Women</a></li>
+	    	</ul>
+	    </li>
+	    <li><a href="#">Sustainable Food</a>
+	    	<ul>
+	    	<li><a href="http://www.sextosol.org/permaculture.html">Permaculture School</a></li>
+	    	<li><a href="http://www.sextosol.org/food_gardening.html">Family Gardens</a></li>
+	    	<li><a href="http://www.sextosol.org/Ecovillages.html">Ecovillages</a></li>
+	    	</ul>
+	    </li>
+	    <li><a href="#">Solar Solutions</a>
+	    	<ul>
+	    	<li><a href="http://www.sextosol.org/approptech.html">Solar Ovens</a></li>
+	    	<li><a href="http://www.sextosol.org/approptech.html">Solar Furnance</a></li>
+	    	<li><a href="http://www.sextosol.org/approptech.html">Water Heaters</a></li>
+	    	</ul>
+	    </li>
+	    <li><a href="#">Improving Schools</a>
+	    	<ul>
+	    	<li><a href="http://www.sextosol.org/children.html">Children/Bilingual Education</a></li>
+	    	<li><a href="http://www.sextosol.org/books.html">Books and Encyclopedias</a></li>
+	    	<li><a href="http://www.sextosol.org/infrastructure.html">Improving Infrastructure</a></li>
+	    	<li><a href="http://www.sextosol.org/languages.html">Promoting Indigenous Languages</a></li>
+	    	</ul>
+	    </li>
+	    <li><a href="#">Environment</a>
+	    	<ul>
+	    	<li><a href="http://www.sextosol.org/reforestation.html">Reforestation</a></li>
+	    	<li><a href="http://www.sextosol.org/environment.html">Environmental Justice</a></li>
+	    	<li><a href="http://www.sextosol.org/upcycle.html">Upcycling</a></li>
+	    	</ul>
+	    </li>
+	    <li><a href="#">Helping Survivors</a>
+	    	<ul>
+	    	<li><a href="http://www.sextosol.org/heal_trauma.html">Healing Trauma</a></li>
+	    	<li><a href="http://www.sextosol.org/relief.html">Disaster Relief</a></li>
+	    	<li><a href="http://www.sextosol.org/HurricaneStan.html">Hurricane Stan</a></li>
+	    	</ul>
+	    </li>
+	    <li><a href="#">Advocacy Work</a>
+	    	<ul>
+	    	<li><a href="/policy.html">Policy</a></li>
+	    	<li><a href="/grassroots.html">Supporting Grassroots Organizations</a></li>
+	    	</ul>
+	    </li>
+	    <li><a href="http://www.sextosol.org/globalization_analysis.html">Policy Analysis</a>
+	    	<ul>
+	    	<li><a href="http://www.sextosol.org/globalization.html">Globalization</a></li>
+	    	<li><a href="http://www.sextosol.org/indigenouspeoples.html">Indigenous Peoples</a></li>
+	    	<li><a href="http://www.sextosol.org/Poverty_Reduction.html">Poverty Reduction Strategies</a></li>
+	    	</ul>
+	    </li>
+		</ul>
+	</li>
+
+	<li><a href="http://www.sextosol.org/volunteers.html">Volunteer</a>
+		<ul>
+		<li><a href="http://www.sextosol.org/volunteers.html">Current Openings</a></li>
+		<li><a href="http://www.sextosol.org/volunteers.html">Internships</a></li>
+		</ul>
+	</li>
+	<li><a href="http://www.sextosol.org/contact.html">Contact Us</a></li>
+	<li><a href="http://www.sextosol.org/donations.html">Make A Donation</a></li>
+	</ul>
+</div>
+</div>
+
+
+
+
+<div id="navprograms">
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+ 
+<!-- // MAILCHIMP SUBSCRIBE CODE \\ -->
+<center><a href="http://eepurl.com/b6CyD" target="_blank">Subscribe to our newsletter</a></center>
+<!-- \\ MAILCHIMP SUBSCRIBE CODE // -->
+<br>
+ 
+ <!-- PUT YOUR NEWS ITEMS HERE -->
+&nbsp;
+&nbsp;
+<p><h4>June, 2012:  Sexto Sol at the U.N. Rio+20 Summit<h4></p>
+
+<img src="images/volunteers/Kraince.JPG" width="148" align="center"> 
+
+<p><h4>Dr. Richard Kraince will be attending the Summit as a delegate for the Sexto Sol Center.  We are happy to assist him to further his important research, see below. We look forward to his report on the on-going debate about the best approach for reaching the goals identified 20 years ago at the original Summit.</h4></p>
+
+<p> 
+<h4>Dr. Richard Kraince is a Research Professor at El Colegio de Mexico where he conducts research on social movements in Southeast Asia. He is currently involved in a research project on environmental justice and is exploring the dynamics among transnational movements that link activists from Latin America, Southeast Asia and Pacific island states. He has recently accepted a new faculty position at Antioch College where he will concentrate on the role of higher education in social change as Associate Professor of Cooperative Education beginning in the summer of 2012.
+
+</h4></p>
+
+
+<center>
+<script type="text/javascript" src="http://jj.revolvermaps.com/t.js"></script><script type="text/javascript">rmt_ki101('0',130,'9dl9sih00gd','00fff6');</script>
+</center>
+
+
+</div>
+
+<div id="main"> 
+ 
+
+<h1>Advocacy work to promote life-affirming policy</h1>
+
+<center><h4>"The unfinished work of our heroes, truely must be our own." 
+Ben Harper</h4></center>
+
+<p>At the Sexto Sol Center, we are committed to doing our part to help move the world toward a humane and inclusive political culture based on the truth that all life is sacred. Human rights, and environmental integrity, as well as the full participation of indigenous nations are of paramount concern to us.</p>
+
+<p>It is obvious that we must abandon the destructive consumption patterns of modern life.  The "throw-away" mentality of the way goods are produced has depended on the subjugation of native peoples, local economies and of nature in order to satisfy it's voracious appetite for raw materials and for markets. Policy making that impacts in one way or another the use of natural resources is a vast arena where much work should be focused by the world community.</p>
+
+<p>The Sexto Sol Center for Community Action has joined with other representatives of civil society from around the world in international meetings and forums as we have worked together to tip the scales in policy debates toward the side that protects Life. This has included the United Nations World Summit on Sustainable Development in Johannesburg, ZA and two sessions of the UN Commission for Sustainable Development.  We have served as delegate for CAPAJ, Comision  Juridica Para el Autodesarrollo de los Pueblos Originarios Andinos, at two sessions of the UN Permanent Forum on Indigenous Issues.  We continue to do on-going solidarity work for this important organization that furthers the human rights and interests of Andean peoples. </p>
+
+<p>Locally, Sexto Sol is often asked to contribute to plenary sessions of government sponsored conferences and other organizational meetings where policy is discussed.  Above all, we seek to help local people find their voice as they consider policy affecting them. </p>
+
+&nbsp;
+&nbsp;
+<h3>Fortunately for everyone, globally civil society is alive, well and growing in capacity...</h3>
+
+
+
+</div>
+ 
+<div id="adsright">
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+<div id="wrapperamazon">
+<!--Amazon promo--> 
+ <table border="1" borderColor="FFFFFF" cellpadding="10" cellspacing=0 width="148" align="center">
+   <tr>
+     <td bgcolor="#FFCC99">
+    
+<center>
+<a href="http://www.amazon.com/exec/obidos/redirect-home/sextosolcen0c-20" target="_blank" >
+<img src="http://www.sextosol.org/images/buttons/logo_amazon.jpg" width="100" border="1" alt="" ></a>
+</center>
+      &nbsp;
+
+      <font size="2" font face="Verdana, Arial, sans-serif" color="black">
+      <center> <b>Help Sexto Sol when you buy from this link</p>
+       &nbsp;
+       
+      <p>CLICK ON BOX</p>   
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
+       Tell your friends</b></p>
+      </center>  
+      </td>
+    </tr>
+  </table>
+ 
+<!--end of Amazon promo --> 
+  
+</div> 
+<p>
+ 
+
+</div>
+
+<div id="footer">
+    
+    <font face="Verdana, Arial, Helvetica, sans-serif" size="1" fontcolor="000000">
+
+    The Sexto Sol Center - 3514 E. Contessa, Mesa, Arizona, 85213-7036 U.S.A. (480) 854-7583<br>
+
+    Field Office: Instituto Sexto Sol, Apartado Postal 64, Motozintla, Chiapas, CP 30900, Mexico, 
+
+    Cell: +52-1-962-109-4824<br> 
+
+    <a href="mailto:tamara@sextosol.org"><b>tamara@sextosol.org</b></a> (English y español) - 
+
+    <a href="mailto:francisco@sextosol.org"><b>francisco@sextosol.org</b></a> (español)<br>
+
+    The Sexto Sol Center for Community Action, 2011, All Rights Reserved
+
+</div>    
+</div>
+</body>
+</html>
