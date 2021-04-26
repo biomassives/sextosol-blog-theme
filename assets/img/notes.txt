@@ -1,0 +1,10 @@
+sextoso.org site is maintained via forestry.io
+
+initial build is at https://sextosol-blog-theme.vercel.app/ 
+
+you can download site code via
+https://github.com/biomassives/sextosol-blog-theme/archive/refs/heads/master.zip
+
+for support contact greg@ecocity.com
+
+site is deployed via vercel at >> https://vercel.com/ecwo/sextosol-blog-theme
