@@ -1,9 +1,10 @@
 ---
 title: Sustainable Livelihoods
 date: 2021-04-24 04:00:00 +0000
-tags: []
+tags:
+- sustainable livelihoods
 author: Tamara
-featuredimg: https://images.unsplash.com/photo-1566224425427-998503a013f6?ixlib=rb-1.2.1&auto=format&fit=crop&w=898&q=80
+featuredimg: "/assets/img/header_tzobolic.jpg"
 summary: Our programs have grown in direct response to the requests for our assistance
   and collaboration by the communities we serve. As we update our site we will provide
   a general overview here. Meanwhile please read about each program from the menu
