@@ -5,7 +5,7 @@ tags:
 title: Volunteer and Internship Program
 date: 2021-04-24 04:00:00 +0000
 author: Tamara
-featuredimg: "/assets/img/ac_nicerelief.JPG"
+featuredimg: "/assets/img/header_kidsmale.jpg"
 summary: ''
 
 ---
