@@ -1,0 +1,28 @@
+ <html><HEAD><TITLE>Image Gallery</title></head><body bgcolor=white><h2>Image Gallery</h2>
+<font size=+1>Folder: acupuncture</font><P><img src="/gallery/buttons/folder.gif" border=0 width=17 height=17 align=texttop> <A href=index.php> Gallery Index </a><br>
+<P><A HREF="" onclick="javascript:window.open('slideshow.php?title=&dir=./acupuncture','slideshow','scrollbars=yes,resizable=yes,status=no,width=520,height=520');return false;"><FONT SIZE=+1><B>SLIDESHOW MODE</B></FONT></a><p><center><table border=0 cellpadding=5><tr>
+<td><a href=index.php?document=.%2Facupuncture/AC_Docs.jpg&dir=.%2Facupuncture><img src="thumb/tn_AC_Docs.jpg" border=0  height=300></a></td>
+<td><a href=index.php?document=.%2Facupuncture/AC_3constancias.JPG&dir=.%2Facupuncture><img src="thumb/tn_AC_3constancias.JPG" border=0  height=300></a></td>
+</tr></table>
+<table><tr><td><a href=index.php?document=.%2Facupuncture/AC_5enBel.jpg&dir=.%2Facupuncture><img src="thumb/tn_AC_5enBel.jpg" border=0  height=300></a></td>
+<td><a href=index.php?document=.%2Facupuncture/AC_Brigad.jpg&dir=.%2Facupuncture><img src="thumb/tn_AC_Brigad.jpg" border=0  height=300></a></td>
+</tr></table>
+<table><tr><td><a href=index.php?document=.%2Facupuncture/AC_Congrats.JPG&dir=.%2Facupuncture><img src="thumb/tn_AC_Congrats.JPG" border=0  height=300></a></td>
+<td><a href=index.php?document=.%2Facupuncture/AC_Della.JPG&dir=.%2Facupuncture><img src="thumb/tn_AC_Della.JPG" border=0  height=300></a></td>
+</tr></table>
+<table><tr><td><a href=index.php?document=.%2Facupuncture/AC_GreenDress.jpg&dir=.%2Facupuncture><img src="thumb/tn_AC_GreenDress.jpg" border=0  height=300></a></td>
+<td><a href=index.php?document=.%2Facupuncture/AC_LittleTio.jpg&dir=.%2Facupuncture><img src="thumb/tn_AC_LittleTio.jpg" border=0  height=300></a></td>
+</tr></table>
+<table><tr><td><a href=index.php?document=.%2Facupuncture/AC_MirGreen.jpg&dir=.%2Facupuncture><img src="thumb/tn_AC_MirGreen.jpg" border=0  height=300></a></td>
+<td><a href=index.php?document=.%2Facupuncture/AC_NiceRelief.JPG&dir=.%2Facupuncture><img src="thumb/tn_AC_NiceRelief.JPG" border=0  height=300></a></td>
+</tr></table>
+<table><tr><td><a href=index.php?document=.%2Facupuncture/AC_Quiet.JPG&dir=.%2Facupuncture><img src="thumb/tn_AC_Quiet.JPG" border=0  height=300></a></td>
+<td><a href=index.php?document=.%2Facupuncture/AC_SoiberGirl.jpg&dir=.%2Facupuncture><img src="thumb/tn_AC_SoiberGirl.jpg" border=0  height=300></a></td>
+</tr></table>
+<table><tr><td><a href=index.php?document=.%2Facupuncture/AC_YES.JPG&dir=.%2Facupuncture><img src="thumb/tn_AC_YES.JPG" border=0  height=300></a></td>
+<td><a href=index.php?document=.%2Facupuncture/AC_comentando.JPG&dir=.%2Facupuncture><img src="thumb/tn_AC_comentando.JPG" border=0  height=300></a></td>
+</tr></table>
+<table><tr><td><a href=index.php?document=.%2Facupuncture/AC_groupI.jpg&dir=.%2Facupuncture><img src="thumb/tn_AC_groupI.jpg" border=0  height=300></a></td>
+<td><a href=index.php?document=.%2Facupuncture/DrWeinerEFTHUB.jpg&dir=.%2Facupuncture><img src="thumb/tn_DrWeinerEFTHUB.jpg" border=0  height=300></a></td>
+</tr></table>
+<div align=right><font size=-1>Image Gallery Tool by <A HREF="http://planetmind.net">Planetmind Internetworks</A></font></div></body></html>

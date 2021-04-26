@@ -1,0 +1,5 @@
+ <html><HEAD><TITLE>Image Gallery</title></head><body bgcolor=white><h2>Image Gallery</h2>
+<font size=+1>Folder: commitments</font><P><img src="/gallery/buttons/folder.gif" border=0 width=17 height=17 align=texttop> <A href=index.php> Gallery Index </a><br>
+<P><A HREF="" onclick="javascript:window.open('slideshow.php?title=&dir=./commitments','slideshow','scrollbars=yes,resizable=yes,status=no,width=520,height=520');return false;"><FONT SIZE=+1><B>SLIDESHOW MODE</B></FONT></a><p><center><table border=0 cellpadding=5><tr>
+</tr></table>
+<div align=right><font size=-1>Image Gallery Tool by <A HREF="http://planetmind.net">Planetmind Internetworks</A></font></div></body></html>

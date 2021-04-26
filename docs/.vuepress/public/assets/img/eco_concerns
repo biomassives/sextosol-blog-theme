@@ -1,0 +1,13 @@
+ <html><HEAD><TITLE>Image Gallery</title></head><body bgcolor=white><h2>Image Gallery</h2>
+<font size=+1>Folder: eco_concerns</font><P><img src="/gallery/buttons/folder.gif" border=0 width=17 height=17 align=texttop> <A href=index.php> Gallery Index </a><br>
+<P><A HREF="" onclick="javascript:window.open('slideshow.php?title=&dir=./eco_concerns','slideshow','scrollbars=yes,resizable=yes,status=no,width=520,height=520');return false;"><FONT SIZE=+1><B>SLIDESHOW MODE</B></FONT></a><p><center><table border=0 cellpadding=5><tr>
+<td><a href=index.php?document=.%2Feco_concerns/eco_flowers_oldtimers_reminisce.jpg&dir=.%2Feco_concerns><img src="thumb/tn_eco_flowers_oldtimers_reminisce.jpg" border=0  height=300></a></td>
+<td><a href=index.php?document=.%2Feco_concerns/eco_buildings_mountain.jpg&dir=.%2Feco_concerns><img src="thumb/tn_eco_buildings_mountain.jpg" border=0  height=300></a></td>
+</tr></table>
+<table><tr><td><a href=index.php?document=.%2Feco_concerns/selva.jpg&dir=.%2Feco_concerns><img src="thumb/tn_selva.jpg" border=0  height=300></a></td>
+<td><a href=index.php?document=.%2Feco_concerns/eco_loggingtruck.jpg&dir=.%2Feco_concerns><img src="thumb/tn_eco_loggingtruck.jpg" border=0  height=300></a></td>
+</tr></table>
+<table><tr><td><a href=index.php?document=.%2Feco_concerns/eco_mountaintown.jpg&dir=.%2Feco_concerns><img src="thumb/tn_eco_mountaintown.jpg" border=0  height=300></a></td>
+<td><a href=index.php?document=.%2Feco_concerns/primavera.jpg&dir=.%2Feco_concerns><img src="thumb/tn_primavera.jpg" border=0  height=300></a></td>
+</tr></table>
+<div align=right><font size=-1>Image Gallery Tool by <A HREF="http://planetmind.net">Planetmind Internetworks</A></font></div></body></html>

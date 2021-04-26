@@ -1,0 +1,45 @@
+ <html><HEAD><TITLE>Image Gallery</title></head><body bgcolor=white><h2>Image Gallery</h2>
+<font size=+1>Folder: children</font><P><img src="/gallery/buttons/folder.gif" border=0 width=17 height=17 align=texttop> <A href=index.php> Gallery Index </a><br>
+<P><A HREF="" onclick="javascript:window.open('slideshow.php?title=&dir=./children','slideshow','scrollbars=yes,resizable=yes,status=no,width=520,height=520');return false;"><FONT SIZE=+1><B>SLIDESHOW MODE</B></FONT></a><p><center><table border=0 cellpadding=5><tr>
+<td><a href=index.php?document=.%2Fchildren/Hats_babyface.jpg&dir=.%2Fchildren><img src="thumb/tn_Hats_babyface.jpg" border=0  height=300></a></td>
+<td><a href=index.php?document=.%2Fchildren/GirlsFaces.JPG&dir=.%2Fchildren><img src="thumb/tn_GirlsFaces.JPG" border=0  height=300></a></td>
+</tr></table>
+<table><tr><td><a href=index.php?document=.%2Fchildren/GirlsLC.JPG&dir=.%2Fchildren><img src="thumb/tn_GirlsLC.JPG" border=0  height=300></a></td>
+<td><a href=index.php?document=.%2Fchildren/classroom_good.jpg&dir=.%2Fchildren><img src="thumb/tn_classroom_good.jpg" border=0  height=300></a></td>
+</tr></table>
+<table><tr><td><a href=index.php?document=.%2Fchildren/NiceBench.JPG&dir=.%2Fchildren><img src="thumb/tn_NiceBench.JPG" border=0  height=300></a></td>
+<td><a href=index.php?document=.%2Fchildren/TamLittleGuy.JPG&dir=.%2Fchildren><img src="thumb/tn_TamLittleGuy.JPG" border=0  height=300></a></td>
+</tr></table>
+<table><tr><td><a href=index.php?document=.%2Fchildren/biblitecario.jpg&dir=.%2Fchildren><img src="thumb/tn_biblitecario.jpg" border=0  height=300></a></td>
+<td><a href=index.php?document=.%2Fchildren/smiling_painters.jpg&dir=.%2Fchildren><img src="thumb/tn_smiling_painters.jpg" border=0  height=300></a></td>
+</tr></table>
+<table><tr><td><a href=index.php?document=.%2Fchildren/children_girl_behindflowers.jpg&dir=.%2Fchildren><img src="thumb/tn_children_girl_behindflowers.jpg" border=0  height=300></a></td>
+<td><a href=index.php?document=.%2Fchildren/children_girl_peacock.jpg&dir=.%2Fchildren><img src="thumb/tn_children_girl_peacock.jpg" border=0  height=300></a></td>
+</tr></table>
+<table><tr><td><a href=index.php?document=.%2Fchildren/children_girl_withguitar.jpg&dir=.%2Fchildren><img src="thumb/tn_children_girl_withguitar.jpg" border=0  height=300></a></td>
+<td><a href=index.php?document=.%2Fchildren/children_twogigglingboys.jpg&dir=.%2Fchildren><img src="thumb/tn_children_twogigglingboys.jpg" border=0  height=300></a></td>
+</tr></table>
+<table><tr><td><a href=index.php?document=.%2Fchildren/cuatesvegar.jpg&dir=.%2Fchildren><img src="thumb/tn_cuatesvegar.jpg" border=0  height=300></a></td>
+<td><a href=index.php?document=.%2Fchildren/girls_bellisario.jpg&dir=.%2Fchildren><img src="thumb/tn_girls_bellisario.jpg" border=0  height=300></a></td>
+</tr></table>
+<table><tr><td><a href=index.php?document=.%2Fchildren/thumbs_up2.jpg&dir=.%2Fchildren><img src="thumb/tn_thumbs_up2.jpg" border=0  height=300></a></td>
+<td><a href=index.php?document=.%2Fchildren/Doce1.JPG&dir=.%2Fchildren><img src="thumb/tn_Doce1.JPG" border=0  height=300></a></td>
+</tr></table>
+<table><tr><td><a href=index.php?document=.%2Fchildren/thumbs_up.jpg&dir=.%2Fchildren><img src="thumb/tn_thumbs_up.jpg" border=0  height=300></a></td>
+<td><a href=index.php?document=.%2Fchildren/Doce5.JPG&dir=.%2Fchildren><img src="thumb/tn_Doce5.JPG" border=0  height=300></a></td>
+</tr></table>
+<table><tr><td><a href=index.php?document=.%2Fchildren/Doce6.JPG&dir=.%2Fchildren><img src="thumb/tn_Doce6.JPG" border=0  height=300></a></td>
+<td><a href=index.php?document=.%2Fchildren/PedroStudents.jpg&dir=.%2Fchildren><img src="thumb/tn_PedroStudents.jpg" border=0  height=300></a></td>
+</tr></table>
+<table><tr><td><a href=index.php?document=.%2Fchildren/Sweetie_blanket.jpg&dir=.%2Fchildren><img src="thumb/tn_Sweetie_blanket.jpg" border=0  height=300></a></td>
+<td><a href=index.php?document=.%2Fchildren/Doce5boys.JPG&dir=.%2Fchildren><img src="thumb/tn_Doce5boys.JPG" border=0  height=300></a></td>
+</tr></table>
+<table><tr><td><a href=index.php?document=.%2Fchildren/smiling_painters2.jpg&dir=.%2Fchildren><img src="thumb/tn_smiling_painters2.jpg" border=0  height=300></a></td>
+<td><a href=index.php?document=.%2Fchildren/Giggle.jpg&dir=.%2Fchildren><img src="thumb/tn_Giggle.jpg" border=0  height=300></a></td>
+</tr></table>
+<table><tr><td><a href=index.php?document=.%2Fchildren/BenchesMark.jpg&dir=.%2Fchildren><img src="thumb/tn_BenchesMark.jpg" border=0  height=300></a></td>
+<td><a href=index.php?document=.%2Fchildren/CroppedThumbsUp.jpg&dir=.%2Fchildren><img src="thumb/tn_CroppedThumbsUp.jpg" border=0  height=300></a></td>
+</tr></table>
+<table><tr><td><a href=index.php?document=.%2Fchildren/classroom_good-1.jpg&dir=.%2Fchildren><img src="thumb/tn_classroom_good-1.jpg" border=0  height=300></a></td>
+</tr></table>
+<div align=right><font size=-1>Image Gallery Tool by <A HREF="http://planetmind.net">Planetmind Internetworks</A></font></div></body></html>
