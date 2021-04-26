@@ -7,7 +7,7 @@ module.exports = themeConfig => {
    * Default theme configuration
    */
   themeConfig = Object.assign(themeConfig, {
-    logo: '/assets/img/logo.png',
+    logo: 'https://cdn.forestry.io/res2/5nCQbpDfRJxHCjIoded-EMLNZGp_hfoVa4yFLWdclK4/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDUjFsdGNFRjNQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tN2Iw/NGFiMjMwNjQzY2Yx/YjA1NTlmOTkwZjZk/NDQ2MWFlNWM2MjE5/OC9TY3JlZW5zaG90/XzIwMjEtMDQtMjYl/MjBWb2x1bnRlZXIl/MjBhbmQlMjBJbnRl/cm5zaGlwJTIwUHJv/Z3JhbSUyMC0lMjBT/ZXh0byUyMFNvbCwl/MjBNZXhpY28lMjBh/bmQlMjBHdWF0ZW1h/bGEucG5n',
     nav: themeConfig.nav || [
       {
         text: 'Blog',
