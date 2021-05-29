@@ -6,7 +6,8 @@ tags:
 - vuepress
 author: John Doe
 featuredimg: "/assets/img/seedssmiling.JPG"
-summary: Between these triple-dashed lines, you can set predefined variables.
+summary: Giving women access to water in their homes; Empowering women to overcome
+  the trauma of domestic violence
 
 ---
 # Advancing the Interests of Women
