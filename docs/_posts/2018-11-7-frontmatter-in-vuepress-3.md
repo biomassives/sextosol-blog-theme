@@ -1,6 +1,6 @@
 ---
 title: Women
-date: 2021-04-24 04:00:00 +0000
+date: 2021-04-24T04:00:00.000+00:00
 tags:
 - frontmatter
 - vuepress
@@ -11,15 +11,13 @@ summary: Between these triple-dashed lines, you can set predefined variables.
 ---
 # Advancing the Interests of Women
 
-### Imagine washing cloths by hand for a family of 7 with water you have to carry from a kilometer away!
-
-**CURRENT FOCUS: Giving women access to water in their homes;** [**Empowering women**](http://www.sextosol.org/women.html#overcome) **to overcome the trauma of domestic violence**
+**Giving women access to water in their homes;** [**Empowering women**](http://www.sextosol.org/women.html#overcome) **to overcome the trauma of domestic violence**
 
 As the saying goes, "Women hold up half of the sky," but do you realize that in the global South, a woman does that with a jug full of water on her head and a baby on her back? Women bear the brunt of poverty in the Sierra Madre and everywhere in the Global South. They typically have many children while suffering malnutrition and struggle to keep them well despite the poor resources the family is able to earn.
 
 **Climate change impacts women significantly and exacerbates the hardships of poverty.**
 
- In recent years irregular climate and other environmental challenges have caused subsistence crops to produce much less than normal or to fail completely. In 2015, Guatemala declared a national state of emergency when there was a widespread failure of corn crops due to prolonged drought. If a family lives in the coffee growing region, a woman's labor in the home is vital, and enables her husband to bring in the coffee crop that poor households rely on for cash needed to maintain the family. However, coffee production has been seriously damaged by climate change and environmental contamination in recent years, causing hardship in thousands of homes across the vast coffee producing region.
+In recent years irregular climate and other environmental challenges have caused subsistence crops to produce much less than normal or to fail completely. In 2015, Guatemala declared a national state of emergency when there was a widespread failure of corn crops due to prolonged drought. If a family lives in the coffee growing region, a woman's labor in the home is vital, and enables her husband to bring in the coffee crop that poor households rely on for cash needed to maintain the family. However, coffee production has been seriously damaged by climate change and environmental contamination in recent years, causing hardship in thousands of homes across the vast coffee producing region.
 
 These new hardships come to communities where women have to accomplish their unending household work without adequate access to water since Hurricane Stan damaged so much of the landscape in 2005.
 
@@ -65,3 +63,7 @@ For good measure, there is a good dose of the following added: An examination of
 
 | --- |
 | Masetas (Potted Flowers) The women collect beauty to bring into their homes.  You can rely on them for that;  broken Christmas ornaments arranged carefully  among the photos of her children,  color found in the garbage dump  during war.  Not so remarkable when you really think about women. Because they heard that I sell flowers,  or maybe it was the chance to get seed,  flores de "Los Estados,"  they walked kilometers up hill to the farm,  heavy and laughing out of breath.  They came for flowers to plant in cans  that they'll paint white with lime to repel ants  and hang on a nail pounded confidently  into the yielding adobe.  Coins were stashed away for this purpose.  This search does not know the limit of poverty.  The most humble home has its flower joyfully ignoring worry.  And that is how I am continually reminded to believe.  Tamara Brennan, 2000 |
+
+\** Text I \[Jose\] erased to make the website more concise
+
+### "Imagine washing cloths by hand for a family of 7 with water you have to carry from a kilometer away!"
