@@ -12,7 +12,7 @@ summary: Giving women access to water in their homes; Empowering women to overco
 ---
 # Advancing the Interests of Women
 
-**Giving women access to water in their homes;** [**Empowering women**](http://www.sextosol.org/women.html#overcome) **to overcome the trauma of domestic violence**
+### "Imagine washing cloths by hand for a family of 7 with water you have to carry from a kilometer away!"
 
 As the saying goes, "Women hold up half of the sky," but do you realize that in the global South, a woman does that with a jug full of water on her head and a baby on her back? Women bear the brunt of poverty in the Sierra Madre and everywhere in the Global South. They typically have many children while suffering malnutrition and struggle to keep them well despite the poor resources the family is able to earn.
 
@@ -64,7 +64,3 @@ For good measure, there is a good dose of the following added: An examination of
 
 | --- |
 | Masetas (Potted Flowers) The women collect beauty to bring into their homes.  You can rely on them for that;  broken Christmas ornaments arranged carefully  among the photos of her children,  color found in the garbage dump  during war.  Not so remarkable when you really think about women. Because they heard that I sell flowers,  or maybe it was the chance to get seed,  flores de "Los Estados,"  they walked kilometers up hill to the farm,  heavy and laughing out of breath.  They came for flowers to plant in cans  that they'll paint white with lime to repel ants  and hang on a nail pounded confidently  into the yielding adobe.  Coins were stashed away for this purpose.  This search does not know the limit of poverty.  The most humble home has its flower joyfully ignoring worry.  And that is how I am continually reminded to believe.  Tamara Brennan, 2000 |
-
-\** Text I \[Jose\] erased to make the website more concise
-
-### "Imagine washing cloths by hand for a family of 7 with water you have to carry from a kilometer away!"
