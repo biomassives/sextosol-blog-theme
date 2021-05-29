@@ -32,7 +32,7 @@ We have requests from two well established grassroots women's organizations for 
 
 ### From our archives: Work we did prior to 2010: Advocacy, helping women's enterprises and more.
 
-The Sexto Sol Center maintains that the women of the Sierra are _una potencial econÃ³mica dormida_ or a dormant economic force. We advocate for the full participation of women in all social and political activities. We have assisted women to organize productive cooperatives that allow them to contribute to the family economy. (See the article in our Coffee Crisis section).
+The Sexto Sol Center maintains that the women of the Sierra are "_una potencial económica dormida"_ or a dormant economic force. We advocate for the full participation of women in all social and political activities. We have assisted women to organize productive cooperatives that allow them to contribute to the family economy. (See the article in our Coffee Crisis section).
 
 The opening of opportunities for women must also include the awakening of women to their own value and potential. In all Sexto Sol projects we specifically express the expectation that women be viewed as full partners in the collective businesses. We repeatedly encourage the women to _opinar,_ to express their views, to receive any training given and to participate in the leadership. We have not seen men oppose this shift and on the contrary, usually support their women in moving ahead.
 
