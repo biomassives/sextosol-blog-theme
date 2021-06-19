@@ -4,11 +4,11 @@ description: Giving women access to water in their homes; Empowering women to ov
   the trauma of domestic violence
 
 ---
-# Advancing the Interests of Women
+# Advancing Women's Interests
 
-### "Imagine washing clothes by hand for a family of 7 with water you have to carry from a kilometer away!"
+As the saying goes, "Women hold up half of the sky," but do you realize that in the Global South, a woman does that with a jug full of water on her head and a baby on her back?
 
-As the saying goes, "Women hold up half of the sky," but do you realize that in the global South, a woman does that with a jug full of water on her head and a baby on her back? Women bear the brunt of poverty in the Sierra Madre and everywhere in the Global South. They typically have many children while suffering malnutrition and struggle to keep them well despite the poor resources the family is able to earn.
+Women bear the brunt of poverty in the Sierra Madre and everywhere in the Global South. Due to large household sizes and the poor resources families are able to gain, these women suffer from malnutrition and struggle to keep their children well. 
 
 **Climate change impacts women significantly and exacerbates the hardships of poverty.**
 
