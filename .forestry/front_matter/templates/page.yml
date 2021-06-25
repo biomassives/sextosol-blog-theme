@@ -14,6 +14,7 @@ fields:
   label: description
 pages:
 - docs/about.md
+- docs/challenges-faced-by-small-scale-coffee-farmers-page.md
 - docs/upcycling-page.md
 - docs/volunteer-and-internship-program.md
 - docs/women-page.md
