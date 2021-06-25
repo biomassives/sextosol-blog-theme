@@ -3,17 +3,23 @@ title: Challenges Faced by Small-Scale Coffee Farmers (page)
 description: Edited text
 
 ---
-# The Challenges Faced by Small-scale Coffee Farmers
+# Challenges Faced by Small-Scale Coffee Farmers
 
-To learn about our work to assist coffee farmers to better market their coffee, click here.
+Click here to learn about our work to assist coffee farmers to better market their coffee.
 
-### Even though coffee has been called "black gold," the average small-scale grower lives in poverty
+### Black Gold Poverty
 
-![](http://www.sextosol.org/images/portraits/bluecrack.jpg =x200)
+From the rich soils of the steep Sierra Madre Mountains, thousands of _cafetaleros_ harvest the coffee that they sell to sustain their families. The average small-scale farm produces about 20 100-pound bags of coffee each year. For the vast majority of cafetaleros, coffee is their only source of income. 
 
-From the rich soils of the steep Sierra Madre Mountains, thousands of "cafetaleros" harvest the coffee that they sell to sustain their families. The average small-scale farm produces about 20 bags of 100 pounds of coffee each year. For the vast majority, coffee is all that cafetaleros have for earning a livelihood. It is a fragile crop that is vulnerable to fluctuations in the weather and requires a great deal of labor. Coffee has made fortunes for some in the industry. But three human-caused factors, environmental degradation, the international pricing structure and the way coffee is bought locally, conspire against coffee families who, despite their honest labor, remain the perpetual poor of the Sierra Madre.
+Coffee is a fragile crop that is vulnerable to fluctuations in the weather and that requires a great deal of labor. Three human-caused factors - environmental degradation, the international pricing structure, and the way coffee is bought locally - conspire against cafetalero families who despite their honest labor, remain the perpetual poor of the Sierra Madre. 
 
-Despite the supposed romance of the idyllic country life depicted in “Juan Valdez” commercials, the truth is that growing coffee has always been a gamble for poor farmers. The deforestation of the Americas, particularly in Chiapas and Central America, has resulted in diminished rainfall during the critical period when the coffee is flowering leading to reduced yields. As climate change worsens, erratic weather further damages crops. In both 1998 and 2005, catastrophic flooding from hurricanes hitting deforested lands caused widespread landslides and flooding and were responsible for the loss of much land that had been cultivated in coffee. With Hurricane Stan, it was estimated that 60% of the crop was lost. An at least 40% of the surface area that had been farmed in coffee was lost in landslides. In an already impoverished region, people may well never really overcome such massive losses.
+Commercials created by large coffee-producing corporations depict an idyllic country life for coffee growers. However, growing coffee has always been a gable for poor farmers. The deforestation of Latin America, particularly in Chiapas and Central America, has resulted in diminished rainfall. The lack of abundant water during the critical period when coffee is flowering leads to reduced yields.
+
+As climate change worsens, erratic weather events will cause further damage to crops.
+
+In both 1998 and 2005, catastrophic flooding from hurricanes caused widespread landslides in deforested lands, which led to the loss of land that had been cultivated in coffee. Specifically, Hurrican stan led to the loss of around 60% of crops in impacted areas(where did she get this from? WE NEED TO CITE). Additionally, at least 40% of the surface area that had been farmed in coffee was lost in landslides(CITATION?). In an already improvised region, people may well never overcome such massive losses.
+
+__**CONTINUE HERE*__
 
 ### Lack of access to credit causes a cycle of debt
 
