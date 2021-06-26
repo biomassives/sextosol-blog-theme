@@ -9,39 +9,53 @@ Click here to learn about our work to assist coffee farmers to better market the
 
 ### Black Gold Poverty
 
-From the rich soils of the steep Sierra Madre Mountains, thousands of _cafetaleros_ harvest the coffee that they sell to sustain their families. The average small-scale farm produces about 20 100-pound bags of coffee each year. For the vast majority of cafetaleros, coffee is their only source of income. 
+From the rich soils of the steep Sierra Madre Mountains, thousands of _cafetaleros_ harvest the coffee that they sell to sustain their families. The average small-scale farm produces about 20 100-pound bags of coffee each year. For the vast majority of cafetaleros, coffee is their only source of income.
 
-Coffee is a fragile crop that is vulnerable to fluctuations in the weather and that requires a great deal of labor. Three human-caused factors - environmental degradation, the international pricing structure, and the way coffee is bought locally - conspire against cafetalero families who despite their honest labor, remain the perpetual poor of the Sierra Madre. 
+Coffee is a fragile crop that is vulnerable to fluctuations in the weather and that requires a great deal of labor. Three human-caused factors - environmental degradation, the international pricing structure, and the way coffee is bought locally - conspire against cafetalero families who despite their honest labor, remain the perpetual poor of the Sierra Madre.
 
 Commercials created by large coffee-producing corporations depict an idyllic country life for coffee growers. However, growing coffee has always been a gable for poor farmers. The deforestation of Latin America, particularly in Chiapas and Central America, has resulted in diminished rainfall. The lack of abundant water during the critical period when coffee is flowering leads to reduced yields.
+
+### Climate Change
 
 As climate change worsens, erratic weather events will cause further damage to crops.
 
 In both 1998 and 2005, catastrophic flooding from hurricanes caused widespread landslides in deforested lands, which led to the loss of land that had been cultivated in coffee. Specifically, Hurrican stan led to the loss of around 60% of crops in impacted areas(where did she get this from? WE NEED TO CITE). Additionally, at least 40% of the surface area that had been farmed in coffee was lost in landslides(CITATION?). In an already improvised region, people may well never overcome such massive losses.
 
-__**CONTINUE HERE*__
+### Local Trade & Cycle of Debt
 
-### Lack of access to credit causes a cycle of debt
+The production of coffee is very costly due to its labor-intensiveness. With bank loan rates at 20% interest or more, growers typically obtain loans from middlemen to finance the production of coffee. These middlemen, called coyotes, oftentimes oblige the indebted grower to give part of the harvest in payment. Coffee growers typically sell the rest to the middlemen at low prices, who then sell the coffee to exporting companies. As a result of this system, coyotes are typically the only ones who make money from coffee. 
 
-Coffee is a costly crop to grow given that it is so labor intensive. With bank loans at 20% interest or more, growers have traditionally had to obtain loans from middlemen, called coyotes, to cover production as described in detail in the article at the end of this section. The loans oblige the indebted grower to give part of the harvest in payment. The rest they sell to the coyotes who buy coffee at low prices and then sell volume to the exporting companies. Most years the coyotes are the only ones in the mountains who make money from coffee.
+While the problem of middlemen is troublesome the real structural problem in the coffee industry is the way coffee prices are set internationally. Futures traders making their fortunes in commodities trading on the New York Exchange seem as remote from the realities of life in the Sierra as the capricious Gods on Zion deciding the fate of the humans. Farmers cannot predict the profit they will gain from each harvest since the vagaries of the international pricing structure are unpredictable; bringing misfortune overnight regardless of the amount of labor given to a harvest. 
 
-While the problem of middlemen is troublesome the real structural problem in the coffee industry is the way coffee prices are set internationally. Futures traders making their fortunes in commodities trading on the New York Exchange seem as remote from the realities of life in the Sierra as the capricious Gods on Zion deciding the fate of the humans. Farmers never can predict how much they will earn for each harvest since the vagaries of the international pricing structure can bring misfortune overnight regardless of the care they have given to their trees all year. If previously growing coffee has always been a risk, now that the bottom has fallen out of world coffee prices, for poor farmers growing coffee has become a serious liability.
+\*If previously growing coffee has always been a risk, now that the bottom has fallen out of world coffee prices, for poor farmers growing coffee has become a serious liability. **{** This is a bit confusing; I need an explanation on what Tamara meant**}**
 
-#### From Our Archives: The Coffee Crisis
+### International Pricing Structure & The Coffee Crisis
+
+**{what is the purpose of adding "from our archives" in titles/ could we erase it/is there a specific page where viewers can access the arhives/ could you define archives for me in the context of Sexto Sol?}**
 
 An estimated 20 million people in 50 countries around the world depend on growing coffee for their livelihood.
 
-Since coffee is a commodity, its value at a given point in the year is determined by the total volume produced worldwide. When volume exceeds consumption, prices plummet. Though Vietnam only recently began to produce coffee it has become the second largest producer after Brazil. In 2001 the unprecedented introduction of this high volume of coffee from Vietnam dramatically depressed world prices. The impact has been absolutely devastating for other producing countries around the world.
+Since coffee is a commodity, its value at a given point in the year is determined by the total volume produced worldwide. When volume exceeds consumption, prices plummet. Though Vietnam only recently began to produce coffee it has become the second largest producer after Brazil. In 2001, the unprecedented introduction of this high volume of coffee from Vietnam dramatically depressed world prices. The impact has been absolutely devastating for other coffee-producing countries around the world.
 
-A farmer’s cost for producing a 100 pound bag of un-milled coffee averages between $70-90 in Chiapas. When local prices were around $55 in 2001, farmers knew they could not afford the cost of paying the seasonal pickers from Guatemala to harvest their crop. Many desperately tried to convince the pickers work for an even split. Even though they rely on the seasonal income the pickers were unwilling to suffer the hard work involved for such little pay.
+A farmer’s cost for producing a 100 pound bag of un-milled coffee averages between $70-90 in Chiapas. When local prices were around $55 in 2001, farmers knew they could not afford the cost of paying the seasonal pickers from Guatemala to harvest their crop. Many desperately tried to convince the pickers work for an even split. Despite relying on seasonal income, Guatemalan pickers were unwilling to work for such little pay. 
 
-When prices fell to half the cost of production in 2002, farmers both large and small simply did not pick their crop. Coffee is rotting on the tree while growers find themselves in debt and without a way to earn a living. Government subsidies promised to stave off a serious shortage of food have not materialized since census workers have not completed the tedious task of documenting the location of thousands of tiny farmers throughout the rough topography of the Sierra. Many analysts predict that there may well be a surge of violence as the poverty reaches a critical point. A probable increase in crime is eminent as desperate people turn to robbery to survive.
+When prices fell to half the cost of production in 2002, farmers, both large and small, simply did not pick their crop. Coffee rotted on the trees while frowers found themselves in debt and without an income. 
 
-The damage done to the economy in the Sierra has had a ripple effect into neighboring Guatemala. Poor corn farmers there depend on the chance to work in Chiapas during the dry season when their fields are fallow. It is a case where the desperately poor came to work for the chronically poor. We hosted many dejected Guatemalans at Tierra Linda School in 2001 who had been unable to find work and were returning on foot to their homes 150 miles away without food or water. In 2002, the Guatemalans were conspicuously absent. Recent news stories have reported that authorities in Guatemala are bracing for a high level of child mortality from starvation – a tragedy directly attributed to the loss of work in coffee farms. This is the invisible reality of commerce in coffee in the current context.
+Government subsidies with the purpose of preventing a serious shortage of food have not materialized because census workers have not documented the location of thousands of farmers throughout the topography of the Sierra. As economic hardships continue to increase in the region, many analysts predict that there may be a surge of violence. A probable increase in crime is imminent as desperate people turn to robbery to survive.
+
+ **{when was this written? how can we change the wording so that it reflects contemporary events? when were those predictions made? Were the predictions proved right/wrong?}**
+
+The economic hardships in the Sierra Madre's economy had a ripple effect on neighboring Guatemala. Poor Guatemalan corn farmers depend on the chance to work in Chiapas during the dry season while their fields are fallow. It is a case where the desperately poor work the chronically poor. 
+
+Sexto Sol hosted many dejected Guatemalans at Tierra Linda School in 2001 who had been unable to find work and were returning on foot to their homes 150 miles away without food or water. In 2002, the Guatemalans were conspicuously absent. News stories reported that authorities in Guatemala were bracing for a high level of child mortality from starvation - a tragedy directly attributed to the loss of work in coffee farms. This is the invisible reality of commerce in coffee in the current context.
+
+\*C__ONTINUE HERE*__
+
+### Interconnectedness
 
 Ethiopia and Burundi are countries that derive a major portion of their national income from coffee. With so many poor around the world dependant on coffee in countries without the means to provide for them, we are facing a humanitarian crisis.
 
-#### The coffee crisis is yet another opportunity for people to learn just how connected we are.
+The coffee crisis is yet another opportunity for people to learn just how connected we are.
 
 Increases in civil strife in poor countries should be viewed in terms of the loss of the means of making a living for large sectors of those countries from distortions created in local economies by international trade and macro finance. We encourage you to look at the larger context of events when analyzing world news. Do not tolerate repression in other countries that would seek only to enforce corrupt economic schemes. Instead envision, and then work for the establishment of a more stable world economy. Human rights and the will of the people must always be respected. Let the failed economic scheme wither away. It is time now.
 
