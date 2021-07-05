@@ -96,6 +96,6 @@ Sustainable trade takes place when the international exchange of goods and servi
 
 Click Here to read "**Small Scale Coffe Growers Reach Toward Self Sufficiency in the Sierra Madre of Chiapas, México.**" The article appeared in the Sept/Oct {**what year**} Issues of the Chronicle of the Specialty Coffee Association of America.
 
-\[*Link directly to the article on the SCAA's  website of copy and paste the text on new page and hyperlink\]
+\[*Link directly to the article on the SCAA's  website or copy and paste the text on a new page and hyperlink\]
 
 ***
