@@ -85,47 +85,17 @@ The survival of a very large percentage of families in the Sierra Madre already 
 
 Situated near the Guatemalan borders in Chiapas, Sexto Sol constantly comes into contact with young men from Central American countries whose families similarly hope that they will arrive to the U.S. Like in the Sierra Madre, many have not overcome the losses caused by Hurricane Mitch in 1998. Imagine what it would be like at age 19 to take only a bit of cash that relatives have put together and to travel through several unknown countries, chased all the time by immigration officers, just to get to the line demarking the promised land.
 
-PLEASE SEE COFFEE SOLUTIONS SECTION TO LEARN OF OUR WORK TO FIND SOLUTIONS
+#### Sustainable Trade as defined by the Institute for Environment and Development
 
-#### Definition of Sustainable Trade From the Institute for Environment and Development
-
-Sustainable trade takes place when the international exchange of goods and services yields positive social, economic and environmental benefits, reflecting the four core criteria of sustainable development:
+Sustainable trade takes place when the international exchange of goods and services yields positive social, economic, and environmental benefits. Sustainable development depends on the following criteria:
 
 1. it generates economic value...
 2. it reduces poverty and inequality...
 3. it regenerates the environmental resource base, and...
 4. it is carried out within an open and accountable system of governance
 
-![](http://www.sextosol.org/images/sierra_oro/tn_villageelder.jpg =143x163) ![](http://www.sextosol.org/images/blank.gif =10x163)
+Click Here to read "**Small Scale Coffe Growers Reach Toward Self Sufficiency in the Sierra Madre of Chiapas, México.**" The article appeared in the Sept/Oct {**what year**} Issues of the Chronicle of the Specialty Coffee Association of America.
 
-### The following article appeared in the Sept/ Oct. Issues of the Chronicle of the Specialty Coffee Association of America
+\[*Link directly to the article on the SCAA's  website of copy and paste the text on new page and hyperlink\]
 
-### Small Scale Coffee Growers Reach Toward Self Sufficiency in the Sierra Madre of Chiapas, México
-
-There is much talk these days about sustainable coffee as coffee buyers and consumers have become more aware of the environmental impact of coffee production in the developing world. But for coffee to be truly sustainable, the welfare of the small-scale farming families who produce the coffee must form part of the equation along with migratory birds, the elimination of chemicals and concerns about water quality.
-
-In the Mexican State of Chiapas, the Sierra Madre Mountains rise sharply from the coastal plains formed by 46 rivers. The warm air cools as it rises up the slopes from the steamy rainforests of the lower elevations and turns to mist in the high coffee farms. It is a vast region where thousands of small-scale coffee farmers work their shaded lands with the desire each year that the harvest will finally provide enough to adequately sustain their families. But so far, it never quite does.
-
-The Sierra Madre has eight municipalities and scores of tiny hamlets of subsistence farmers clinging to steep slopes that were deforested years ago by commercial logging and now are a patchwork of cornfields. It remains the poorest region in a state that has seen indigenous communities hundreds of miles to the north take up arms in frustration at their impoverished conditions. Despite the fact that the small-scale coffee producers of the Sierra Madre bring tons of high altitude Arabica coffee to market each year, the poverty of this region is stubbornly entrenched.
-
-The cause is simple. Lacking capital to fund the costs of harvesting and processing their coffee, small-scale producers find no alternative than to reluctantly accept loans from middlemen called “coyotes”. The indebtedness obliges them to sell to the coyote for a price set among their peers who allow themselves a nice profit margin based on New York pricing. Responsible to laborers from nearby Guatemala, who must be fed while they wait to be paid, the farmers feel the pressure to sell immediately upon harvest.
-
-Under this system known throughout Latin America as “coyotismo”, there is no incentive to control quality. Everyone knows that the coyotes routinely mix in inferior coffee with the good so as to pass on volumes to the transnational corporations that market to Europe and the U.S. Quality is not rewarded with a fitting price. Therefore it does not become cost-effective to order the pickers to leave greens on the branch for a second and third harvest. As one grower explained, “Unlike in the past when we picked carefully, now they take it all in one sweep. With what we can afford to pay, it has deteriorated to this.”
-
-Government development programs aimed at assisting the farmers to improve their harvests effectively end up benefiting the coyotes. “What is missing from the scheme is the most important piece -- adequate information and assistance in marketing their coffee independently from the middlemen,” says Francisco Barrios, who organizes small-scale producers so that they can export. But organizing these growers is a challenging task. Many have had bad experiences with so-called democratic organizations over the years; some Fair Trade labeled. Barrios explains, “They have been lied to and given false promises only to see the leaders of the organizations grow conspicuously rich while they remain in the same precarious conditions as always.”
-
-Francisco Barrios, who was born in the Sierra Madre and as a young man rode his motorcycle into the farthest reaches of the mountains, has known many coffee farmers since his childhood when they would come out of the mountains to buy supplies in his family’s general store in Motozintla. Reflecting on the difficulties of his beleaguered state of Chiapas he came to the conclusion that through organized marketing in sufficient volumes of quality coffee, the farmers could obtain a fair price.
-
-But his vision does not stop there. Coffee is a fragile crop as we saw last year when drought, fires which spread from the yearly practice of burning cornfields, and finally three devastating hurricanes destroyed over 80% of the harvest. Added to this disaster was the blow of some of the lowest prices in recent memory. For this reason, Barrios promotes the creation of a fund from the coffee exported by small grower-organizations which will then seed other businesses eventually providing the self-sufficiency needed to eliminate the need for loans to finance the harvest. “In the Sierra there is a sleeping potential in the women who now spend all their time slaving away at tedious domestic tasks. When they have their own businesses they will have the freedom to contribute to the family economy. Then they can finally be free of the coyotes.”
-
-![](http://www.sextosol.org/images/coffee_solutions/FscoPatioCoffee.jpg =x200)
-
-#### Francisco Barrios with Sierra Oro Co-op Directors
-
-This is precisely what the newly formed organization of 26 families Cerro de la Olla is attempting to do. With the help of the Sexto Sol Center for Community Action, a U.S. non-profit of which Barrios is co-founder, the women are seeking seed money to allow them to build a poultry business. Forget the notion of “small-scale” here, their goal is to raise 10,000 chickens. Thus liberated from the urgency to sell to coyotes for much need cash at the moment of the harvest, the growers can store their coffee for export.
-
-The women are thrilled at the idea of delving into the new adventure of becoming businesswomen and all the challenges and joys that will bring them. “Together we will face whatever difficulties,” one woman said. This is impressive in a culture where the admitted obstacles to collective action envidia, a destructive form of jealously, and individualismo, the propensity to isolation, often destroy social organizations. These families are aware that they are pioneers in this new strategy to achieve self-sufficiency. But with the harvest coming in only a few short months, the families are hard-pressed to find the means to establish their business so that they can be free to export.
-
-Convinced of the economic advantage of direct marketing their coffee, they are committed to producing quality coffee in an environmentally responsible way. Once the start-up capital is found and the business is producing, funds will be used to meet the heavy expense of technical training in how to prepare their cafetales for future organic certification. They are hopeful that the unique qualities of their coffee will command a price independent of the vagaries of New York, which, from their vantage point, has nothing to do with the realities of life in the mountains where ruins still preserve the ancient pottery and jade carvings of their Maya ancestors. With the small-scale growers directing the marketing of their ecologically produced coffee, supported by diverse collective enterprises, they will finally achieve a truly sustainable production and will do so with dignity.
-
-#### Tamara Brennan, Ph.D. tamara@sextosol.org is a sociocultural and community psychologist and is Executive Director of the Sexto Sol Center for Community Action. Francisco Barrios is the Project Coordinator for the Sexto Sol Center.
+***
