@@ -16,7 +16,7 @@
   },
   "license": "MIT",
   "orignal_author": "sal<wowthemesnet@gmail.com>",
-  "author": "Waidaka Maina<greg@ecocity.com>",
+  "author": "Greg Willson<greg@ecocity.com>",
   "main": "index.js",
   "files": [
     "index.js",
@@ -79,7 +79,7 @@
     "vuepress": "^1.2.0"
   },
   "peerDependencies": {
-    "vuepress": "^1.0.0"
+    "vuepress": "^1.9.2"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
