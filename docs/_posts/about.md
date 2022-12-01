@@ -3,7 +3,7 @@ tags: []
 title: About
 date: 
 author: ''
-featuredimg: "/assets/img/holiday1_maryholtz.jpg"
+featuredimg: "/assets/img/holiday2_maryholtz.jpg"
 summary: ''
 
 ---
