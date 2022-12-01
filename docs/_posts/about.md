@@ -1,8 +1,8 @@
 ---
 tags: []
 title: About
-date: 
-author: ''
+date: 2022-12-01 07:00:00 +0000
+author: Mary
 featuredimg: "/assets/img/holiday2_maryholtz.jpg"
 summary: ''
 
