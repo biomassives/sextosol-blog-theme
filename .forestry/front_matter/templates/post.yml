@@ -24,7 +24,6 @@ fields:
   name: summary
   label: summary
 pages:
-- docs/_posts/2019-5-6-writing-a-vuepress-theme.md
 - docs/_posts/celebrating-native-languages-in-the-schools.md
 - docs/_posts/dignified-education.md
 - docs/_posts/eco-village-project-guatemala.md
