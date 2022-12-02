@@ -1,8 +1,8 @@
 module.exports = {
-  title: 'Mediumish',
+  title: 'Sextosol Center',
   base: '/',
   dest: 'public',
-  description: 'Mediumish theme with VuePress and Forestry',
+  description: 'Helping rural people create solutions for their families and communities',
   logo: './assets/img/logo.png',
   theme: require.resolve('../../'),
   themeConfig: {
@@ -32,7 +32,7 @@ module.exports = {
         },
         {
           type: 'github',
-          link: 'https://github.com/wowthemesnet/mediumish-vuepress-blog-theme',
+          link: 'https://github.com/biomassives/sextosol-blog-theme',
         },
         {
           type: 'gitlab',
@@ -69,28 +69,64 @@ module.exports = {
       ],
       copyright: [
         {
-          text: 'Licensed MIT.',
-          link: 'https://bootstrapstarter.com/license/',
+          text: 'Sexto Sol Center uses Foresty.io.',
+          link: 'https://forestry.io/',
         },
         {
-          text: 'Made with Mediumish - free Vuepress theme',
-          link: 'https://bootstrapstarter.com/bootstrap-templates/vuepress-theme-mediumish/',
+          text: 'Policy Analysis',
+          link: 'https://sextosol.org/2021/04/24/policy-analysis/',
         },
+        {
+          text: 'Human Rights',
+          link: 'https://sextosol.org/2021/04/24/promoting-right-use-of-resources-and-human-rights/',
+        },
+        {
+          text: 'Reforestation',
+          link: 'https://sextosol.org/2021/04/24/reforestation/',
+        },      
+        {
+          text: 'Upcycling',
+          link: 'https://sextosol.org/2021/04/24/upcycling/',
+        },        
+        {
+          text: 'Solar',
+          link: 'https://sextosol.org/2021/04/24/solar-furnaces/',
+        },          
+        {
+          text: 'Volunteer',
+          link: 'https://sextosol.org/2021/04/24/volunteer-and-internship-program/',
+        },            
+        {
+          text: 'Indigenous People',
+          link: 'https://sextosol.org/2021/04/24/indigenous-people-first-nations/',
+        }, 
+        {
+          text: 'Permaculture',
+          link: 'https://sextosol.org/2021/04/24/permaculture/',
+        },        
+        {
+          text: 'Ecotourism',
+          link: 'https://sextosol.org/2021/04/24/ecotourism/',
+        },    
+        {
+          text: 'Ecovillages',
+          link: 'https://sextosol.org/2021/04/24/eco-villages/',
+        },    
       ],
     },
 
     sitemap: {
-      hostname: 'https://github.com/wowthemesnet/vuepress-theme-mediumish/'
+      hostname: 'https://sextosol.org/'
     },
     comment: {
-      service: 'disqus',
-      shortname: 'demowebsite',
+      service: '#',
+      shortname: '#',
     },
     newsletter: {
-      endpoint: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&id=8c3d2d214b'
+      endpoint: '#'
     },
     feed: {
-      canonical_base: 'https://github.com/wowthemesnet/vuepress-theme-mediumish/',
+      canonical_base: 'https://github.com/biomassives/sextosol-blog-theme/',
     },
     smoothScroll: true
   },
