@@ -69,8 +69,8 @@ module.exports = {
       ],
       copyright: [
         {
-          text: 'Sexto Sol Center uses Foresty.io.',
-          link: 'https://forestry.io/',
+          text: 'The Sexto Sol Center, Attn:  Luis Manriquez, 5764 E Hampton Ave, Mesa AZ 85206',
+          link: '#',
         },
         {
           text: 'Policy Analysis',
