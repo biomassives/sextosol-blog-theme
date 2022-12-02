@@ -4,7 +4,7 @@ title: About
 date: 2022-12-01 07:00:00 +0000
 author: Mary
 featuredimg: "/assets/img/holiday2_maryholtz.jpg"
-summary: ''
+summary: " intuitive art interpretation"
 
 ---
 Native Floridian and artist, Mary Holtz, has always had the passion and skills for interpreting the visual whether seen through the eyes or felt in the spirit. Her life passions are healing the needy and creating art in mixed mediums. An avid photographer, Mary has the experience and education in acrylics, wire wrapping jewelry, crafting, Sumi-e-ink art, Japanese floral design, Ikebana, and intuitive pastel art.
