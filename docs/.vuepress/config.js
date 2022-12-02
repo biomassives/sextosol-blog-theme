@@ -1,8 +1,8 @@
 module.exports = {
-  title: 'Mediumish',
+  title: 'Mary Holtz Art',
   base: '/',
   dest: 'public',
-  description: 'Mediumish theme with VuePress and Forestry',
+  description: 'Creating art is the perfect anti-depressant, and in that healing power, I can find myself.',
   logo: './assets/img/logo.png',
   theme: require.resolve('../../'),
   themeConfig: {
@@ -32,7 +32,7 @@ module.exports = {
         },
         {
           type: 'github',
-          link: 'https://github.com/wowthemesnet/mediumish-vuepress-blog-theme',
+          link: '#',
         },
         {
           type: 'gitlab',
@@ -60,7 +60,7 @@ module.exports = {
         },
         {
           type: 'twitter',
-          link: 'https://twitter.com/wowthemesnet',
+          link: '#',
         },
         {
           type: 'web',
@@ -73,24 +73,24 @@ module.exports = {
           link: 'https://bootstrapstarter.com/license/',
         },
         {
-          text: 'Made with Mediumish - free Vuepress theme',
-          link: 'https://bootstrapstarter.com/bootstrap-templates/vuepress-theme-mediumish/',
+          text: '&copy; Mary Holtz Art 2022, 2023',
+          link: '#',
         },
       ],
     },
 
     sitemap: {
-      hostname: 'https://github.com/wowthemesnet/vuepress-theme-mediumish/'
+      hostname: 'https://maryholtz.art/'
     },
     comment: {
       service: 'disqus',
       shortname: 'demowebsite',
     },
     newsletter: {
-      endpoint: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&id=8c3d2d214b'
+      endpoint: '#'
     },
     feed: {
-      canonical_base: 'https://github.com/wowthemesnet/vuepress-theme-mediumish/',
+      canonical_base: 'https://maryholtz.art/',
     },
     smoothScroll: true
   },
