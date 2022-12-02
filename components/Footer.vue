@@ -4,7 +4,7 @@
 <div class="container">
 <div class="row justify-content-between">
 <div class="col">
-<a href="/"><img class="logofooter" width="226" height="64" :src="/assets/img/t377zd8vas6gxgncgovlk5l81lqj.webp"></a><BR>
+<a href="/"><img class="logofooter" width="226" height="64" src="/assets/img/t377zd8vas6gxgncgovlk5l81lqj.webp"></a><BR>
 <b>Mary Holtz Art</b>
 </div>
 <div class="col text-right">
