@@ -69,11 +69,11 @@ module.exports = {
       ],
       copyright: [
         {
-          text: 'Licensed MIT.',
-          link: 'https://bootstrapstarter.com/license/',
+          text: 'via Free Software.',
+          link: 'https://github.com/biomassives/sextosol-blog-theme/tree/maryholtz.art',
         },
         {
-          text: '&copy; Mary Holtz Art 2022, 2023',
+          text: '© 2022 Mary Holtz Art',
           link: '#',
         },
       ],
