@@ -48,7 +48,7 @@ In Chiapas and Guatemala, there is a huge problem with solid waste, mostly plast
 
 ## Partnerships with local agencies toward the empowerment of girls and women
 
-![](http://www.sextosol.org/images/fair_trade/SolidaridadWomen.JPG =250x)
+![](/assets/img/solidaridadwomen.JPG)
 
 **Barrios Unidos por Motozintla:** We are helping two groups of women to create cottage industries that will provide single mothers with income. This photo is from one of the days of consciousness-raising to help them work together for the well-being of all members.
 
