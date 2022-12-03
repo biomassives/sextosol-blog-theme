@@ -10,10 +10,14 @@ summary: Creating art is the perfect anti-depressant, and in that healing power,
 ---
  'Building a reliable paper trail system for tracking and validating informal group contributions to marketable carbon and biodiversity credits.'
 
-primary screens
+**primary screens**
 
 Checkin product ( compostable organics or plastic material, living plant, or reusable/ resellable/ repairable items.)
 
 Process product:
 
 Broker product:
+
+view/download generated reports
+
+appeal to funding
