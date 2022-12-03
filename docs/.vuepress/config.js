@@ -1,8 +1,8 @@
 module.exports = {
-  title: 'Mary Holtz Art',
+  title: 'Eco Ops App',
   base: '/',
   dest: 'public',
-  description: 'Creating art is the perfect anti-depressant, and in that healing power, I can find myself.',
+  description: 'Building a reliable paper trail system for tracking and validating informal group contributions to marketable carbon and biodiversity credits.',
   logo: './assets/img/logo.png',
   theme: require.resolve('../../'),
   themeConfig: {
@@ -70,17 +70,17 @@ module.exports = {
       copyright: [
         {
           text: 'via Free Software.',
-          link: 'https://github.com/biomassives/sextosol-blog-theme/tree/maryholtz.art',
+          link: 'https://github.com/biomassives/sextosol-blog-theme/tree/ecoopsapp',
         },
         {
-          text: '© 2022 Mary Holtz Art',
+          text: '© 2022, 2023 SCD Hub',
           link: '#',
         },
       ],
     },
 
     sitemap: {
-      hostname: 'https://maryholtz.art/'
+      hostname: 'https://ecocity.com/'
     },
     comment: {
       service: 'disqus',
@@ -90,7 +90,7 @@ module.exports = {
       endpoint: '#'
     },
     feed: {
-      canonical_base: 'https://maryholtz.art/',
+      canonical_base: 'https://ecoopd.vercel.app/',
     },
     smoothScroll: true
   },
