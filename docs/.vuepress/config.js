@@ -87,7 +87,7 @@ module.exports = {
       shortname: 'demowebsite',
     },
     newsletter: {
-      endpoint: '#'
+      endpoint: 'https://scdhub.us21.list-manage.com/subscribe/post?u=a71ab6b6253504d5c1d605f59&amp;id=5539c8deec&amp;f_id=009bc3e1f0'
     },
     feed: {
       canonical_base: 'https://ecoopd.vercel.app/',
