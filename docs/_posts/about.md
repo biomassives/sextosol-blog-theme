@@ -3,7 +3,7 @@ tags: []
 title: About
 date: 2022-12-01T07:00:00.000+00:00
 author: Admin
-featuredimg: ''
+featuredimg: "/assets/img/profile.svg"
 summary: " intuitive art interpretation"
 
 ---
