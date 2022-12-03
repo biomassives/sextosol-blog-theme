@@ -7,4 +7,4 @@ featuredimg: "/assets/img/holiday2_maryholtz.jpg"
 summary: " intuitive art interpretation"
 
 ---
-SCD Hub always aims to build partnerships across cultures and distances to support awareness of best practices in waste management, sanitation, drinking water, food production, human health, renewable energy, remediating toxins, recharge of aquifers, and ultimately a creative spirit within community to glue it all together.
+SCD Hub always aims to build partnerships across cultures and distances to support awareness of best practices in waste management, sanitation, drinking water, food production, human health, renewable energy, remediating toxins, recharge of aquifers, and ultimately a creative and curious spirit within community to glue it all together.
