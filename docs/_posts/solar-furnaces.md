@@ -3,7 +3,7 @@ tags:
 - Solar
 - Approproate Tech
 title: Solar cookers, heaters, water heaters & dehydrators
-date: 2021-04-24 04:00:00 +0000
+date: 2021-04-24T04:00:00.000+00:00
 author: Tamara
 featuredimg: "/assets/img/dehydratorfsconiki.jpg"
 summary: 'Help us place solar heaters in a very cold school. The principal has requested
@@ -28,5 +28,13 @@ Farmers in the Sierra produce apples and peaches but do not have a good way to m
 Every year students from the high school come to the Escuela de Agroecologia y Permacultura Tierra Linda to ask for our help with projects for their classes. This is an excellent opportunity for us to get them interested in green solutions, something we hope will influence their choices in the future.
 
 ![](http://www.sextosol.org/images/dehydrator2.jpg =x180) ![](http://images/blank.gif =5x159) ![](http://www.sextosol.org/images/dehydratorSierra.jpg =x180) ![](http://www.sextosol.org/images/dehydratorBlack.jpg =x180) ![](http://images/blank.gif =5x159) ![](http://www.sextosol.org/images/dehydratorFscoNiki.jpg =x180)
+
+![](/assets/img/dehydrator2-1.jpg)
+
+![](/assets/img/dehydratorsierra.jpg)
+
+![](/assets/img/dehydratorblack.jpg)
+
+![](/assets/img/dehydratorfsconiki.jpg)
 
 ##### Jan, 12, 2011 - Watch this page grow as we add new photos of prototypes in the coming weeks
