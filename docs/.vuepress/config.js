@@ -1,8 +1,8 @@
 module.exports = {
-  title: 'Mary Holtz Art',
+  title: 'Global Urban Food Forests',
   base: '/',
   dest: 'public',
-  description: 'Creating art is the perfect anti-depressant, and in that healing power, I can find myself.',
+  description: 'A vision for food access, greater general awareness of food production in the informal kitchen garden format, credited to the wisdom of indigenous farmer/ cooks.',
   logo: './assets/img/logo.png',
   theme: require.resolve('../../'),
   themeConfig: {
@@ -73,14 +73,14 @@ module.exports = {
           link: 'https://github.com/biomassives/sextosol-blog-theme/tree/maryholtz.art',
         },
         {
-          text: '© 2022 Mary Holtz Art',
+          text: '© 2022 Global Urban Food Forests',
           link: '#',
         },
       ],
     },
 
     sitemap: {
-      hostname: 'https://maryholtz.art/'
+      hostname: 'https://vercel.com/ecocity/globalurbanfoodforests'
     },
     comment: {
       service: 'disqus',
@@ -90,7 +90,7 @@ module.exports = {
       endpoint: '#'
     },
     feed: {
-      canonical_base: 'https://maryholtz.art/',
+      canonical_base: 'https://vercel.com/ecocity/globalurbanfoodforests',
     },
     smoothScroll: true
   },
