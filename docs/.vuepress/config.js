@@ -67,10 +67,20 @@ module.exports = {
           link: '#',
         }
       ],
+      footeraddress: [
+        {
+          text: 'The Sexto Sol Center<BR>Attn:  Luis Manriquez<BR>5764 E Hampton Ave<BR>Mesa AZ 85206',
+          link: '#',
+        },
+      ],
       copyright: [
         {
           text: 'The Sexto Sol Center, Attn:  Luis Manriquez, 5764 E Hampton Ave, Mesa AZ 85206',
           link: '#',
+        },
+        {
+          text: 'Donate',
+          link: '',
         },
         {
           text: 'Policy Analysis',
@@ -123,7 +133,7 @@ module.exports = {
       shortname: '#',
     },
     newsletter: {
-      endpoint: '#'
+      endpoint: 'https://us2.list-manage.com/subscribe?u=24abe2b217c6bfff52bd46b8e&id=b26714d01c'
     },
     feed: {
       canonical_base: 'https://github.com/biomassives/sextosol-blog-theme/',
