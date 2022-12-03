@@ -4,8 +4,8 @@ title: Project Goals Statement
 date: 2022-12-01T07:00:00.000+00:00
 author: Mary
 featuredimg: "/assets/img/ecoops_logo_an2.gif"
-summary: Creating art is the perfect anti-depressant, and in that healing power, I
-  can find myself
+summary: Global Urban Food Forests redistributes food and resources in the greater
+  Denver / Boulder front range region.
 
 ---
 
