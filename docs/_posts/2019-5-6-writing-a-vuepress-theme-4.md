@@ -1,6 +1,6 @@
 ---
 title: Coffee
-date: 2021-04-24 04:00:00 +0000
+date: 2021-04-24T04:00:00.000+00:00
 tags:
 - Coffee
 author: Tamara
@@ -38,7 +38,8 @@ Also – While most coffee in the Sierra Madre of Chiapas is produced without ch
 
 ![](http://www.sextosol.org/images/coffee_solutions/solutions_men_coffeebags.jpg =308x200)
 
-#### Members of Nuevo Bullaj Cooperative and   
+#### Members of Nuevo Bullaj Cooperative and
+
 Francisco Barrios, Sexto Sol Program Coordinator
 
 ***
@@ -65,7 +66,7 @@ If you or your business might be interested in helping Sexto Sol to assist these
 
 ## The Sexto Sol Center’s Work on Behalf of Coffee Growers
 
- Since 1997, the Sexto Sol Center has organized small-scale farmers into cooperatives and worked to help them become export-ready so that they might earn a better price for their coffee (See “from our archives” below for more on that effort). We have helped them to achieve the best price possible year after year. Our strategy has been to prepare them to qualify for organic certification and to enter into the Fair Trade market in order to work toward the goal of earning a more stable price. Our aim has been to propel small grower organizations into direct relationships with buyers from the Specialty Coffee Market. Part of this work has been to educate roasters and others in the coffee industry about the challenges that small growers face.
+Since 1997, the Sexto Sol Center has organized small-scale farmers into cooperatives and worked to help them become export-ready so that they might earn a better price for their coffee (See “from our archives” below for more on that effort). We have helped them to achieve the best price possible year after year. Our strategy has been to prepare them to qualify for organic certification and to enter into the Fair Trade market in order to work toward the goal of earning a more stable price. Our aim has been to propel small grower organizations into direct relationships with buyers from the Specialty Coffee Market. Part of this work has been to educate roasters and others in the coffee industry about the challenges that small growers face.
 
 ![](http://www.sextosol.org/images/coffee_solutions/15jesusinmeeting.jpg =274x189)
 
@@ -83,7 +84,7 @@ For many, many years, coffee farming has only provided farmers with a poor stand
 
 ### Collaboration with ARDIGUA in Guatemala – cooperative coffee farms
 
- (2003)
+(2003)
 
 What has become more urgent in the context of the current price crisis is the need to insure that the farmers can simply survive with dignity before we think about helping them export. In the 2002 harvest, with prices at half the cost of production, many growers simple could not afford to pick their coffee. This has been a devastating blow for the effort to organize for export. It compels us to find other ways to assist small-scale coffee growers who are the majority of the rural population in the Sierra Madre.
 
@@ -103,7 +104,7 @@ ARDDIGUA’s 12 collective coffee plantations in Guatemala could potentially bec
 
 ## Strong Coffee: Former Refugees Grow Coffee on a Cooperative Farm in Guatemala
 
- Tamara Brennan, Ph.D.
+Tamara Brennan, Ph.D.
 
 Coffee is grown in some of the most politically and culturally complex places in the world. For this very reason, the “richness” of a cup of a particular coffee can be more than a matter of flavor. In some special cases, the human qualities innate in a particular coffee give it profoundness beyond the taste experience. This added complexity is what makes the world of coffee so exotic and intriguing. The inspiring story of the new owners of the Nueva Eden coffee plantation in San Marcos province in Guatemala, all former refugees, is one such case.
 
@@ -133,7 +134,7 @@ A new emphasis on planting timber trees as shade for coffee has a great deal of 
 
 ### There is a better way! – Forming Coffee Cooperatives"
 
- “La Union Hace la Fuerza!” Unity Creates Strength! Since 1997, we have been organizing small-scale coffee growers from the Sierra Madre to overcome the obstacles to selling their quality coffee directly to the foreign importers.
+“La Union Hace la Fuerza!” Unity Creates Strength! Since 1997, we have been organizing small-scale coffee growers from the Sierra Madre to overcome the obstacles to selling their quality coffee directly to the foreign importers.
 
 For two years we have been working with an association of growers who are committed to doing the work needed to be export ready. They are committed to producing organically and selling cooperatively. Named after a famous poem about Chiapas, the organization “Chiapas es en el Cosmos” produces high altitude coffee that we one day hope to market under the name “Cosmic Coffee.”
 
