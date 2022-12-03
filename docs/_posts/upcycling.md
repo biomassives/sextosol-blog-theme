@@ -4,7 +4,7 @@ tags:
 - plastic reuse
 - solid waste management
 title: Upcycling
-date: 2021-04-24 04:00:00 +0000
+date: 2021-04-24T04:00:00.000+00:00
 author: Tamara
 featuredimg: "/assets/img/header_bolsas.jpg"
 summary: Each year tons of bottles and other plastic junk is dredged from the Canyon
@@ -18,7 +18,15 @@ summary: Each year tons of bottles and other plastic junk is dredged from the Ca
 
 Chiapas has a serious problem with solid waste, mostly plastic, clogging waterways and filling the air with toxic smoke when it is burned in landfills. Each year tons of bottles and other plastic junk is dredged from the Canyon de Sumidero, a national park that attracts tens of thousands of tourists each year. Beaches are littered with plastic that has been tumbled in the surf.
 
-![](http://www.sextosol.org/images/upcycle/BagBasket.jpg =x190) ![](http://www.sextosol.org/images/blank.gif =10x190) ![](http://www.sextosol.org/images/upcycle/GirlsBags.jpg =x190)
+ **High school students learn to upcycle**
+
+![](/assets/img/girlsbags.jpg)
+
+ **high school students learn to upcycle**
+
+![](/assets/img/bagbasket.jpg)
+
+**Baskets made from plastic bags.**
 
 #### Basket made from plastic bags, high school students learn to upcycle
 
@@ -31,3 +39,7 @@ With the steep topography of the Sierra, there is little space for landfills. In
 See how we upcycling aluminum cans, cardboard boxes and discarded styrofoam to make [heaters for schools](http://www.sextosol.org/approptech.html)
 
 ![](http://www.sextosol.org/images/upcycle/silverPurse.jpg =x215) ![](http://www.sextosol.org/images/upcycle/changePurse.jpg =x215)
+
+![](/assets/img/silverpurse.jpg)
+
+![](/assets/img/changepurse.jpg)
