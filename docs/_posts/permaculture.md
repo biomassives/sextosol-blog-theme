@@ -71,11 +71,11 @@ In years past we showed visitors how to build small dams called swales to catch 
 
 Land of this size is usually planted only with corn. By contrast we demonstrate how a small parcel can be made much more productive by growing fruit and nut trees, fish, poultry, vegetables and medicinal plants. Trees and perinneals can help regulate temperatures and serve as a windbreak. The "huerto familiar" or family vegetable garden shows that by managing well a small area, a family can produce a significant amount of nutritious organic produce.
 
-![](http://www.sextosol.org/images/rancho_tierra_linda/farm_men_garden.jpg =308x200)
+![](/assets/img/farm_men_garden.jpg)
 
 Escuela Tierra Linda fills the need for a facility that serves as a living classroom to give people hands-on training. People can see how the methods function over time and receive help with problems they encounter with their own crops. The program was originally made possible by the generous support of the Stanley Smith Horticultural Trust. Other major contributors have been Patagonia and the Rosenlund Family.
 
-![](http://www.sextosol.org/images/rancho_tierra_linda/AEn.JPG =x167)
+![](/assets/img/aen.JPG)
 
 ## Permaculture, Biointensive and Organic Farming
 
