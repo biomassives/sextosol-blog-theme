@@ -81,7 +81,12 @@ Escuela Tierra Linda fills the need for a facility that serves as a living class
 
 The Sexto Sol Center actively promotes permaculture as a way to bring creativity and common sense to bear on how to use limited resources and solve site-specific problems caused by wind, poor soil, slope, and drought. We show people how they can produce an abundance of foods while at the same time creating a system where wastes are recycled, water is used wisely and energy consumption is reduced. In practice, permaculture creates a stable system that mimics nature and is therefore sustainable.
 
-![](http://www.sextosol.org/images/rancho_tierra_linda/healthpros.jpg =x220) ![](http://www.sextosol.org/images/rancho_tierra_linda/tamgirls.jpg =x220) ![](http://www.sextosol.org/images/rancho_tierra_linda/2watering.jpg =x190) ![](http://www.sextosol.org/images/rancho_tierra_linda/sistemariego.jpg =x190)
+![](/assets/img/healthpros.jpg)
+
+![](/assets/img/tamgirls.jpg)  
+![](/assets/img/2watering.jpg)
+
+![](/assets/img/sistemariego.jpg)
 
 At Escuela Tierra Linda we teach biointensive, organic methods that rely on continually replenishing of the soil with compost, green manure, and other natural means. Properly practiced, the yields are higher than average and water consumption is less. This method is recognized as a promising alternative to chemical-based agriculture for small-scale vegetable and grain production in developing countries.
 
@@ -90,5 +95,3 @@ While people usually expect to be taught how to do these things, we are commited
 Once coffee-growing families establish their own permaculture systems they will be freed from worry about basic survival and improve the quality of their lives.
 
 ## Our work is made possible by the financial support of people like you
-
-[![](http://www.sextosol.org/images/buttons/DonateClear.png)](http://www.sextosol.org/donations.html)
