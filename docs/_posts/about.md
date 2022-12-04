@@ -1,8 +1,8 @@
 ---
 tags: []
-title: About SCd Hub
+title: About SCD Hub
 date: 2022-12-01T07:00:00.000+00:00
-author: Mary
+author: Geog
 featuredimg: "/assets/img/holiday2_maryholtz.jpg"
 summary: " intuitive art interpretation"
 
