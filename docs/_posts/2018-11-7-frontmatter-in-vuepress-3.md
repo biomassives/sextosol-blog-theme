@@ -4,7 +4,7 @@ date: 2021-04-24T04:00:00.000+00:00
 tags:
 - frontmatter
 - vuepress
-author: John Doe
+author: Tamara Brennan
 featuredimg: "/assets/img/seedssmiling.JPG"
 summary: Giving women access to water in their homes; Empowering women to overcome
   the trauma of domestic violence
