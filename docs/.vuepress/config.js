@@ -75,12 +75,8 @@ module.exports = {
       ],
       copyright: [
         {
-          text: 'The Sexto Sol Center, Attn:  Luis Manriquez, 5764 E Hampton Ave, Mesa AZ 85206',
-          link: '#',
-        },
-        {
           text: 'Donate',
-          link: '',
+          link: 'https://www.paypal.com/donate?token=8LySedvicNp1hkesjTrym3dRChyPdrba4i31-FxUgrcfpwgYhcursy4vGNYkDfRfTsX0ku3cL9DwtJdQ',
         },
         {
           text: 'Policy Analysis',
@@ -121,7 +117,11 @@ module.exports = {
         {
           text: 'Ecovillages',
           link: 'https://sextosol.org/2021/04/24/eco-villages/',
-        },    
+        },   
+        {
+          text: 'Contact/ Donate: The Sexto Sol Center, Attn:  Luis Manriquez, 5764 E Hampton Ave, Mesa AZ 85206',
+          link: '#',
+        },        
       ],
     },
 
