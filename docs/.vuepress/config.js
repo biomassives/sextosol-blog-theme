@@ -3,7 +3,7 @@ module.exports = {
   base: '/',
   dest: 'public',
   description: 'Helping rural people create solutions for their families and communities',
-  logo: './assets/img/logo.png',
+  logo: 'https://cdn.forestry.io/res2/2Mb7yLQhR7yJkYOUWBjLa5w7dhZKPUICfPwmD4vz8EU/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDUzJSVmJuaE5Q/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tZjYy/MGJjMmQ2YWRhMTEy/ZDBiZDJhMzlhM2U3/ZjI5MzlkZDQwYjc3/Ni9zZXh0b3NvbF9j/ZW50ZXJfNzIud2Vi/cA',
   theme: require.resolve('../../'),
   themeConfig: {
   authors: [
