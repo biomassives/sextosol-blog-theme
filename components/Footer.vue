@@ -60,6 +60,13 @@ class="contact-item"
 </div>
 </div>
 
+
+<div class="col text-center">
+<b>Contact/ Donate:</b>
+<br>The Sexto Sol Center,
+<br>Attn: Luis Manriquez,
+<br>5764 E Hampton Ave, Mesa AZ 85206
+</div>
 </footer>
 </template>
 
