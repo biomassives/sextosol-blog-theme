@@ -9,24 +9,26 @@
 
 <BR /><BR />
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-<br>$ <font face="helvetica"><input type="textfield" name="a3" value="" size="10"> * </font>
-<font size="2" face="helvetica">
-for <input type="text fields" name="Number_of_Months" value="12" size="2"> months*<br><br></font><font face="helvetica">
-<input type="hidden" name="p3" value="1">
-<input type="hidden" name="no_note" value="1">
-<input type="hidden" name="t3" value="M">
-<input type="hidden" name="src" value="1">
-<input type="hidden" name="sra" value="1">
-<input type="hidden" name="cmd" value="_xclick-subscriptions">
-<input type="hidden" name="return" value="http://www.sextosol.org/thanks.html">
-<input type="hidden" name="currency_code" value="USD">
-<input type="image" src="https://www.paypal.com/images/x-click-but20.gif" name="submit3" alt="Click here to make monthly payments with PayPal.  It's fast, free and secure!" width="62" height="31" border="0">
-<input type="hidden" name="business" value="donations@sextosol.org">
-<input type="hidden" name="item_name" value="The Sexto Sol Center">
-<input type="hidden" name="item_number" value="Winter 2005 appeal"></font><br>
-<p></p><center>*Enter amount and number of months</center><p></p>
-</form>
+<div style="border-radius: 25px; background: url(/assets/img/paper.gif); background-position: left top; background-repeat: repeat; padding: 20px; width: 200px; height: 150px;">
+    <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+    <br>$ <font face="helvetica"><input type="textfield" name="a3" value="" size="10"> * </font>
+    <font size="2" face="helvetica">
+    for <input type="text fields" name="Number_of_Months" value="12" size="2"> months*<br><br></font><font face="helvetica">
+    <input type="hidden" name="p3" value="1">
+    <input type="hidden" name="no_note" value="1">
+    <input type="hidden" name="t3" value="M">
+    <input type="hidden" name="src" value="1">
+    <input type="hidden" name="sra" value="1">
+    <input type="hidden" name="cmd" value="_xclick-subscriptions">
+    <input type="hidden" name="return" value="http://www.sextosol.org/thanks.html">
+    <input type="hidden" name="currency_code" value="USD">
+    <input type="image" src="https://www.paypal.com/images/x-click-but20.gif" name="submit3" alt="Click here to make monthly payments with PayPal.  It's fast, free and secure!" width="62" height="31" border="0">
+    <input type="hidden" name="business" value="donations@sextosol.org">
+    <input type="hidden" name="item_name" value="The Sexto Sol Center">
+    <input type="hidden" name="item_number" value="Winter 2005 appeal"></font><br>
+    *Enter amount and number of months
+    </form>
+</div>
 
 
 
