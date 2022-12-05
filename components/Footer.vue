@@ -11,7 +11,7 @@
 
 <div style="color: #000; border-radius: 25px; background: #fff; background-position: left top; background-repeat: repeat; padding: 20px; width: 200px; height: 150px;">
     <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-    <br>$ <font face="helvetica"><input type="textfield" name="a3" value="" size="10"> * </font>
+    <br>$ <font face="helvetica"><input type="textfield" name="a3" value="" size="10"> **Enter amount and number of months</font>
     <font size="2" face="helvetica">
     for <input type="text fields" name="Number_of_Months" value="12" size="2"> months*<br><br></font><font face="helvetica">
     <input type="hidden" name="p3" value="1">
@@ -26,7 +26,7 @@
     <input type="hidden" name="business" value="donations@sextosol.org">
     <input type="hidden" name="item_name" value="The Sexto Sol Center">
     <input type="hidden" name="item_number" value="Winter 2005 appeal">
-    *Enter amount and number of months</font><br>
+    <br>
     </form>
 </div>
 
