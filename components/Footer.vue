@@ -13,7 +13,8 @@
  <BR />
    
     <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-    <font size="2" face="helvetica"><input type="textfield" name="a3" value="" size="10">Please donate monthly if you can</font>
+    <font size="2" face="helvetica">Please donate monthly if you can</font>
+    <br><b>$</b><input type="textfield" name="a3" value="" size="10"> 
     <br><font size="2" face="helvetica">
     for <input type="text fields" name="Number_of_Months" value="12" size="2"> months*<br><br></font><font face="helvetica">
     <input type="hidden" name="p3" value="1">
