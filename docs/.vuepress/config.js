@@ -28,7 +28,7 @@ module.exports = {
         },
         {
           type: 'facebook',
-          link: '#',
+          link: 'https://www.facebook.com/The-Sexto-Sol-Center-211129337269/',
         },
         {
           type: 'github',
