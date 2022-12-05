@@ -5,7 +5,7 @@
 <div class="row justify-content-between">
 <div class="col">
 
-<div style="color: #000; border-radius: 25px; background: #fff; background-position: left top; background-repeat: repeat; padding: 20px; width: 200px; height: 150px;">
+<div style="color: #000; border-radius: 25px; background: #fff; background-position: left top; background-repeat: repeat; padding: 20px;">
 
 
 <a href="/"><img class="logofooter" width="322" height="37" :src="($withBase)($themeConfig.logo)"></a>
