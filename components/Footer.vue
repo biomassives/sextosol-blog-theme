@@ -9,7 +9,7 @@
 
 <BR /><BR />
 
-<div style="border-radius: 25px; background: url(/assets/img/paper.gif); background-position: left top; background-repeat: repeat; padding: 20px; width: 200px; height: 150px;">
+<div style="border-radius: 25px; background: #fff; background-position: left top; background-repeat: repeat; padding: 20px; width: 200px; height: 150px;">
     <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
     <br>$ <font face="helvetica"><input type="textfield" name="a3" value="" size="10"> * </font>
     <font size="2" face="helvetica">
