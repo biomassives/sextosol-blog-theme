@@ -10,8 +10,7 @@
 
 <a href="/"><img class="logofooter" width="322" height="37" :src="($withBase)($themeConfig.logo)"></a>
 
-
-<BR /> Please consider donating monthly. <BR />
+ <BR />
    
     <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
     <br>$ <font face="helvetica"><input type="textfield" name="a3" value="" size="10"> *Enter amount and number of months</font>
