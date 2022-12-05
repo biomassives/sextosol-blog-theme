@@ -25,8 +25,8 @@
     <input type="image" src="https://www.paypal.com/images/x-click-but20.gif" name="submit3" alt="Click here to make monthly payments with PayPal.  It's fast, free and secure!" width="62" height="31" border="0">
     <input type="hidden" name="business" value="donations@sextosol.org">
     <input type="hidden" name="item_name" value="The Sexto Sol Center">
-    <input type="hidden" name="item_number" value="Winter 2005 appeal"></font><br>
-    *Enter amount and number of months
+    <input type="hidden" name="item_number" value="Winter 2005 appeal">
+    *Enter amount and number of months</font><br>
     </form>
 </div>
 
