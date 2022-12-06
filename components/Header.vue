@@ -30,7 +30,7 @@ class="nav-item"
 
 nav {    
     display: block;
-    text-align: left;
+    text-align: center;
   }
   nav ul {
     margin: 0;
@@ -39,13 +39,13 @@ nav {
   }
   .nav a {
     display:block; 
-    background: #111; 
-    color:#fff; 
+    background: #fff; 
+    color:#000; 
     text-decoration: none;
     padding: .8em 1.8em;
     text-transform: none;
     font-size: 80%;letter-spacing: 2px;
-    text-shadow: 0 -1px 0 #000;
+    text-shadow: 0 -1px 0 #efefef;
     position: relative;
   }
   .nav{  
