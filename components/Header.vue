@@ -51,7 +51,7 @@ nav {
   .nav{  
     vertical-align: top; 
     display: inline-block;
-    box-shadow: 1px -1px -1px 1px #000, -1px 1px -1px 1px #fff, 0 0 6px 3px #fff;
+    box-shadow: 1px -1px -1px 1px #efefef, -1px 1px -1px 1px #fff, 0 0 6px 3px #fff;
     border-radius:6px;
   }
   .nav li{position: relative;}
