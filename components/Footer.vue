@@ -4,8 +4,24 @@
 <div class="container">
 <div class="row justify-content-between">
 <div class="col">
-<a href="/"><img class="logofooter" width="224" height="50" src="/assets/img/mary-holtz-art.webp"></a><BR>
-<b>Mary Holtz Art</b>
+ 
+
+
+
+
+<div style="color: #000;border-radius: 25px; height: 280px; width: 320px; background-color: #fff; padding: 20px; background-position: left top; padding: 20px;">
+    <a href="/"><img src="https://cdn.forestry.io/res2/5nCQbpDfRJxHCjIoded-EMLNZGp_hfoVa4yFLWdclK4/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDUjFsdGNFRjNQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tN2Iw/NGFiMjMwNjQzY2Yx/YjA1NTlmOTkwZjZk/NDQ2MWFlNWM2MjE5/OC9TY3JlZW5zaG90/XzIwMjEtMDQtMjYl/MjBWb2x1bnRlZXIl/MjBhbmQlMjBJbnRl/cm5zaGlwJTIwUHJv/Z3JhbSUyMC0lMjBT/ZXh0byUyMFNvbCwl/MjBNZXhpY28lMjBh/bmQlMjBHdWF0ZW1h/bGEucG5n" class="logofooter" width="322" height="37"></a> 
+    <br><br> <form action="https://www.paypal.com/cgi-bin/webscr" method="post"><font size="2" face="helvetica">Please donate monthly if you can</font> 
+
+    <br><b>$</b><input type="textfield" name="a3" value="" size="10"> <br><font size="2" face="helvetica">
+    for <input type="text fields" name="Number_of_Months" value="12" size="2"> months*<br><br></font><font face="helvetica"><input type="hidden" name="p3" value="1"> <input type="hidden" name="no_note" value="1"> <input type="hidden" name="t3" value="M"> <input type="hidden" name="src" value="1"> <input type="hidden" name="sra" value="1"> <input type="hidden" name="cmd" value="_xclick-subscriptions"> <input type="hidden" name="return" value="http://www.sextosol.org/thanks.html"> <input type="hidden" name="currency_code" value="USD"> <input type="image" src="https://www.paypal.com/images/x-click-but20.gif" name="submit3" alt="Click here to make monthly payments with PayPal.  It's fast, free and secure!" width="62" height="31" border="0"> <input type="hidden" name="business" value="donations@sextosol.org"> <input type="hidden" name="item_name" value="The Sexto Sol Center"> <input type="hidden" name="item_number" value="Winter 2005 appeal"> <br></font></form>
+    
+    </div>
+
+
+
+
+
 </div>
 <div class="col text-right">
 <ul v-if="contact" class="list-unstyled">
