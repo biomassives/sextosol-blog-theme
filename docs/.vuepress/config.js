@@ -1,8 +1,8 @@
 module.exports = {
-  title: 'Mary Holtz Art',
+  title: 'The Sexto Sol Center',
   base: '/',
   dest: 'public',
-  description: 'Creating art is the perfect anti-depressant, and in that healing power, I can find myself.',
+  description: 'The Sexto Sol Center for Community Action is a U.S. based non-profit organization (501(c)3) dedicated to implementing grassroots solutions to the severe economic and ecological challenges faced by impoverished indigenous campesino communities in the Sierra Madre of Chiapas.',
   logo: './assets/img/logo.png',
   theme: require.resolve('../../'),
   themeConfig: {
@@ -69,18 +69,18 @@ module.exports = {
       ],
       copyright: [
         {
-          text: 'via Free Software.',
-          link: 'https://github.com/biomassives/sextosol-blog-theme/tree/maryholtz.art',
+          text: 'Site uses Vercel, Git, Foresty.io',
+          link: 'https://github.com/biomassives/sextosol-blog-theme',
         },
         {
-          text: '© 2022 Mary Holtz Art',
+          text: '© 2022 Tamara Brennan, The Sexto Sol Center',
           link: '#',
         },
       ],
     },
 
     sitemap: {
-      hostname: 'https://maryholtz.art/'
+      hostname: 'https://sextosol.org/'
     },
     comment: {
       service: 'disqus',
@@ -90,7 +90,7 @@ module.exports = {
       endpoint: '#'
     },
     feed: {
-      canonical_base: 'https://maryholtz.art/',
+      canonical_base: 'https://sextosol.org/',
     },
     smoothScroll: true
   },
