@@ -61,7 +61,6 @@ nav {
   } 
   .nav > li > a { 
     margin-bottom:1px;
-    box-shadow:inset 0 2em .33em -.5em #555; 
   }
   .nav > li:hover , .nav > li:hover >a{  border-bottom-color:orange;}
   .nav li:hover > a { color:orange; }
