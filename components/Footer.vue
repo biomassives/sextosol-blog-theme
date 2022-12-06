@@ -5,6 +5,7 @@
 <div class="row justify-content-between">
 <div class="col">
 
+<div style="border-radius: 25px;  height: 310px; width: 350px; background-color: #ff5733;">
 <div style="color: #000; border-radius: 25px; height: 280px; width: 320px; background-color: #fff; padding: 20px; background-position: left top; padding: 20px;">
 
 
@@ -31,6 +32,7 @@
     <input type="hidden" name="item_number" value="Winter 2005 appeal">
     <br>
     </form>
+</div>
 </div>
 
 
