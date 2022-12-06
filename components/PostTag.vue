@@ -39,7 +39,7 @@ export default {
     top 10px
     background #fff
     border-radius 50%
-    box-shadow inset 0 1px rgba(0, 0, 0, 0.25)
+    /*box-shadow inset 0 1px rgba(0, 0, 0, 0.25)*/
     content ''
     height 6px
     width 6px
