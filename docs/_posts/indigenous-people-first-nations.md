@@ -15,7 +15,7 @@ summary: " Extractive projects, concieved of in board rooms far from indigenous 
 
 The Sexto Sol Center seeks to contribute to and celebrate progress toward creating right relations among the world's peoples. In this section we provide information on the effort of First Nations around the world to establish the proper recognition of their status as nations.
 
-We also periodically post news about cases where the impact on indigenous communities of free trade which afford an inordinate measure of rights to foreign companies seeking access to raw materials on their lands. Extractive projects, concieved of in board rooms far from indigenous lands, force the communities to take a defensive stance against extractive activities that put their lives and livelihoods at an unacceptible level of risk.
+We also periodically post news about cases where the impact on indigenous communities of free trade which afford an inordinate measure of rights to foreign companies seeking access to raw materials on their lands. Extractive projects, conceived of in board rooms far from indigenous lands, force the communities to take a defensive stance against extractive activities that put their lives and livelihoods at an unacceptable level of risk.
 
 Traditional peoples know how to keep their lands in balance and do so as a contribution to the integrity of the entire planet. The tragedy of mining, logging, oil exploitation, water pumping and other resource extraction in the territories of native peoples against their will requires solidarity from the international community. We can all begin by reducing our consumption of the Earth's resources. We can work toward an energy policy that is not based on corporate profit-making at all cost, but on the responsible use of the gifts of a finite planet that we will leave for future generations.
 
@@ -66,7 +66,7 @@ The overwhelming majority of member nations voted in favor, 143, while only Aust
 
 One of the most appropriate international agreements in existance to date is known as ILO 169, the Convention (No. 169) concerning Indigenous and Tribal Peoples in Independent Countries. Adopted on 27 June 1989 by the General Conference of the International Labour Organisation of the United Nations, this agreement by nations went into force 5 September 1991. Find the entire text: [http://www.unhchr.ch/html/menu3/b/62.htm](http://www.unhchr.ch/html/menu3/b/62.htm "http://www.unhchr.ch/html/menu3/b/62.htm")
 
-The following are cases of progress and cases of resisitance. For more information on a case, please consult the internet.
+The following are cases of progress and cases of resistance. For more information on a case, please consult the internet.
 
 ## Guatemala: Court Fails to Rule in Favor of Community Radio
 
