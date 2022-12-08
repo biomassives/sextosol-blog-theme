@@ -1,11 +1,11 @@
 ---
 title: Home
-date: 2021-04-24 04:00:00 +0000
+date: 2021-04-24T04:00:00.000+00:00
 tags:
 - Home
 author: Tamara Brennan
-featuredimg: https://images.unsplash.com/photo-1573247318220-c2683ee87351?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60
-summary: Mediumish is the best VuePress theme Medium styled.
+featuredimg: "/assets/img/kidswindowheader2.jpg"
+summary: Helping rural people create solutions for their families and communities
 
 ---
 # Helping rural people create solutions for their families and communities
@@ -21,7 +21,9 @@ According to the Mayan calendar, the world has just entered the Sixth Sun,
 
 ## Sexto Sol's Programs and Projects
 
-![](http://www.sextosol.org/images/Leonel.jpg =x250)The work of the Sexto Sol Center has evolved over the years since the projects that we do are a response to the requests we receive from the people for our involvement. Our main program areas are: sustainable livelihoods, sustainable food production, environment, improving schools, and advocating for human rights and human-centered policy. Typically at any one time we work on a select few projects that fit into these areas of expertise. We teach local people how to grow their own food organically at our permaculture farm Escuela de Agroecología y Permacultura Tierra Linda in Motozintla, Chiapas, Mexico.
+![](/assets/img/leonel.jpg)
+
+The work of the Sexto Sol Center has evolved over the years since the projects that we do are a response to the requests we receive from the people for our involvement. Our main program areas are: sustainable livelihoods, sustainable food production, environment, improving schools, and advocating for human rights and human-centered policy. Typically at any one time we work on a select few projects that fit into these areas of expertise. We teach local people how to grow their own food organically at our permaculture farm Escuela de Agroecología y Permacultura Tierra Linda in Motozintla, Chiapas, Mexico.
 
 We are pleased to announce our newest program International Partners for Healing, or, Alianza Internacional para la Superación Emocional. IPH brings the hope of emotional haling to places in our world where large populations are suffering from the traumas caused by conflict, natural disaster and other overwhelming challenges. IPH partners provide training in highly effective therapies to local healers so that they can help their own communities to heal. [**Read**](http://www.sextosol.org/International_Partners.html) a description of the program, the impact it will have, and the incredible partners with whom we are proud to work. [**Learn**](http://www.sextosol.org/science.html) about the science supporting energy psychology.
 
@@ -33,12 +35,6 @@ On a planet with incredibly abundant biodiversity, water and renewable resources
 
 **"Don't ask what the world needs. Ask what makes you come alive, and go do it. Because what the world needs is people who have come alive." Howard Thurman**
 
-![](http://www.sextosol.org/images/blank.gif =500x25)
-
 ### View the Sexto Sol Story on YouTube!
 
-![](http://www.sextosol.org/images/blank.gif =500x25) ![](http://www.sextosol.org/images/blank.gif =500x25)
-
 ## Our work is made possible by the financial support of people like you
-
-[![](http://www.sextosol.org/images/buttons/DonateClear.png)](http://www.sextosol.org/donations.html)
