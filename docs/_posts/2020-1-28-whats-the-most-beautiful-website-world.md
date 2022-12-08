@@ -1,6 +1,6 @@
 ---
 title: The Challenges Faced by Small-scale Coffee Farmers
-date: 2020-01-28 05:00:00 +0000
+date: 2020-01-28T05:00:00.000+00:00
 tags:
 - respect
 author: Tamara
@@ -10,11 +10,13 @@ summary: Any website that uses a static generator.
 ---
 # The Challenges Faced by Small-scale Coffee Farmers
 
- To learn about our work to assist coffee farmers to better market their coffee, click here.
+![](/assets/img/header_cooperative_coffee.jpg)
+
+To learn about our work to assist coffee farmers to better market their coffee, click here.
 
 ### Even though coffee has been called "black gold," the average small-scale grower lives in poverty
 
-![](http://www.sextosol.org/images/portraits/bluecrack.jpg =x200)
+![](/assets/img/bluecrack.jpg)
 
 From the rich soils of the steep Sierra Madre Mountains, thousands of "cafetaleros" harvest the coffee that they sell to sustain their families. The average small-scale farm produces about 20 bags of 100 pounds of coffee each year. For the vast majority, coffee is all that cafetaleros have for earning a livelihood. It is a fragile crop that is vulnerable to fluctuations in the weather and requires a great deal of labor. Coffee has made fortunes for some in the industry. But three human-caused factors, environmental degradation, the international pricing structure and the way coffee is bought locally, conspire against coffee families who, despite their honest labor, remain the perpetual poor of the Sierra Madre.
 
@@ -42,7 +44,7 @@ Ethiopia and Burundi are countries that derive a major portion of their national
 
 #### The coffee crisis is yet another opportunity for people to learn just how connected we are.
 
- Increases in civil strife in poor countries should be viewed in terms of the loss of the means of making a living for large sectors of those countries from distortions created in local economies by international trade and macro finance. We encourage you to look at the larger context of events when analyzing world news. Do not tolerate repression in other countries that would seek only to enforce corrupt economic schemes. Instead envision, and then work for the establishment of a more stable world economy. Human rights and the will of the people must always be respected. Let the failed economic scheme wither away. It is time now.
+Increases in civil strife in poor countries should be viewed in terms of the loss of the means of making a living for large sectors of those countries from distortions created in local economies by international trade and macro finance. We encourage you to look at the larger context of events when analyzing world news. Do not tolerate repression in other countries that would seek only to enforce corrupt economic schemes. Instead envision, and then work for the establishment of a more stable world economy. Human rights and the will of the people must always be respected. Let the failed economic scheme wither away. It is time now.
 
 As for the futures market…The unfortunate suggestion to Vietnam that coffee would solve that country’s lack of development has brought disaster to millions who depend on coffee for a living now that production greatly exceeds consumption. Ted Lingle, president of the Specialty Coffee Association of America is quoted in a Denver Post article on Fair trade coffee. His suggestion to the Commodities Exchange is that “triage” or trash coffee should not be counted in the world volume of coffee on which prices are established in a given year.
 
@@ -70,7 +72,7 @@ PLEASE SEE COFFEE SOLUTIONS SECTION TO LEARN OF OUR WORK TO FIND SOLUTIONS
 
 #### Definition of Sustainable Trade From the Institute for Environment and Development
 
- Sustainable trade takes place when the international exchange of goods and services yields positive social, economic and environmental benefits, reflecting the four core criteria of sustainable development:
+Sustainable trade takes place when the international exchange of goods and services yields positive social, economic and environmental benefits, reflecting the four core criteria of sustainable development:
 
 1. it generates economic value...
 2. it reduces poverty and inequality...
