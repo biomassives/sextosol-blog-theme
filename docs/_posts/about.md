@@ -3,7 +3,7 @@ tags: []
 title: About
 date: 2022-12-01T07:00:00.000+00:00
 author: Muirithi
-featuredimg: "/assets/img/holiday2_maryholtz.jpg"
+featuredimg: "/assets/img/jar2.jpg"
 summary: " intuitive art interpretation"
 
 ---
