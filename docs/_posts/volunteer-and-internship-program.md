@@ -3,9 +3,9 @@ tags:
 - volunteers
 - internships
 title: Volunteer and Internship Program
-date: 2022-12-02 05:00:00 +0000
+date: 2022-12-02T05:00:00.000+00:00
 author: Tamara
-featuredimg: "/assets/img/header_kidsmale.jpg"
+featuredimg: "/assets/img/seedslooking.JPG"
 summary: ''
 
 ---
