@@ -1,6 +1,6 @@
 ---
 tags: []
-title: Mucrofinance
+title: Microfinance
 date: 
 author: Muirithi
 featuredimg: ''
