@@ -11,6 +11,8 @@ summary: The number of confirmed COVID-19 cases jumped.
 ---
 # Our Approach and Philosophy
 
+![](/assets/img/header_canada-3.jpg)
+
 The Sexto Sol Center for Community Action is a U.S. based non-profit organization (501(c)3) dedicated to implementing grassroots solutions to the severe economic and ecological challenges faced by impoverished indigenous campesino communities in the Sierra Madre of Chiapas. The field team develops and implements the projects from our permanent field office in Motozintla, Chiapas, Mexico. Through the Centerâ€™s programs, since 1997 we have been helping people to create new opportunities to reach a better quality of life for their families while using the land in a more ecologically sustainable way.
 
 In general we promote the ethic of "community action" whereby community members work together to solve common problems or the reach common goals. We organize cooperatives as the best way for farmers to pool limited resources to create the infrastructure to allow them to market their goods in volume for the best possible returns. The cooperative model provides a pathway out of poverty and isolation. It has great potential as a way to create economic opportunities, the mutual support of a healthy community, and eventually true democracy.
@@ -32,3 +34,5 @@ Philosophically, we do not see people as separate from the natural world, rather
 ### [View the Sexto Sol Story on YouTube](https://www.youtube.com/embed/-vwotU5GDUs)
 
 ## Our work is made possible by the financial support of people like you
+
+![](/assets/img/kidspond.jpg)
