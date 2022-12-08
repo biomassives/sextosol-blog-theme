@@ -3,9 +3,9 @@ tags:
 - inigenous people
 - first nations
 title: Indigenous People, first nations
-date: 2021-04-24 04:00:00 +0000
+date: 2021-04-24T04:00:00.000+00:00
 author: Tamara
-featuredimg: ''
+featuredimg: "/assets/img/header_ribbonhats.jpg"
 summary: " Extractive projects, concieved of in board rooms far from indigenous lands,
   force the communities to take a defensive stance against extractive activities that
   put their lives and livelihoods at an unacceptible level of risk."
