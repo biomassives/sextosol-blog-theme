@@ -79,7 +79,7 @@ Sustainable trade takes place when the international exchange of goods and servi
 3. it regenerates the environmental resource base, and...
 4. it is carried out within an open and accountable system of governance
 
-![](http://www.sextosol.org/images/sierra_oro/tn_villageelder.jpg =143x163) ![](http://www.sextosol.org/images/blank.gif =10x163)
+![](/assets/img/tn_villageelder.jpg)
 
 ### The following article appeared in the Sept/ Oct. Issues of the Chronicle of the Specialty Coffee Association of America
 
@@ -101,7 +101,7 @@ Francisco Barrios, who was born in the Sierra Madre and as a young man rode his 
 
 But his vision does not stop there. Coffee is a fragile crop as we saw last year when drought, fires which spread from the yearly practice of burning cornfields, and finally three devastating hurricanes destroyed over 80% of the harvest. Added to this disaster was the blow of some of the lowest prices in recent memory. For this reason, Barrios promotes the creation of a fund from the coffee exported by small grower-organizations which will then seed other businesses eventually providing the self-sufficiency needed to eliminate the need for loans to finance the harvest. “In the Sierra there is a sleeping potential in the women who now spend all their time slaving away at tedious domestic tasks. When they have their own businesses they will have the freedom to contribute to the family economy. Then they can finally be free of the coyotes.”
 
-![](http://www.sextosol.org/images/coffee_solutions/FscoPatioCoffee.jpg =x200)
+![](/assets/img/fscopatiocoffee.jpg)
 
 #### Francisco Barrios with Sierra Oro Co-op Directors
 
