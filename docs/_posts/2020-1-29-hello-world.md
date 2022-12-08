@@ -1,12 +1,12 @@
 ---
 title: Fair Trade
-date: 2021-04-24 04:00:00 +0000
+date: 2021-04-24T04:00:00.000+00:00
 tags:
 - Fair Trade
 - 'grower-managed cooperatives '
 - fair trade honey
 author: Tamara
-featuredimg: https://images.unsplash.com/photo-1482876555840-f31c5ebbff1c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80
+featuredimg: "/assets/img/header_cooperative_coffee-1.jpg"
 summary: Sexto Sol assists small, grower-managed organizations to become "certified"
   to sell under fair trade contracts. We provide the guidance to help farmers grow
   in their ability to administer their own enterprise.
@@ -20,7 +20,7 @@ The Sexto Sol Center assists grower-managed cooperatives to enter into Fair Trad
 
 Sexto Sol assists small, grower-managed organizations to become "certified" to sell under fair trade contracts. We provide the guidance to help farmers grow in their ability to administer their own enterprise. See Coffee Solutions for more information on the work of the Sexto Sol Center with coffee cooperatives.
 
-![](http://www.sextosol.org/images/fair_trade/9dongallieniabodega.jpg =x175)
+![](/assets/img/9dongallieniabodega.jpg)
 
 To create fairness in commerce, we all can particpate in the chain where each link is forged from the commitment to equity. The growers act in accordance with fair trade principles, the buyer pays fairly, but for it all to work, coffee drinkers need to add their part by buying and enjoying coffee that has come to them via this mindful process.
 
