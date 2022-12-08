@@ -5,7 +5,7 @@ tags:
 title: Assistance to Artisan Cooperatives
 date: 2022-12-05T07:00:00.000+00:00
 author: Tamara
-featuredimg: ''
+featuredimg: "/assets/img/tzobolic.jpg"
 summary: ''
 
 ---
