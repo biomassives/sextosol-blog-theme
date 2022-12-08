@@ -40,7 +40,7 @@ When prices fell to half the cost of production in 2002, farmers both large and 
 
 The damage done to the economy in the Sierra has had a ripple effect into neighboring Guatemala. Poor corn farmers there depend on the chance to work in Chiapas during the dry season when their fields are fallow. It is a case where the desperately poor came to work for the chronically poor. We hosted many dejected Guatemalans at Tierra Linda School in 2001 who had been unable to find work and were returning on foot to their homes 150 miles away without food or water. In 2002, the Guatemalans were conspicuously absent. Recent news stories have reported that authorities in Guatemala are bracing for a high level of child mortality from starvation – a tragedy directly attributed to the loss of work in coffee farms. This is the invisible reality of commerce in coffee in the current context.
 
-Ethiopia and Burundi are countries that derive a major portion of their national income from coffee. With so many poor around the world dependant on coffee in countries without the means to provide for them, we are facing a humanitarian crisis.
+Ethiopia and Burundi are countries that derive a major portion of their national income from coffee. With so many poor around the world dependent on coffee in countries without the means to provide for them, we are facing a humanitarian crisis.
 
 #### The coffee crisis is yet another opportunity for people to learn just how connected we are.
 
@@ -50,11 +50,11 @@ As for the futures market…The unfortunate suggestion to Vietnam that coffee wo
 
 According to an Oxfam report **20 million people** make their living from growing coffee worldwide in some 50 countries. But coffee is grown in countries without the economic stability needed to provide alternative employment for so many disenfranchised coffee producers.
 
-The world is accustomed to responding with humanitarian aid when natural disaster hits developing countries without warning. In the case of the coffee crisis, with so many in the world’s poorest countries dependant on coffee for their survival, governments ideally would take preventative measures to avert serious humanitarian problems for farmers of commodity crops. Solutions should be based on insight into the real life challenges coffee producers face, especially small-holders.
+The world is accustomed to responding with humanitarian aid when natural disaster hits developing countries without warning. In the case of the coffee crisis, with so many in the world’s poorest countries dependent on coffee for their survival, governments ideally would take preventative measures to avert serious humanitarian problems for farmers of commodity crops. Solutions should be based on insight into the real life challenges coffee producers face, especially small-holders.
 
 Development professionals should take a sobering lesson from the disaster that has been Vietnam’s conversion to coffee production as a means to solve their development problems. We must view projects within the larger world context if the projected market is that beyond the borders of the country we seek to assist. At the same time, those who view commodity agriculture only in terms of investment, we hope will, with this crisis, give importance to the human costs of the manipulation of supply in the future. Fomenting local instability in countries and regions already over-burdened by debt is not in anyone's interest.
 
-![](http://www.sextosol.org/images/sierra_oro/tn_hills5.jpg =290x200) ![](http://www.sextosol.org/images/blank.gif =3x200) ![](http://www.sextosol.org/images/sierra_oro/coffeecrisis_kids_girlwithguitar.jpg)
+![](/assets/img/tn_hills5.jpg)![](/assets/img/coffeecrisis_kids_girlwithguitar.jpg)
 
 #### Consequences of Farmers converting to other crops
 
