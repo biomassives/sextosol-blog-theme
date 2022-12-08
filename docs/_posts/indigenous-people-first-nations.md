@@ -23,7 +23,7 @@ It is time that all peoples on this planet realize that we are the solution we a
 
 The Sexto Sol Center was formed because of a commitment to assist refugees from Guatemala living in Chiapas.
 
-![](http://www.sextosol.org/images/headers/header_women.jpg =x100)
+![](/assets/img/header_women.jpg)
 
 #### Celebrating the signing of the Peace Accords in Guatemala at a ceremony held in Motozintla in 1996.
 
@@ -34,7 +34,7 @@ There is now universal acceptance of the declaration by the international commun
 President Obama made the announcement on December 15, 2010 during his address at the White House Tribal Nations Conference. [**View video**](http://www.whitehouse.gov/blog/2010/12/16/kicking-white-house-tribal-nations-conference)
 
 There is a well made 3 minute video of the significance of the Declaration. The man in the pink coat in the video is Dr. Tomás Alarcón, President of the Comisión Jurídica para el Autodesarrollo de los Pueblos Oríginarios Andinos, CAPAJ, whom Sexto Sol has assisted at the Permanent Forum on Indigneous Issues at the United Nations. CAPAJ has consultative status at the UN. [**View video**](http://www.ohchr.org/SiteCollectionImages/Videos/indigenous%20people.wmv)  
- [**Statement by the UN Office of the High Commissioner for Human Rights**](http://www.ohchr.org/EN/NewsEvents/Pages/Indigenousrightsdeclarationendorsed.aspx)
+[**Statement by the UN Office of the High Commissioner for Human Rights**](http://www.ohchr.org/EN/NewsEvents/Pages/Indigenousrightsdeclarationendorsed.aspx)
 
 ## Scroll down for current news
 
@@ -49,8 +49,8 @@ Indigenous peoples have the right to self-determination. By virtue of that right
 ### Article 32
 
 1\. Indigenous peoples have the right to determine and develop priorities and strategies for the development or use of their lands or territories and other resources.  
- 2. States shall consult and cooperate in good faith with the indigenous peoples concerned through their own representative institutions in order to obtain their free and informed consent prior to the approval of any project affecting their lands or territories and other resources, particularly in connection with the development, utilization or exploitation of mineral, water or other resources.  
- 3. States shall provide effective mechanisms for just and fair redress for any such activities, and appropriate measures shall be taken to mitigate adverse environmental, economic, social, cultural or spiritual impact.
+2\. States shall consult and cooperate in good faith with the indigenous peoples concerned through their own representative institutions in order to obtain their free and informed consent prior to the approval of any project affecting their lands or territories and other resources, particularly in connection with the development, utilization or exploitation of mineral, water or other resources.  
+3\. States shall provide effective mechanisms for just and fair redress for any such activities, and appropriate measures shall be taken to mitigate adverse environmental, economic, social, cultural or spiritual impact.
 
 ![](http://www.sextosol.org/images/indigenous_peoples/PFII_Masai.jpg =x180) ![](http://www.sextosol.org/images/blank.gif =10x180) ![](http://www.sextosol.org/images/indigenous_peoples/pfcongrats.jpg =x180)
 
@@ -75,9 +75,9 @@ February, 2012: The current Telecommunications policy in Guatemala awards radio 
 ## Uranium Mining Begins Near Grand Canyon
 
 Thousands of Claims Threaten Public Health & Sacred Lands  
- [http://www.indigenousaction.org/uranium-mining-begins-near-grand-canyon/](http://www.indigenousaction.org/uranium-mining-begins-near-grand-canyon/ "http://www.indigenousaction.org/uranium-mining-begins-near-grand-canyon/")  
- March 4, 2010 Indigenous Action Media  
- By Klee Benally
+[http://www.indigenousaction.org/uranium-mining-begins-near-grand-canyon/](http://www.indigenousaction.org/uranium-mining-begins-near-grand-canyon/ "http://www.indigenousaction.org/uranium-mining-begins-near-grand-canyon/")  
+March 4, 2010 Indigenous Action Media  
+By Klee Benally
 
 Grand Canyon, AZ — In defiance of legal challenges and a U.S. Government moratorium, Canadian company Denison Mines has started mining uranium on the north rim of the Grand Canyon. According to the Arizona Daily Sun the mine has been operating since December 2009.
 
@@ -93,8 +93,7 @@ In the Congo Basin, conservation efforts originally spearheaded by the World Wil
 
 ### BLM Ignores Western Shoshone Objections – Barrick Gold Readies Itself to Carve up Mount Tenabo Spiritual Area
 
-  
- Excerpted from news release by the First Nations Human Rights Coalition.
+Excerpted from news release by the First Nations Human Rights Coalition.
 
 November 20, 2008 Reno and Crescent Valley, NV Last week, after years of determined opposition from Western Shoshone, the U.S. Department of Interior, through its Bureau of Land Management (BLM), approved one of the largest open pit cyanide heap leach gold mines in the United States on the flank of Mount Tenabo – an area well-known for its spiritual and cultural importance to the Western Shoshone. The area is home to local Shoshone creation stories, spirit life, medicinal, food and ceremonial plants and items and continues to be used to this day by Shoshone for spiritual and cultural practices. Over the years, tens of thousands of individuals and organizations from across the United States and around the world have joined with the Shoshone and voiced their opposition to this mine. The mine has been referred to as one of the most opposed mines in the world and indeed the level of public opposition is unprecedented for the BLM. With the threat of mine construction beginning as early as this week, the South Fork Band Council of Western Shoshone, the Timbisha Shoshone Tribe, the Western Shoshone Defense Project, and Great Basin Resource Watch, today filed a complaint in the Reno Federal District Court seeking declaratory and injunctive relief to stop the mine.
 
@@ -109,8 +108,8 @@ For more information on the Cortez Hills Project, Mount Tenabo, and the legal ch
 ## Indian Tribes See Profit in Harnessing the Wind
 
 October, 2008  
- By FELICITY BARRINGER  
- [http://www.nytimes.com/2008/10/10/us/10wind.html](http://www.nytimes.com/2008/10/10/us/10wind.html "http://www.nytimes.com/2008/10/10/us/10wind.html")
+By FELICITY BARRINGER  
+[http://www.nytimes.com/2008/10/10/us/10wind.html](http://www.nytimes.com/2008/10/10/us/10wind.html "http://www.nytimes.com/2008/10/10/us/10wind.html")
 
 ROSEBUD, S.D. — The wind blows incessantly here in the high plains; screen doors do not last. Wind is to South Dakota what forests are to Maine or beaches are to Florida: a natural bounty and a valuable inheritance.
 
@@ -118,7 +117,7 @@ Native American tribes like the Rosebud Sioux now seek to claim that inheritance
 
 ## Buffalo River Dene Nation claims sovereignty
 
- and alerts Canadian government that it will not allow mining or other development in its territory without its Free Prior and Informed Consent. From the Statement of the at the Fifth Session of the Permanent Forum on Indigenous Issues, UN, May, 2006:.
+and alerts Canadian government that it will not allow mining or other development in its territory without its Free Prior and Informed Consent. From the Statement of the at the Fifth Session of the Permanent Forum on Indigenous Issues, UN, May, 2006:.
 
 We consider ourselves the caretakers of our land, something that we have done for thousands of years. Our, Traditional Territories are being invaded by corporations' intent on resource extraction. Today, we face not only legislation that impairs our self'- development, but also a system designed to bring to an end our traditional life as we know it.
 
@@ -157,8 +156,8 @@ The UN Working Group on Indigenous Peoples held its 23rd session on 18-22 July 2
 Various papers and reports are available:
 
 [http://www.ohchr.org/english/issues/indigenous/groups/groups-01.htm](http://www.ohchr.org/english/issues/indigenous/groups/groups-01.htm "http://www.ohchr.org/english/issues/indigenous/groups/groups-01.htm")  
- [http://www.unpo.org/news_detail.php?arg=01&par=2831](http://www.unpo.org/news_detail.php?arg=01&par=2831 "http://www.unpo.org/news_detail.php?arg=01&par=2831")  
- [http://www.tebtebba.org/](http://www.tebtebba.org/ "http://www.tebtebba.org/")
+[http://www.unpo.org/news_detail.php?arg=01&par=2831](http://www.unpo.org/news_detail.php?arg=01&par=2831 "http://www.unpo.org/news_detail.php?arg=01&par=2831")  
+[http://www.tebtebba.org/](http://www.tebtebba.org/ "http://www.tebtebba.org/")
 
 ## Forced Relocation in the Congo Basin
 
