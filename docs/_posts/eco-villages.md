@@ -42,16 +42,20 @@ Volunteers with permaculture design experience or other useful skills, please co
 
 In the aftermath of Hurricane Stan, 1000 families began the work of creating a community in the rainforest on the hot coastal lowlands bordering the Sierra Madre mountains. After receiving an intensive introduction to permaculture at Sexto Sol's [**Escuela de Agroecología y Permacultura Tierra Linda**](http://www.sextosol.org/rancho_terra_linda.html), the directors of the Grupo Stan organization asked us to help them to develop and implement plans leading to their creating an intentional community. Sexto Sol helped the community move forward with bi-monthly workshops and on-site training. Sexto Sol's work was featured in a documentary on eco-villages.
 
-![](http://www.sextosol.org/GSOffice.JPG =x200) ![](http://www.sextosol.org/GSgarden2.JPG =x200)
+![](/assets/img/gsoffice.JPG)
+
+![](/assets/img/gsgarden2.JPG)
 
 #### Construction of green-office and education center; Tamara supervising first home garden
 
-Program Coordinator Francisco Barrios designed and supervised the building of a green office and learning center on the site. We provided technical training in rainwater harvesting and helped them identify much-needed strategies to recharge groundwater to replenish the dried up well. We provided workshops on how to grow food gardens around their homes. In addition to this technical training, we focued on helping the people to develop the knowledge and attitudes needed to successfully create an intentional community. This included doing consciousness raising to awaken the ideals of the "common good" and respect for the environment as necessary guiding principals that would lead them to create a peaceful and sustainable community where everyone thrives.
+Program Coordinator Francisco Barrios designed and supervised the building of a green office and learning center on the site. We provided technical training in rainwater harvesting and helped them identify much-needed strategies to recharge groundwater to replenish the dried up well. We provided workshops on how to grow food gardens around their homes. In addition to this technical training, we focused on helping the people to develop the knowledge and attitudes needed to successfully create an intentional community. This included doing consciousness raising to awaken the ideals of the "common good" and respect for the environment as necessary guiding principals that would lead them to create a peaceful and sustainable community where everyone thrives.
 
 ***
 
 ## Our work is made possible by the financial support of people like you
 
-[![](http://www.sextosol.org/images/index/dancing_bean.gif =37x45)](http://www.sextosol.org/donations.shtml) [![](http://www.sextosol.org/images/Donate150.gif =x30)](http://www.sextosol.org/donations.shtml)
+![](/assets/img/dancing_bean.gif)
+
+![](/assets/img/donate150.gif)
 
 ## Creating a world that works for all is a team effort
