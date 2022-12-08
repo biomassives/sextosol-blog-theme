@@ -3,9 +3,9 @@ tags:
 - Eco-villages
 - sustainable communities
 title: Eco-Villages
-date: 2021-04-24 04:00:00 +0000
+date: 2021-04-24T04:00:00.000+00:00
 author: Tamara
-featuredimg: ''
+featuredimg: "/assets/img/tlmegachayotes.jpg"
 summary: Eco-villages also provide the benefits that come with living in a cohesive
   group of people all dedicated to constinuously improving the quality of their community.
   Life is always better where people practice reciprocity, mutal aid and share a common
