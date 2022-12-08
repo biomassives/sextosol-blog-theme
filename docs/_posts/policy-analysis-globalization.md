@@ -12,8 +12,7 @@ summary: ''
 
 ### The purpose of human society should be
 
-the compassionate betterment of human beings.  
-H.H. the Dalia Lama
+_the compassionate betterment of human beings._ **- H.H. the Dalia Lama**
 
 The Sexto Sol Center promotes the notion that it is possible to create a sustainable world in which all people live with dignity and enjoy good health. Vibrant international commerce does not need to be at odds with the well-being of people and local economies. We can think of the current global economy as a work in progress requiring continued scrutiny to measure it's effectiveness in creating an improvement in the quality of life for the all.
 
