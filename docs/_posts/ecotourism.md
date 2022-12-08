@@ -16,7 +16,7 @@ summary: ''
 
 According to official reports, tourism is the third largest source of income in Mexico after revenues from oil and the money sent home from relatives working in the U.S. Tourism can be an important source of income for people living in impoverished regions when it is managed to be light-impact both on the local people and the local environment. The Eco-tourist travels for the experience of appreciating the natural beauty of unique areas.
 
-![](http://www.sextosol.org/images/eco_tourism/jedcave.jpg =x200)
+![](/assets/img/jedcave.jpg)
 
 Eco-tourism can actually help preserve special areas from destruction by providing an alternative way to earn income for a people who have no other options than to cut trees for farming or to illegally sell the wood to tree poachers. Therefore, promoting eco-tourism is a logical development strategy for this region that has such limited economic opportunities but is blessed with magnificent wild spaces.
 
