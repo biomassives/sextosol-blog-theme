@@ -134,8 +134,8 @@ nav {
 
 <nav>
   <ul class="nav">
-    <li><a href="#">Home</a></li>
-    <li><a href="#">Español</a></li>
+    <li><a href="https://sextosol.org">Home</a></li>
+    <li><a href="/espanol/">Español</a></li>
     <li><a href="#">What We Do</a>
       <ul>
         <li><a href="#">Humanitarian Crisis Health</a>
@@ -151,78 +151,77 @@ nav {
         <li><a href="#">Water to Communities</a></li>
         <li><a href="#">Livelihoods</a>
             <ul>
-                <li><a href="#">Coffee Solutions</a></li>
-                <li><a href="#">Fair Trade</a></li>
-                <li><a href="#">Artisan Cooperatives</a></li>
-                <li><a href="#">Eco Tourism</a></li>
-                <li><a href="#">Women</a></li>
+                <li><a href="/2021/04/24/writing-a-vuepress-theme-4">Coffee Solutions</a></li>
+                <li><a href="/2021/04/24/hello-world/">Fair Trade</a></li>
+                <li><a href="/2022/12/05/assistance-to-artisan-cooperatives/">Artisan Cooperatives</a></li>
+                <li><a href="/2021/04/24/ecotourism/">Eco Tourism</a></li>
+                <li><a href="/2021/04/24/frontmatter-in-vuepress-3/">Women</a></li>
             </ul>
         
         </li>
         <li><a href="#">Sustainable Food</a>
             <ul>        
-                <li><a href="#">Permaculture School</a></li>
-                <li><a href="#">Family Gardens</a></li>
-                <li><a href="#">Ecovillages</a></li>
+                <li><a href="/2021/04/24/permaculture/">Permaculture School</a></li>
+                <li><a href="/2021/04/24/eco-villages/">Ecovillages</a></li>
             </ul>
         </li>
         <li><a href="#">Solar Solutions</a>
             <ul>        
-                <li><a href="#">Solar Ovens</a></li>
-                <li><a href="#">Solar Furnace</a></li>
-                <li><a href="#">Water Heaters</a></li>
+                <li><a href="/2021/04/24/solar-furnaces/">Solar Ovens</a></li>
+                <li><a href="/2021/04/24/solar-furnaces/">Solar Furnace</a></li>
+                <li><a href="/2021/04/24/solar-furnaces/">Water Heaters</a></li>
             </ul>
         </li>
-        <li><a href="#">Improving Schools</a>
+        <li><a href="/2021/04/24/dignified-education/">Improving Schools</a>
             <ul>        
-                <li><a href="#">Bilingual Education</a></li>
-                <li><a href="#">Books & Encyclopedias</a></li>
+                <li><a href="/2021/04/24/dignified-education/">Bilingual Education</a></li>
+                <li><a href="/2021/04/24/dignified-education/">Books & Encyclopedias</a></li>
                 <li><a href="#">Improve Infrastructure</a></li>
-                <li><a href="#">Indigenous Languages</a></li>
+                <li><a href="/2021/04/24/celebrating-native-languages-in-the-schools/">Indigenous Languages</a></li>
             </ul>
         </li>
         <li><a href="#">Environment</a>
             <ul>        
-                <li><a href="#">Reforestation</a></li>
+                <li><a href="/2021/04/24/reforestation/">Reforestation</a></li>
                 <li><a href="#">Environmental Justice</a></li>
-                <li><a href="#">Upcycling</a></li>
+                <li><a href="/2021/04/24/upcycling/">Upcycling</a></li>
             </ul>
         </li>
         <li><a href="#">Advocacy Work</a>
             <ul>        
-                <li><a href="#">Policy</a></li>
+                <li><a href="/2021/04/24/policy-analysis/">Policy</a></li>
                 <li><a href="#">Grassroots Organizations</a></li>
             </ul>
         </li>
-        <li><a href="#">Policy Analysis</a>
+        <li><a href="/2021/04/24/policy-analysis/">Policy Analysis</a>
             <ul>        
-                <li><a href="#">Globalization</a></li>
-                <li><a href="#">Indigenous Peoples</a></li>
+                <li><a href="/2022/12/06/globalization/">Globalization</a></li>
+                <li><a href="/2022/04/23/indigenous-people-first-nations">Indigenous Peoples</a></li>
                 <li><a href="#">Poverty Reduction</a></li>
             </ul>
         </li>
       </ul>
     </li>
-    <li><a href="#">Philosophy</a>
+    <li><a href="/2019/02/26/markdown-slot-3/">Philosophy</a>
         <ul>
-          <li><a href="#">Our Approach</a></li>
-          <li><a href="#">Commitments</a></li>
+          <li><a href="/2019/02/26/markdown-slot-3/">Our Approach</a></li>
+          <li><a href="/2021/04/24/writing-a-vuepress-theme-2/">Commitments</a></li>
         </ul>
       </li>
       <li><a href="#">Issues</a>
           <ul>
-              <li><a href="#">Poverty</a></li>
-              <li><a href="#">Coffee Challenges</a></li>
-              <li><a href="#">Environment</a></li>
-              <li><a href="#">Women</a></li>
-              <li><a href="#">Suggested Reading</a></li>
+              <li><a href="/2019/02/26/markdown-slot/">Poverty</a></li>
+              <li><a href="/2020/01/28/whats-the-most-beautiful-website-world/">Coffee Challenges</a></li>
+              <li><a href="/2021/04/24/writing-a-vuepress-theme-3/">Environment</a></li>
+              <li><a href="/2021/04/24/frontmatter-in-vuepress-3/">Women</a></li>
+              <li><a href="/2021/04/24/markdown-slot-2/">Suggested Reading</a></li>
             </ul>    
     </li>
-    <li><a href="#">Volunteer</a>
+    <li><a href="/2022/12/02/volunteer-and-internship-program/">Volunteer</a>
         <ul>
-            <li><a href="#">Who we are</a></li>
-            <li><a href="#">Contact us</a></li>
-            <li><a href="#">Donate</a></li>
+            <li><a href="/2022/12/06/who-we-are/">Who we are</a></li>
+            <li><a href="/2022/12/06/contact/">Contact us</a></li>
+            <li><a href="https://www.paypal.com/webapps/hermes?token=3D146116309133424&mfid=1670540060785_f917933dfd11a">Donate</a></li>
         </ul>    
     </li>
   </ul>
