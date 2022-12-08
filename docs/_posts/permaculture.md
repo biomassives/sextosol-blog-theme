@@ -6,7 +6,7 @@ tags:
 title: Permaculture
 date: 2021-04-24T04:00:00.000+00:00
 author: Tamara
-featuredimg: ''
+featuredimg: "/assets/img/alecniktam2.jpg"
 summary: Food Security is the measure of how stable the sources of food are for a
   particular region. Ideally, local farmers and home gardeners produce enough nutritious
   food to provide an adequate diet for the people living there.
