@@ -4,7 +4,7 @@ tags:
 title: Contact
 date: 2022-12-06 23:00:00 -0800
 author: Tamara
-featuredimg: ''
+featuredimg: "/assets/img/header_terra.jpg"
 summary: ''
 
 ---
