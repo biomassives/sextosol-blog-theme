@@ -1,6 +1,6 @@
 ---
 title: Sustainable Livelihoods
-date: 2021-04-24 04:00:00 +0000
+date: 2021-04-24T04:00:00.000+00:00
 tags:
 - sustainable livelihoods
 author: Tamara
@@ -21,13 +21,15 @@ Our programs have grown in direct response to the requests for our assistance an
 
 Sexto Sol helps grassroots organizations to establish new ways of earning an income that are environmentally appropriate and inclusive to women. We prefer to work with emerging cooperatives and associations since collective effort builds social support, forms leaders and leads to people taking ownership for the development of their community.
 
-![](http://www.sextosol.org/images/sustainable_livelihoods/medicos.jpg =x172) ![](http://www.sextosol.org/images/coffee_solutions/DonGaliBodegaSmall.JPG =x172)
+![](/assets/img/medicos.jpg)
 
- Our focus is to “develop people.” We don’t simply create businesses, rather we help people to recreate themselves as businessmen and women. On their behalf we facilitate the formation of partnerships between the cooperative and companies interested in importing their product. We encourage the northern company to invest in the cooperative by providing start-up capital that will in the end benefit both partners.
+![](/assets/img/dongalibodegasmall.JPG)
+
+Our focus is to “develop people.” We don’t simply create businesses, rather we help people to recreate themselves as businessmen and women. On their behalf we facilitate the formation of partnerships between the cooperative and companies interested in importing their product. We encourage the northern company to invest in the cooperative by providing start-up capital that will in the end benefit both partners.
 
 Our work is to move groups through the stages to the point where they have the good group process, leadership and knowledge of the market in place to insure their independent managing of their own business. At that point, Sexto Sol’s involvement is done and we are free to take on a new group. Example: Cerro de la Olla coffee cooperative (27 families) independently managed their organization after 2.5 years of involvement by Sexto Sol.
 
-![](http://www.sextosol.org/images/sustainable_livelihoods/TzoCompu.jpg =x200)
+![](/assets/img/tzocompu.jpg)
 
 Historically we have concentrated on organizing small-scale coffee producers to prepare to enter the fair trade export market. We have always suggested that they establish a second cooperative business since making a living by selling a commodity crop is not reliable. In recent years with the crisis of depressed prices, we have been focusing on helping coffee cooperatives to transition to other economic activities. One of the cooperatives is also working to sell their quality coffee to the fair trade market with our assistance.
 
