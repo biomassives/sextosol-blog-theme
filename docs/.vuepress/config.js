@@ -1,8 +1,8 @@
 module.exports = {
-  title: 'Mary Holtz Art',
+  title: 'JASEHG',
   base: '/',
   dest: 'public',
-  description: 'Creating art is the perfect anti-depressant, and in that healing power, I can find myself.',
+  description: 'Creating DAO & other models for collective effort benefit in ecologically beneficial enterprise.',
   logo: './assets/img/logo.png',
   theme: require.resolve('../../'),
   themeConfig: {
@@ -70,17 +70,17 @@ module.exports = {
       copyright: [
         {
           text: 'via Free Software.',
-          link: 'https://github.com/biomassives/sextosol-blog-theme/tree/maryholtz.art',
+          link: 'https://github.com/biomassives/sextosol-blog-theme/tree/Mureithi_Jarife',
         },
         {
-          text: '© 2022 Mary Holtz Art',
+          text: '© 2022 JASEHG',
           link: '#',
         },
       ],
     },
 
     sitemap: {
-      hostname: 'https://maryholtz.art/'
+      hostname: 'https://JASEHG.vercel.app/'
     },
     comment: {
       service: 'disqus',
@@ -90,7 +90,7 @@ module.exports = {
       endpoint: '#'
     },
     feed: {
-      canonical_base: 'https://maryholtz.art/',
+      canonical_base: 'https://JASEHG.vercel.app/',
     },
     smoothScroll: true
   },
