@@ -8,4 +8,4 @@ summary: Creating art is the perfect anti-depressant, and in that healing power,
   can find myself
 
 ---
-Goals of Jasehg include creative solutions that implement sustainability at the community level in Kenya.  
+Goals of JASEHG include creative solutions that implement sustainability at the community level in Kenya.
