@@ -6,9 +6,9 @@ tags:
 - Biking
 - Trekking
 title: Ecotourism
-date: 2021-04-24 04:00:00 +0000
+date: 2021-04-24T04:00:00.000+00:00
 author: Tamara
-featuredimg: ''
+featuredimg: "/assets/img/header_male_view_moto.jpg"
 summary: ''
 
 ---
