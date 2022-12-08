@@ -20,6 +20,8 @@ As the saying goes, "Women hold up half of the sky," but do you realize that in 
 
 **Climate change impacts women significantly and exacerbates the hardships of poverty.**
 
+![](/assets/img/header_ipgirls.jpg)
+
 In recent years irregular climate and other environmental challenges have caused subsistence crops to produce much less than normal or to fail completely. In 2015, Guatemala declared a national state of emergency when there was a widespread failure of corn crops due to prolonged drought. If a family lives in the coffee-growing region, a woman's labor in the home is vital and enables her husband to bring in the coffee crop that poor households rely on for cash needed to maintain the family. However, coffee production has been seriously damaged by climate change and environmental contamination in recent years, causing hardship in thousands of homes across the vast coffee-producing region.
 
 These new hardships come to communities where women have to accomplish their unending household work without adequate access to water since Hurricane Stan damaged so much of the landscape in 2005.
