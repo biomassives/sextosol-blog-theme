@@ -4,7 +4,7 @@ date: 2021-04-24T04:00:00.000+00:00
 tags:
 - Coffee
 author: Tamara
-featuredimg: https://images.unsplash.com/photo-1582996091947-7c50ca745bc9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1049&q=80
+featuredimg: ''
 summary: In each cup of coffee there are stories of the lives of people who grew it,
   their wishes and dreams as well as the difficulties they endure. Coffee drinkers
   do have a choice about the impact of their purchase in coffee-producing countries.
@@ -12,7 +12,7 @@ summary: In each cup of coffee there are stories of the lives of people who grew
 ---
 # Projects in Coffee-Producing Communities
 
-![](http://www.sextosol.org/images/coffee_solutions/23coffee.jpg =181x237)
+![](/assets/img/23coffee.jpg)
 
 In each cup of coffee there are stories of the lives of people who grew it, their wishes and dreams as well as the difficulties they endure. Coffee drinkers do have a choice about the impact of their purchase in coffee-producing countries. It is worth considering whether your morning coffee perpetuates poverty and environmental destruction or if it supports economic justice, sustainable agriculture and reforestation.
 
@@ -36,7 +36,7 @@ Ask for Fair Trade coffee and support coffee roasters who offer it. These pro-ac
 
 Also – While most coffee in the Sierra Madre of Chiapas is produced without chemicals, getting certified as organic is very expensive. Nevertheless, those farmers who have the resources to have their farms certified receive a better price for their environmentally sound coffee. Buying organic coffee is good for the environment and good for growers. (Organic Coffee Association - www.orca.org) For more information contact the Sexto Sol Center, tamara@sextosol.org or francisco@sextosol.org.
 
-![](http://www.sextosol.org/images/coffee_solutions/solutions_men_coffeebags.jpg =308x200)
+![](/assets/img/solutions_men_coffeebags.jpg)
 
 #### Members of Nuevo Bullaj Cooperative and
 
@@ -68,13 +68,13 @@ If you or your business might be interested in helping Sexto Sol to assist these
 
 Since 1997, the Sexto Sol Center has organized small-scale farmers into cooperatives and worked to help them become export-ready so that they might earn a better price for their coffee (See “from our archives” below for more on that effort). We have helped them to achieve the best price possible year after year. Our strategy has been to prepare them to qualify for organic certification and to enter into the Fair Trade market in order to work toward the goal of earning a more stable price. Our aim has been to propel small grower organizations into direct relationships with buyers from the Specialty Coffee Market. Part of this work has been to educate roasters and others in the coffee industry about the challenges that small growers face.
 
-![](http://www.sextosol.org/images/coffee_solutions/15jesusinmeeting.jpg =274x189)
+![](/assets/img/15jesusinmeeting.jpg)
 
 The high cost of producing coffee and the vicious cycle of indebtedness to middlemen has made it very difficult to export. For this reason, the Sexto Sol Center has always suggested to growers that they produce additional commercial crops. We have promoted the ethic of working collectively, what we call community action, to create other cooperative businesses for members of coffee collectives.
 
 “You have heard the saying: ‘Give a man a fish… Teach him to fish and he eats for a lifetime.’ Why stop there? Organize a fishing cooperative to sell to the best market inland, create jobs canning the fish and make fish emulsion with the by-products for export, build a more businesses with earnings and divide profits among members, send the kids to school to become the future mangers and engineers for the cooperative, create a member owned bank, etc.” The Sexto Sol Center
 
-![](http://www.sextosol.org/images/coffee_solutions/DonGaliBodega.JPG =320x222)
+![](/assets/img/dongalibodega.JPG)
 
 At our suggestion, in 2001 some members of the coffee association “Cerro de la Olla” successfully produced and sold tomatoes to offset the high cost of producing coffee.
 
@@ -92,13 +92,17 @@ As since our beginning, the Sexto Sol Center has promoted **permaculture**, a mo
 
 We are now concentrating our effort on helping coffee families to transition to production that frees them from depending entirely on coffee for earning a living. In December we began the initial outreach to honey farmers in the effort to form a cooperative to export organic honey. With honey production most of the work is done by the bees and expenses after the purchase of the hives is minimal. Honey production is compatible with efforts to protect and reforest the watershed. Hives can be placed among the coffee trees. There are several harvests a year rather than only one as with coffee. We are hopeful that honey can bring a “sweeter” future for hard working families and provide a means to generate income without clearing forest or coffee to plant other crops. We also explore the viability of promoting eco-tourism as an alternative source of income for coffee farmers.
 
-![](http://www.sextosol.org/20nuevoedencoffee.JPG =188x282) ![](http://www.sextosol.org/images/blank.gif =10x282) Our main work with coffee growers is the project to assist the repatriated refugees, members of ARDDIGUA (Asociación Revolucionario Democratico para el Desarrolo Indegral de Guatemala), who are now farming coffee collectively in Guatemala.
+![](/assets/img/20nuevoedencoffee.JPG)
+
+Our main work with coffee growers is the project to assist the repatriated refugees, members of ARDDIGUA (Asociación Revolucionario Democratico para el Desarrolo Indegral de Guatemala), who are now farming coffee collectively in Guatemala.
 
 Our work began in 1994 when they were in exile in Mexico and known as ARDIGUA (Asociación de Refugiados Dispersos de Guatemala). These courageous people (See article below below) have a commitment to pay off the government loans that allowed them to buy the 12 plantations where their members now live.
 
 They have overcame terrible adversity and endured a long struggle to return from exile to a life that by design would allow them to collectively achieve a stable, productive living. It is tragic that their original plan of depending on coffee production now will only lead to their defaulting on these loans. We are working to help them find alternatives that will empower them to fulfil their commitment to return from exile to productive lives in Guatemala as has always been their intention since the days of their historic hunger strike in Guatemala City.
 
-![](http://www.sextosol.org/images/coffee_solutions/22coffee.jpg =203x178) ![](http://www.sextosol.org/images/blank.gif =15x178) ![](http://www.sextosol.org/images/coffee_solutions/25coffee.jpg =205x178)
+![](/assets/img/25coffee.jpg)
+
+![](/assets/img/22coffee.jpg)
 
 ARDDIGUA’s 12 collective coffee plantations in Guatemala could potentially become a powerful unified cooperative that will be a reliable source of quality organic honey, macadamia nuts, and coffee for export. We will continue the effort to help them become fair trade certified and to export their coffee. However, the initial work is to help them establish permaculture on each of the farms so that they can meet their needs for food.
 
@@ -118,13 +122,15 @@ They had no idea that it would take nearly 8 years, the occupations of two Guate
 
 The 15 families who are the new owners of Nuevo Eden plantation are now picking their third harvest. But having struggled so long to get to this point, they now find themselves a bit overwhelmed with the prospect of managing the vast overgrown plantation. “We are corn farmers, we know we need technical help to face the challenges of producing coffee,” one leader explained. But as another man put it, “The advantage of working together is that instead of when you are working alone and thinking that you are doing things right, here a compañero will see a better way they you never thought of. It makes us stronger.”
 
-![](http://www.sextosol.org/images/coffee_solutions/solutions_fourmen.jpg =132x200) ![](http://www.sextosol.org/images/blank.gif =15x200) When they arrived at Nuevo Eden they discovered that the former manager had stolen everything that was not “too heavy to move”. Nevertheless they managed through the first harvest. However, as they are now picking coffee for the 2000 harvest, they face the uncertainty that plagues all coffee growers in the region who have no other way to sell their coffee than to the local middlemen. They can never know if the fluctuating and unpredictable price of coffee will cover the expense of production. Even so, they continue to pay better wages than their neighbors to the poor coffee pickers from the high country since, “ we do not intend to exploit poor people since we know exactly what they are going through.”
+![](/assets/img/solutions_fourmen.jpg)
+
+When they arrived at Nuevo Eden they discovered that the former manager had stolen everything that was not “too heavy to move”. Nevertheless they managed through the first harvest. However, as they are now picking coffee for the 2000 harvest, they face the uncertainty that plagues all coffee growers in the region who have no other way to sell their coffee than to the local middlemen. They can never know if the fluctuating and unpredictable price of coffee will cover the expense of production. Even so, they continue to pay better wages than their neighbors to the poor coffee pickers from the high country since, “ we do not intend to exploit poor people since we know exactly what they are going through.”
 
 With the help of the Sexto Sol Center for Community Action, a NGO that provides consulting to peasant coffee growers (www.sextosol.org), they are just starting the process of preparing to export to buyers in the Specialty Market. This will involve much work but they see it as the only way that their hard won struggle will bring them the economic security they seek. This will include working for organic certification, Fair trade seals, and shade tree certification; all of the flags that will help turn the heads of potential buyers in their direction. Carlos Canoas hopes he can revive his early efforts to raise parasitoides wasps as biological control for the broca pest now that the others, who had thought that fumigating would get faster results, finally see that sustainable, organic methods will bring them a better price eventually. This harvest they are working to establish the practices that will ensure a high level of quality such as picking only the ripe berries, even though this extremely labor intensive practice will not bring them a better price in the short run.
 
 They are determined to continue working collectively despite the fact that a third refugee plantation opted for “parcilización”, dividing up the land into individual parcels. The benefits of unity are obvious. They have managed to wire all the dispersed houses so that for a few hours each night, the bulbs hanging over their kitchen tables illuminate their homes, a comfort on nights when the heavy rains pound loudly on the leaky tin roofs. And so they go on, step by step, in a truly magnificent example of determination, perseverance and fortitude from the years of despair and isolation in Mexico to the triumph of picking coffee – from their own trees. At home at last with dignity. END
 
-![](http://www.sextosol.org/images/coffee_solutions/solutions_mountainside.jpg =x210) ![](http://www.sextosol.org/images/blank.gif =10x210) ![](http://www.sextosol.org/images/coffee_solutions/AronSorting.JPG =x210)
+![](/assets/img/solutions_mountainside-1.jpg)![](/assets/img/aronsorting.JPG)
 
 ### Win-Win – Farmers and the Watershed, A Cause for Hope
 
