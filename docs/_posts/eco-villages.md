@@ -28,9 +28,9 @@ Eco-villages also provide the benefits that come with living in a cohesive group
 
 ### Asociación de Campesinos Nuevo Bullaj
 
-![](http://www.sextosol.org/images/coffee_solutions/solutions_mountainside.jpg =x335)
+![](/assets/img/solutions_mountainside.jpg)
 
-As part of our on-going work with the Asociacion de Campesinos Nuevo Bullaj, we have been providing training on how to grow food organically with permaculture and more. In September, 2010, thanks to a grant from the San Francisco Marin Jewish Community Foundation's Teen Foundation, we began a long term project of assisting the community of former refugees to transform the community they've created into a sustainable eco-village. Over two weeks we provided traning sessions with the whole community, the women's group, and in the schools to introduce the principals and methods of ecovillage living and sustainable food production.
+As part of our on-going work with the Asociacion de Campesinos Nuevo Bullaj, we have been providing training on how to grow food organically with permaculture and more. In September, 2010, thanks to a grant from the San Francisco Marin Jewish Community Foundation's Teen Foundation, we began a long term project of assisting the community of former refugees to transform the community they've created into a sustainable eco-village. Over two weeks we provided training sessions with the whole community, the women's group, and in the schools to introduce the principals and methods of ecovillage living and sustainable food production.
 
 #### Photo: Coffee drying at Nuevo Bullaj, Guatemala
 
