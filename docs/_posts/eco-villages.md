@@ -59,3 +59,9 @@ Program Coordinator Francisco Barrios designed and supervised the building of a 
 ![](/assets/img/donate150.gif)
 
 ## Creating a world that works for all is a team effort
+
+### Ecovillage project Guatemala
+
+###### In the fall we worked with the Nuevo Bullaj community in Guatemala to develop plans for becoming an ecovillage. The plan is to return in the Spring to help families plant fruit trees and food gardens in each home. A community nearby has asked us to help them plant fruit trees as well. Please consider making a contribution to make this possible.
+
+###### Volunteers with permaculture design experience or other useful skills who would like to be part of this project, please contact tamara@sextosol.org.
