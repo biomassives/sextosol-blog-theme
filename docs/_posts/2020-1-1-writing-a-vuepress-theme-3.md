@@ -1,24 +1,27 @@
 ---
 title: Environment
-date: 2021-04-24 04:00:00 +0000
+date: 2021-04-24T04:00:00.000+00:00
 tags:
 - environment
 - sierra madra
 - chiapas
-author: Sal
-featuredimg: https://images.unsplash.com/photo-1576772269684-6c3b810ac8a9?ixlib=rb-1.2.1&auto=format&fit=crop&w=967&q=80
+author: Tamara
+featuredimg: "/assets/img/primavera.jpg"
 summary: Journalism is the production and distribution of reports on events.
 
 ---
 # Environmental Challenges in the Region
 
-### "The only job we have left that expresses our humanity  
+![](/assets/img/eco_flowers_oldtimers_reminisce.jpg)
+
+### "The only job we have left that expresses our humanity
+
 is to return species to their place and to take our place,  
- a small place." --Bill Mollison
+a small place." --Bill Mollison
 
 The Sierra Madre region of Chiapas, Mexico is an amazingly diverse environment with hot tropical forests a few kilometers away from coniferous cloud forest. There are species of orchids that are found only here. Flocks of lime-green parrots fly into the remaining sunlight when the late afternoon shadows cool their nesting grounds in winter. In the rainshadow there are cactus intermixed with fragrant copal and the gracious, grand guanacastle trees. This is the headwaters for 46 rivers to the Pacific side of the divide. Numerous other rivers flow inland to join the Grijalva River that flows from Guatemala through to the center of Chiapas.
 
-![](http://www.sextosol.org/images/eco_concerns/eco_loggingtruck.jpg =280x)
+![](/assets/img/eco_buildings_mountain.jpg)![](/assets/img/selva.jpg)
 
 Once this massive watershed formed part of what was a continuous, lush Central American forest. But the Chiapas forest was severely damaged by a large scale commercial logging project in the 1980s. This deforestation has been so voracious that a NASA satellite photo taken in the mid 1990s clearly shows the outline of the Guatemala border where that nation’s forest meets the denuded mountains of the Mexican Sierra Madre. And using Google Earth, one can see a startling brown region where there should be emerald green. Animal populations have been seriously reduced. Immense areas of important habitat for migratory birds have been lost.
 
@@ -26,13 +29,13 @@ El Triunfo Rainforest, considered one of the top priority wild-land areas on ear
 
 All over Latin America, land-based communities are facing serious threats to their health and livelihoods from the environmental impact of mining on water and air quality. Much social unrest and conflict results as people find that their governments, bound by free trade rules and saddled with external debt, side with the corporations that seek to expliot the minerals. Unfortunately, 52 mining operations have been authorized in the Sierra Madre, without the free, prior and informed consent of the people who will be negatively affected if these go forward. A mine in Chico Muselo was closed by the government when the leader of the community group that opposed it was murdered in 2009. The Canadian company that operated the mine is under investigation for possible involvement.
 
-![](http://www.sextosol.org/images/eco_concerns/eco_flowers_oldtimers_reminisce.jpg =333x200)
+![](/assets/img/eco_loggingtruck.jpg)
 
 ### The Big Picture
 
- This small piece of the planet, the Sierra Madre, has an important role to play in the ecology of the Americas. Population studies of migratory songbirds that make it to the U.S. and Canada have shown that their numbers are dropping each year at an alarming rate. This is due to the increased use of agro-chemicals, pushed by U.S. aid policy and Latin American governments, and the continuing loss of habitat cut for farming in Central America. These birds are one part of the web of life that is calling us to attention as they show us how far the damage has gone.
+This small piece of the planet, the Sierra Madre, has an important role to play in the ecology of the Americas. Population studies of migratory songbirds that make it to the U.S. and Canada have shown that their numbers are dropping each year at an alarming rate. This is due to the increased use of agro-chemicals, pushed by U.S. aid policy and Latin American governments, and the continuing loss of habitat cut for farming in Central America. These birds are one part of the web of life that is calling us to attention as they show us how far the damage has gone.
 
-![](http://www.sextosol.org/images/eco_concerns/primavera.jpg =246x159)
+![](/assets/img/primavera.jpg)
 
 Old timers reminisce about the time when jaguars, toucans, monkeys, lynx, deer and other native creatures were common. But there _are_ islands of forest remaining where one can catch glimpses into that past they remember. On slopes too steep to farm, misty clouds curl among the branches of old-growth trees filled with bromeliads and orchids. These places are the reserves of the seeds, bulbs, and spores needed to reforest. Fortunately, the local people want to preserve these areas as much as possible. They are the ones who must live with the consequences of the misuse of the watershed.
 
