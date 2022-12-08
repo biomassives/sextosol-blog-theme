@@ -1,7 +1,7 @@
 ---
 tags: []
 title: Microfinance
-date: 2022-12-01 10:00:00 +0300
+date: 2022-12-02 10:00:00 +0300
 author: Muirithi
 featuredimg: "/assets/img/jar1.jpg"
 summary: ''
