@@ -4,7 +4,7 @@
 <div class="container">
 <div class="row justify-content-between">
 <div class="col">
-<a href="/"><img class="logofooter" width="224" height="50" src="/assets/img/mary-holtz-art.webp"></a><BR>
+<a href="/"><img class="logofooter" width="224" height="50" src="https://app.forestry.io/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCS3JxbnhNPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--19c5e1a84be2dc9d11f5ae2cd362b8d914e1ca3c/JASEHG0.webp"></a><BR>
 <b>Mary Holtz Art</b>
 </div>
 <div class="col text-right">
