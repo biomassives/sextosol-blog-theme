@@ -4,8 +4,8 @@ date: 2019-2-26
 tags:
 - markdown
 - vuepress
-author: Sal
-featuredimg: https://images.unsplash.com/photo-1464052259809-c19ec2ddfc5f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1355&q=80
+author: Tamara
+featuredimg: "/assets/img/kidspond.jpg"
 summary: The number of confirmed COVID-19 cases jumped.
 
 ---
