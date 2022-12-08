@@ -3,7 +3,7 @@ title: Home
 date: 2021-04-24T04:00:00.000+00:00
 tags:
 - Home
-author: Tamara Brennan
+author: Tamara
 featuredimg: "/assets/img/kidswindowheader2.jpg"
 summary: Helping rural people create solutions for their families and communities
 
