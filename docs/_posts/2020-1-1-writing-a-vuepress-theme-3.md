@@ -14,10 +14,7 @@ summary: Journalism is the production and distribution of reports on events.
 
 ![](/assets/img/eco_flowers_oldtimers_reminisce.jpg)
 
-### "The only job we have left that expresses our humanity
-
-is to return species to their place and to take our place,  
-a small place." --Bill Mollison
+#### "The only job we have left that expresses our humanity is to return species to their place and to take our place, a small place." --Bill Mollison
 
 The Sierra Madre region of Chiapas, Mexico is an amazingly diverse environment with hot tropical forests a few kilometers away from coniferous cloud forest. There are species of orchids that are found only here. Flocks of lime-green parrots fly into the remaining sunlight when the late afternoon shadows cool their nesting grounds in winter. In the rainshadow there are cactus intermixed with fragrant copal and the gracious, grand guanacastle trees. This is the headwaters for 46 rivers to the Pacific side of the divide. Numerous other rivers flow inland to join the Grijalva River that flows from Guatemala through to the center of Chiapas.
 
