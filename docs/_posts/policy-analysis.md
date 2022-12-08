@@ -4,7 +4,7 @@ tags:
 title: Policy Analysis
 date: 2021-04-24T04:00:00.000+00:00
 author: Tamara
-featuredimg: "/assets/img/header_ribbonhats.jpg"
+featuredimg: "/assets/img/header_canada.jpg"
 summary: We can think of the current global economy as a work in progress requiring
   continued scrutiny to measure it's effectiveness in creating an improvement in the
   quality of life for the all.
