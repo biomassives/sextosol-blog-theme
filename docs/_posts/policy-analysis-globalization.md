@@ -10,9 +10,10 @@ summary: ''
 ---
 # Policy Analysis: Globalization
 
-### The purpose of human society should be  
- the compassionate betterment of human beings.  
- H.H. the Dalia Lama
+### The purpose of human society should be
+
+the compassionate betterment of human beings.  
+H.H. the Dalia Lama
 
 The Sexto Sol Center promotes the notion that it is possible to create a sustainable world in which all people live with dignity and enjoy good health. Vibrant international commerce does not need to be at odds with the well-being of people and local economies. We can think of the current global economy as a work in progress requiring continued scrutiny to measure it's effectiveness in creating an improvement in the quality of life for the all.
 
@@ -22,7 +23,9 @@ See the section entitled Indigenous People for information on specific cases of 
 
 ### “Only when we transcend our own selfish, 'national interests' will we be able to build a harmonious world in which every problem is perceived to be a mutual problem calling for collective responsibility.” Sulak Sivaraksa
 
-![](https://web.archive.org/web/20161103133009im_/http://www.sextosol.org/images/blank.gif =500x20) ![](https://web.archive.org/web/20161103133009im_/http://www.sextosol.org/images/globalization/globalization_africa_isnotforsale.jpg =x165) ![](https://web.archive.org/web/20161103133009im_/http://www.sextosol.org/images/globalization/globalization_graffiti.jpg =x165)
+![](/assets/img/globalization_africa_isnotforsale.jpg)
+
+![](/assets/img/globalization_graffiti.jpg)
 
 The current imbalances in international relations result from policies that disregard human well being and the health of the planet. These policies compound the problems inhertited from a legacy of colonialism in the global South and in First Nations in the North. The result is that the quality of life for millions of people living in most of the countries on the planet is deteriorating. Production and consumption patterns that do not incorporate environmental costs into the price of goods have led to a suicidal destruction of the living systems that make life possible.
 
@@ -35,26 +38,29 @@ The only way out of this box canyon on the road to the evolution of human societ
 
 ## Toward ethics-based economics: Sexto Sol's contribution
 
-![](https://web.archive.org/web/20161103133009im_/http://www.sextosol.org/images/globalization/globalization_africa_tamara_at_wssd.jpg =252x200) Sexto Sol has a commitment to contribute to the knowledge base of effective ways to establish a more equitable and sustainable world. We participate in international forums, publish a newsletter, and write for publication. Local NGOs and government agencies seek our advice. The Sexto Sol Center was accredited for the WSSD as part of the NGO Major Group. We participated at the Commission for Sustainable Development (CSD-11) in 2003, CSD-13 in 2005, and the 4th Permanent Forum on Indigenous Issues at the United Nations. We provide information on the impact of free trade, particularly in agriculture, to a group of African missions to the UN and maintain a list serve for Spanish speaking university students called Mundo Posible.
+![](/assets/img/globalization_africa_tamara_at_wssd.jpg)
+
+Sexto Sol has a commitment to contribute to the knowledge base of effective ways to establish a more equitable and sustainable world. We participate in international forums, publish a newsletter, and write for publication. Local NGOs and government agencies seek our advice. The Sexto Sol Center was accredited for the WSSD as part of the NGO Major Group. We participated at the Commission for Sustainable Development (CSD-11) in 2003, CSD-13 in 2005, and the 4th Permanent Forum on Indigenous Issues at the United Nations. We provide information on the impact of free trade, particularly in agriculture, to a group of African missions to the UN and maintain a list serve for Spanish speaking university students called Mundo Posible.
 
 ### Living up to your word: Already agreed
 
 At the World Summit for Sustainable Development, member nations of the United Nations agreed by consensus to work toward three essential goals in order to establish sustainability in our world. The opposite of sustainability is self-destruction of the species via destruction of the natural world. The essence of the Johannesburg Plan of Implementation (JPOI) is expressed in the three agreed upon goals:
 
-To eliminate poverty;   
- To change unsustainable patterns of consumption and production;  
- To protect and mange the natural resource base
+To eliminate poverty;  
+To change unsustainable patterns of consumption and production;  
+To protect and mange the natural resource base
 
 **Trade Agreements should be evaluated in terms of how well they contribute to these goals.**
 
 "Keep me away from the wisdom which does not cry,  
- the philosophy which does not laugh and the greatness  
- which does not bow before children."   
-   
+the philosophy which does not laugh and the greatness  
+which does not bow before children."
+
 Kahlil Gibran
 
-### BECHTEL VS. BOLIVIA: THE PEOPLE WIN!!   
- (against the privatization of water)
+### BECHTEL VS. BOLIVIA: THE PEOPLE WIN!!
+
+(against the privatization of water)
 
 January 2006 - The Bechtel Corporation signed an agreement dropping its $50 million legal case against the people of Cochabamba who opposed the attempt by the company to privatize their water during what is known as the 2000 water revolt. Quoting from Jim Shultz of the Democracy Center - "One of the biggest, most powerful corporations on Earth has been defeated by an army of concerned citizens all over the world, including many of you." see this site for more information: [http://democracyctr.org/bechtel/](http://democracyctr.org/bechtel/ "http://democracyctr.org/bechtel/")
 
@@ -64,7 +70,8 @@ January 2006 - The Bechtel Corporation signed an agreement dropping its $50 mill
 
 ***
 
-### Why the WTO Should Leave the Business of Agriculture to Farmers  
+### Why the WTO Should Leave the Business of Agriculture to Farmers
+
 Tamara Brennan, Ph.D., November, 2004
 
 Land-based societies, from Bali to the Hopi Mesas, have always celebrated the cycles of planting and harvest. Farming is the primal activity that reminds us that we are sustained by the grace of this Earth. But producing food has moved far from "the sacred" in these times of seed patenting, dumping and contentious arbitration between nations. So universally destructive is the disruption created by the WTO in the way food is now produced and distributed that farmers around the world are demanding that agriculture be made off limits to governance by the international trading body.
@@ -109,9 +116,9 @@ Robert Anderson, who helped to set standards for organic products in the US, has
 
 ### PATENTING OF AGRICULTURAL PRODUCTS RAISES CONCERNS
 
-Among the many well-documented problems with the introduction of Genetically Modified products into the free-trade vegetable soup is the increased costs of patented agricultural products that are passed on to farmers. (8), Farmers are also vulnerable to expensive patent infringement suits from powerful TNCs as Canadian canola farmer Percy Schmeiser found out. Schmeiser was ordered by the Canadian Federal Court to pay damages to Monsanto for the presence of patented plants in the ditch alongside his farm. He was not compensated for contamination of his seed, the product of 50 years of careful plant breeding.   
-   
- But no one can control the way pollen drifts on the wind. It makes you wonder if we should be worried about those indigenous corn farmers whose maize was contaminated with biotech intellectual property in the far reaches of Mexico?
+Among the many well-documented problems with the introduction of Genetically Modified products into the free-trade vegetable soup is the increased costs of patented agricultural products that are passed on to farmers. (8), Farmers are also vulnerable to expensive patent infringement suits from powerful TNCs as Canadian canola farmer Percy Schmeiser found out. Schmeiser was ordered by the Canadian Federal Court to pay damages to Monsanto for the presence of patented plants in the ditch alongside his farm. He was not compensated for contamination of his seed, the product of 50 years of careful plant breeding.
+
+But no one can control the way pollen drifts on the wind. It makes you wonder if we should be worried about those indigenous corn farmers whose maize was contaminated with biotech intellectual property in the far reaches of Mexico?
 
 ### FOOD STOCKS ARE CONTROLED BY FEW TRANSNATIONALS
 
@@ -131,31 +138,31 @@ Had the internal combustion engine not been created, we would buy our food from 
 
 A basic moral question underlies our discomfort with the WTO directing trade in agriculture. Given that food sustains life, should it be treated like any other manufactured commodity? We know that we can not afford to stand by while governments allow trade barons to apply failed economic models on a hungry world. Under their rule, today, in more households than yesterday, people will have to face their hungry children with nothing to give them. The World deserves better.
 
-References:   
-  
- (1) Pal, Parthapratim, no date or journal, reprinted on website. "Implementation Issues of the Agreement on Agriculture and its Implications for Developing Countries. Appears to be from a peer-reviewed journal.   
-  
- (2) Mittal, Anradha, Summer 2002, "Giving Away the Farm: The 2002 Farm Bill" Institute for Food and Development Policy.   
-  
- (3) Atencio, Joel, no date listed, "Farmers group wary of WTO paper on agriculture", Manila Bulletin Online.   
-  
- (4) Prensa Libre, May 6, 2004, "Acuerdo de Libre Comercio con Chile en Camino."   
-  
- (5) Journal article outlining history of trade deficit and use of agricultural subsidies. Paper currently buried in a pile on my desk. Sorry. Write if you really need this reference. tamara@sextosol.org  
-  
- (6) Chavez, Jenny J.; Manahan, Mary Ann, & Purgganan, Joseph, "Hunger on the Rise in the Philippines", Focus on Trade, Number 105. October 2004  
-  
- (7) No author listed, "Farmers Feel Impact of WTO Entry," China Daily, October 22, 2002.   
-  
- (8) Sharma, Ashok B., "New Patent Regime: Concerns Center Around Rise in Prices", Financial Express, November 15, 2004, (IATP Headlines)   
-  
- (9) Murphy, Sophia, September 2001, Food Security and the WTO, Institute for Agriculture and Trade Policy.
+References:
+
+(1) Pal, Parthapratim, no date or journal, reprinted on website. "Implementation Issues of the Agreement on Agriculture and its Implications for Developing Countries. Appears to be from a peer-reviewed journal.
+
+(2) Mittal, Anradha, Summer 2002, "Giving Away the Farm: The 2002 Farm Bill" Institute for Food and Development Policy.
+
+(3) Atencio, Joel, no date listed, "Farmers group wary of WTO paper on agriculture", Manila Bulletin Online.
+
+(4) Prensa Libre, May 6, 2004, "Acuerdo de Libre Comercio con Chile en Camino."
+
+(5) Journal article outlining history of trade deficit and use of agricultural subsidies. Paper currently buried in a pile on my desk. Sorry. Write if you really need this reference. tamara@sextosol.org
+
+(6) Chavez, Jenny J.; Manahan, Mary Ann, & Purgganan, Joseph, "Hunger on the Rise in the Philippines", Focus on Trade, Number 105. October 2004
+
+(7) No author listed, "Farmers Feel Impact of WTO Entry," China Daily, October 22, 2002.
+
+(8) Sharma, Ashok B., "New Patent Regime: Concerns Center Around Rise in Prices", Financial Express, November 15, 2004, (IATP Headlines)
+
+(9) Murphy, Sophia, September 2001, Food Security and the WTO, Institute for Agriculture and Trade Policy.
 
 ***
 
 ### Who is Accountable to Whom in the Global Economy?
 
-![](https://web.archive.org/web/20161103133009im_/http://www.sextosol.org/images/globalization/globalization_africa_twowomen.jpg =275x200)
+![](/assets/img/globalization_africa_twowomen.jpg)
 
 "The internationalization of production and investment raises a fundamental question of accountability: to whom will national economic policymakers be accountable? The implicit answer provided by the globalization model is that they will be accountable to foreign investors, country-fund managers in London and New York and a relatively small group of domestic exporters in the globalized economy. These are the groups that determine whether an economy is judged a success or not, and whether it will prosper.
 
@@ -178,20 +185,20 @@ Sharing water is an ethical imperative and expression of human solidarity. The i
 Cultural diversity, developed during the millennia by human societies, constitutes a treasure of sustainable practices and innovative approaches. Indigenous knowledge holders should be full partners with scientists to find solutions for water-related and human settlement issues.
 
 Education is necessary to learn about the sacredness of water as well as the inclusion of indigenous and traditional laws are needed to “protect water for future generations of all plants and animals.”  
- Indigenous Environmental Network, ien@igc.org
+Indigenous Environmental Network, ien@igc.org
 
 | --- |
 | "Fascism should more appropriately be called Corporatism because it is a merger of State and corporate power." -- Benito Mussolini |
 
-**"WHAT ABOUT FIRST AMMENDMENT RIGHTS IN THE U.S.? November, 2003**  
-  
- From the 50's through the 90's, economic power was concentrated through the use of proxy governments in nations that were in practice de facto colonies of foreign corporations that extracted resource and labor wealth. The restructuring of such nations to better serve the needs of these interests was accomplished through structural adjustment and enforced by political violence promoted by the U.S. military as evidenced by the training program in torture it operated at the School of the Americas.   
-   
- Recall that during the end of the 90s there was talk that the CIA would change roles to that of protecting American trade interests. Now with the world's productivity and markets held in the snare of free trade, the next generation of political violence is that of repressive state police attacking those who would oppose the further globalizaiton of the world. Violence against peaceful protesters while they exercised their constitutionally protected right to express dissention has been on the increase from Seattle to Quito. Recently, it reached a new level of brutality in Miami, Florida during the FTAA meeting.   
-   
- Reports of extreme police brutality, torture and sexual assalt of detainees in jail should be of concern to all Americans and signal a "heads up" for all interested in self-determination in the face of corporate control of government.   
-   
- It should be noted that the Mexican government maintained a peaceful atmosphere throughout the WTO meeting in Cancun. This tolerance of dissent is the model for other nations that host such meetings.
+**"WHAT ABOUT FIRST AMMENDMENT RIGHTS IN THE U.S.? November, 2003**
+
+From the 50's through the 90's, economic power was concentrated through the use of proxy governments in nations that were in practice de facto colonies of foreign corporations that extracted resource and labor wealth. The restructuring of such nations to better serve the needs of these interests was accomplished through structural adjustment and enforced by political violence promoted by the U.S. military as evidenced by the training program in torture it operated at the School of the Americas.
+
+Recall that during the end of the 90s there was talk that the CIA would change roles to that of protecting American trade interests. Now with the world's productivity and markets held in the snare of free trade, the next generation of political violence is that of repressive state police attacking those who would oppose the further globalizaiton of the world. Violence against peaceful protesters while they exercised their constitutionally protected right to express dissention has been on the increase from Seattle to Quito. Recently, it reached a new level of brutality in Miami, Florida during the FTAA meeting.
+
+Reports of extreme police brutality, torture and sexual assalt of detainees in jail should be of concern to all Americans and signal a "heads up" for all interested in self-determination in the face of corporate control of government.
+
+It should be noted that the Mexican government maintained a peaceful atmosphere throughout the WTO meeting in Cancun. This tolerance of dissent is the model for other nations that host such meetings.
 
 | --- |
 | "Hace 2000 años, como dijo un carpintero sencillo y descalzo, 'Amemonos los unos a los otros', pero ustedes intendieron mal, 'Armamosnos unos en contra de los otros'." Mexican actor Cantinflas en "Excelencia". |
@@ -206,57 +213,57 @@ From Globalization and its Discontents, 2002, W.W. Norton & Company, New York. J
 
 And also: The Nestlé Corporation, the world's largest food manufacturer, has successfully secured a patent on genetically modified coffee.
 
-**Food First newsletter, We are Fighting Back,** number 21, May, 2004   
-  
- **Vermont Signs Nation's First GM Labeling Law**  
-  
- With a stroke of the pen, Gov. James Douglas made Vermont the first state in the nation to require manufacturers to label their genetically engineered seed products.   
-  
- Beginning October 1, 2004, all genetically engineered seeds must be labeled and their sales must be reported to the state's secretary of agriculture each year.   
-  
- After two years of campaigning in the House and the Senate, and countless hours of grass roots effort, campaigners for Rural Vermont and GE Free Vermont were delighted when the measure passed both the Vermont House and the Senate and was given to Gov. Douglas, who signed the measure immediately.   
-  
- "This is a great first step for Vermont to enact this right-to-know bill" said Amy Shollenberger, policy director of Rural Vermont.   
-  
- No one knows the amount of genetically engineered crops planted in Vermont. However the Vermont Genetic Engineering Action Network estimates the figure to be somewhere between 20 to 40 percent.   
-  
- Rural Vermont, a non-profit advocacy organization dedicated to defending small farms, and GE Free Vermont, a coalition of farmers, public interest groups, businesses and citizens, continue to pressure lawmakers to pass the Farmer Protection Act, a bill to protect farmers from frivolous biotech industry lawsuits.   
-  
- **Monsanto Seeks to Prevent Legislation to Protect Local Agriculture from GMOs**  
-  
- From Organic Bytes #58 of the Organic Consumer Association, 5/24/2005:   
-  
- NEW "MONSANTO LAWS" AIM TO MUTE COMMUNITY RIGHTS  
-  
- Responding to the growing number of localities whose citizens are voting to regulate or even ban genetically engineered crops, the biotech industry, led by Monsanto and Syngenta, has brought new legislation to ten states in the U.S. that would remove the rights of communities to have any control of agricultural regulations in their area. On one side of the issue, citizens and farmers in counties that have banned GE crops, like Mendocino, Calif., say they have a right to protect their predominantly organic county from contamination by GE pollen from neighboring crops. On the other side of the issue, the biotech industry is investing tens of millions of dollars to remove these local rights, saying anti-GE citizens and farmers "lack the education to make these kinds of decisions." [http://www.organicconsumers.org/monsanto/laws052005.cfm](http://www.organicconsumers.org/monsanto/laws052005.cfm "http://www.organicconsumers.org/monsanto/laws052005.cfm")  
-  
- From Food First Late breaking news:  
-  
- The International Seed Treaty, also known as the International Treaty on Plant Genetic Resources for Food and Agriculture, which is intended to preserve food security and sustainable agriculture, went into effect June 29. But family farmers may still be in peril. Read more:   
- [http://www.ukabc.org/itpgrfa29june2004.htm](http://www.ukabc.org/itpgrfa29june2004.htm "http://www.ukabc.org/itpgrfa29june2004.htm")   
- [http://ww.fao.org/ag/cgrfa/itpgr.htm](http://ww.fao.org/ag/cgrfa/itpgr.htm "http://ww.fao.org/ag/cgrfa/itpgr.htm")  
-  
- From Organic Bytes #38 of the Organic Consumer Association 8/12/2004  
-  
- **INDIAN FARMERS RETURNING TO TRADITIONAL ORGANIC PRACTICES**  
-  
- Last week organic farmers and experts in India organized to address the agriculture crisis facing the nation's 700 million farmers. Poor yields, degraded soils, and expensive chemical inputs arising from the cultivation of pesticide intensive crops, including genetically engineered cotton, have devastated India's rural economy. Crop failures and crushing debt led over 300 Indian farmers to commit suicide between May and July. To address this crisis, farmers from all over the country joined together August 2 to create the "Organic Vision 2020," a long term strategy to shift the country's farming focus back to ecological and traditional organic practices.   
-  
- Reprinted from the Food First newsletter, We are Fighting Back number 40, March, 2005  
-  
- **Grassroots Pressure Scraps New York Wal-Mart Plans**  
-  
- Residents and unions successfully pressured Vornado Reality Trust to cancel plans to build what would have been the first Wal-Mart in New York City.   
-  
- When Wal-Mart Stores, Inc. announced its plans to build the 132,000 square foot store in the borough of Queens last December, a coalition of small businesses, residents and unions immediately formed to stop the store. Last Thursday, the developer, Vornado, pulled out.  
-  
- "New York is one tough customer, and if you want to do business with us, you must clean up your act," said Brian Mclaughlin, President of the New York City Central Labor Council/AFL-CIO.  
-  
- Nationwide, reports of Wal-mart's anti-union stance, intimidation tactics, and low wages are galvanizing communities to fight the Superstore's onslaught...  
-  
- September, 2003  
-   
- Four months after a Burger King and a Wal-Mart opened in Tapachula, Chiapas 38 medium sized businesses closed.
+**Food First newsletter, We are Fighting Back,** number 21, May, 2004
+
+**Vermont Signs Nation's First GM Labeling Law**
+
+With a stroke of the pen, Gov. James Douglas made Vermont the first state in the nation to require manufacturers to label their genetically engineered seed products.
+
+Beginning October 1, 2004, all genetically engineered seeds must be labeled and their sales must be reported to the state's secretary of agriculture each year.
+
+After two years of campaigning in the House and the Senate, and countless hours of grass roots effort, campaigners for Rural Vermont and GE Free Vermont were delighted when the measure passed both the Vermont House and the Senate and was given to Gov. Douglas, who signed the measure immediately.
+
+"This is a great first step for Vermont to enact this right-to-know bill" said Amy Shollenberger, policy director of Rural Vermont.
+
+No one knows the amount of genetically engineered crops planted in Vermont. However the Vermont Genetic Engineering Action Network estimates the figure to be somewhere between 20 to 40 percent.
+
+Rural Vermont, a non-profit advocacy organization dedicated to defending small farms, and GE Free Vermont, a coalition of farmers, public interest groups, businesses and citizens, continue to pressure lawmakers to pass the Farmer Protection Act, a bill to protect farmers from frivolous biotech industry lawsuits.
+
+**Monsanto Seeks to Prevent Legislation to Protect Local Agriculture from GMOs**
+
+From Organic Bytes #58 of the Organic Consumer Association, 5/24/2005:
+
+NEW "MONSANTO LAWS" AIM TO MUTE COMMUNITY RIGHTS
+
+Responding to the growing number of localities whose citizens are voting to regulate or even ban genetically engineered crops, the biotech industry, led by Monsanto and Syngenta, has brought new legislation to ten states in the U.S. that would remove the rights of communities to have any control of agricultural regulations in their area. On one side of the issue, citizens and farmers in counties that have banned GE crops, like Mendocino, Calif., say they have a right to protect their predominantly organic county from contamination by GE pollen from neighboring crops. On the other side of the issue, the biotech industry is investing tens of millions of dollars to remove these local rights, saying anti-GE citizens and farmers "lack the education to make these kinds of decisions." [http://www.organicconsumers.org/monsanto/laws052005.cfm](http://www.organicconsumers.org/monsanto/laws052005.cfm "http://www.organicconsumers.org/monsanto/laws052005.cfm")
+
+From Food First Late breaking news:
+
+The International Seed Treaty, also known as the International Treaty on Plant Genetic Resources for Food and Agriculture, which is intended to preserve food security and sustainable agriculture, went into effect June 29. But family farmers may still be in peril. Read more:  
+[http://www.ukabc.org/itpgrfa29june2004.htm](http://www.ukabc.org/itpgrfa29june2004.htm "http://www.ukabc.org/itpgrfa29june2004.htm")  
+[http://ww.fao.org/ag/cgrfa/itpgr.htm](http://ww.fao.org/ag/cgrfa/itpgr.htm "http://ww.fao.org/ag/cgrfa/itpgr.htm")
+
+From Organic Bytes #38 of the Organic Consumer Association 8/12/2004
+
+**INDIAN FARMERS RETURNING TO TRADITIONAL ORGANIC PRACTICES**
+
+Last week organic farmers and experts in India organized to address the agriculture crisis facing the nation's 700 million farmers. Poor yields, degraded soils, and expensive chemical inputs arising from the cultivation of pesticide intensive crops, including genetically engineered cotton, have devastated India's rural economy. Crop failures and crushing debt led over 300 Indian farmers to commit suicide between May and July. To address this crisis, farmers from all over the country joined together August 2 to create the "Organic Vision 2020," a long term strategy to shift the country's farming focus back to ecological and traditional organic practices.
+
+Reprinted from the Food First newsletter, We are Fighting Back number 40, March, 2005
+
+**Grassroots Pressure Scraps New York Wal-Mart Plans**
+
+Residents and unions successfully pressured Vornado Reality Trust to cancel plans to build what would have been the first Wal-Mart in New York City.
+
+When Wal-Mart Stores, Inc. announced its plans to build the 132,000 square foot store in the borough of Queens last December, a coalition of small businesses, residents and unions immediately formed to stop the store. Last Thursday, the developer, Vornado, pulled out.
+
+"New York is one tough customer, and if you want to do business with us, you must clean up your act," said Brian Mclaughlin, President of the New York City Central Labor Council/AFL-CIO.
+
+Nationwide, reports of Wal-mart's anti-union stance, intimidation tactics, and low wages are galvanizing communities to fight the Superstore's onslaught...
+
+September, 2003
+
+Four months after a Burger King and a Wal-Mart opened in Tapachula, Chiapas 38 medium sized businesses closed.
 
 **Genetically Modified Foods and Seeds**
 
@@ -268,9 +275,9 @@ Attempts by the EU and African countries to keep GMO foods and seeds out of thei
 
 All children are taught to respect the wishes of others. What happened to just being polite?
 
-May, 2004  
-  
- According to Jane Sooby of the Organic Farming Research Foundation, Monsanto recently announced that it is suspending sales of Round-Up Ready Wheat seed. This product was modified such that it would not be damaged by Monsanto's herbicide Round-Up. This allowed farmers to spray the crop with the chemical to control weeds. Presence of genetically modified wheat in the environment led to contamination of neighoring fields of true strains of wheat affecting organic farmers and those whose crop was planned for export to countries that disallowed entry of modified foods.
+May, 2004
+
+According to Jane Sooby of the Organic Farming Research Foundation, Monsanto recently announced that it is suspending sales of Round-Up Ready Wheat seed. This product was modified such that it would not be damaged by Monsanto's herbicide Round-Up. This allowed farmers to spray the crop with the chemical to control weeds. Presence of genetically modified wheat in the environment led to contamination of neighoring fields of true strains of wheat affecting organic farmers and those whose crop was planned for export to countries that disallowed entry of modified foods.
 
 Recent research on cabbage modified to contain the toxin produce by the Bt bacterium showed that moths that are resistant to Bt actually thrived when eating cabbage with Bt. Bt is has been used effectly by organic farmers to control cabbage moths and other pests. Bt resistance in successive generations of pests was caused by prolonged exposure to the bacterium in modified plants and is an example of what some call the problem of GM technology leading to the development of super pests.
 
@@ -286,15 +293,15 @@ The (European) Commission's approach to sustainable trade focuses on exploiting 
 
 However, the success of each of these initiatives will remain limited if not matched by a fundamental change in trading rules. The current approach would benefit a small number of producers and farmers in the South, as large multinational businesses could buy into the sustainability niche, without having to amend their overall social and environmental performance. Large-scale improvements won't be possible without the development of a more equitable trading relationship between North and South, the translation of sustainability into common business practice and the ability of developing countries to protect vulnerable markets and producers from the effects of trade liberalisation.
 
-**PLAN PUEBLA PANAMA**  
-  
- One of the methods of globalization is to create large regional free trade zones in which trade barriers are reduced. While some economists say that NAFTA has helped the Mexican economy, the experience of most Mexicans is the contrary.
+**PLAN PUEBLA PANAMA**
 
- The Plan Puebla Panama project intends to create the infrastructure for manufacturing companies that would set up factories in Chiapas where the cost of labor is cheap. The meaning of this project for the biodiversity of Chiapas is described in this excerpt from the Natural Resources Defense Council web page:
+One of the methods of globalization is to create large regional free trade zones in which trade barriers are reduced. While some economists say that NAFTA has helped the Mexican economy, the experience of most Mexicans is the contrary.
 
-**From the Natural Resources Defense Council Web Site:**   
-  
- (Posted August 2003) The Usumacinta River, flowing from northern Guatemala into Mexico, forms the biological backbone of the largest tropical rainforest north of the Amazon. A remnant of the lush jungle that once blanketed Central America, the watershed is home to ocelots, crocodiles, howler and spider monkeys, and many tropical and migratory songbirds -- as well as archaeological sites so significant they've been called the Maya Vatican. 
+The Plan Puebla Panama project intends to create the infrastructure for manufacturing companies that would set up factories in Chiapas where the cost of labor is cheap. The meaning of this project for the biodiversity of Chiapas is described in this excerpt from the Natural Resources Defense Council web page:
+
+**From the Natural Resources Defense Council Web Site:**
+
+(Posted August 2003) The Usumacinta River, flowing from northern Guatemala into Mexico, forms the biological backbone of the largest tropical rainforest north of the Amazon. A remnant of the lush jungle that once blanketed Central America, the watershed is home to ocelots, crocodiles, howler and spider monkeys, and many tropical and migratory songbirds -- as well as archaeological sites so significant they've been called the Maya Vatican.
 
 Despite these treasures, the Mexican government plans to build a massive series of dams on the Usumacinta, flooding large swaths of the Lacandon Rainforest and potentially submerging irreplaceable Maya monuments at Guatemala's Piedras Negras and Mexico's Yaxchilán -- and displacing as many as 50,000 people.
 
