@@ -4,7 +4,7 @@ date: 2021-04-24T04:00:00.000+00:00
 tags:
 - Coffee
 author: Tamara
-featuredimg: "/assets/img/9dongallieniabodega.jpg"
+featuredimg: "/assets/img/solutions_men_coffeebags.jpg"
 summary: In each cup of coffee there are stories of the lives of people who grew it,
   their wishes and dreams as well as the difficulties they endure. Coffee drinkers
   do have a choice about the impact of their purchase in coffee-producing countries.
