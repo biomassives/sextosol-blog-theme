@@ -25,23 +25,25 @@ Please write to Dr.Tamara Brennan concerning:
 * Availability of coffee or other products
 * Questions about our newsletter
 
-### Luis Manriquez, Treasurer
-
-[lmanriquez2@cox.net](https://web.archive.org/web/20211025171416/mailto:lmanriquez2@cox.net)
-
-Financial information available upon request
-
-### Field Office in Mexico
+### Field Office in Mexico:
 
 Apartado Postal 64  
 Motozintla, Chiapas  
 Mexico  
 CP 30900  
-Cell: 52.1.962.109.4824
+Cell: 52 962 466 0575
 
-### In the United States
+### In the United States:
+
+### Luis Manriquez, Treasurer
+
+[lmanriquez2@cox.net](https://web.archive.org/web/20211025171416/mailto:lmanriquez2@cox.net)
 
 The Sexto Sol Center  
-3514 E. Contessa, Mesa, AZ,  
-85213-7036 U.S.A.  
+5764 E Hampton, Mesa, AZ,  
+85206-6745 U.S.A.  
 (480) 854-758
+
+Financial information available upon request
+
+### 
