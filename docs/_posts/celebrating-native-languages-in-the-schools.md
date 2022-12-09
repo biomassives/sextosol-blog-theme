@@ -9,7 +9,7 @@ title: Celebrating Native Languages in the Schools
 date: 2021-04-24T04:00:00.000+00:00
 author: Tamara
 featuredimg: "/assets/img/flavianoclassroom.jpg"
-summary: ''
+summary: Celebrating Native Languages in the Schools
 
 ---
 # Celebrating Native Languages in the Schools
@@ -26,7 +26,7 @@ January, 2013: It was a great day at the elementary school as we brought traditi
 
 December, 2007: Josue Diaz, artist and activist served as artist in the schools. His focus was to use art to help children express what is it to be indigenous in the Sierra Madre of Chiapas, planet Earth. He worked in two indigenous schools. Josue also organized a substantial donation of art supplies, book and more for these schools. The principals were thrilled with his work to support the message of cultural pride.
 
-![](http://www.sextosol.org/images/Leonel.jpg =x250)
+![](/assets/img/leonel.jpg)
 
 ## Our work is made possible by the financial support of people like you
 
@@ -37,7 +37,9 @@ December, 2007: Josue Diaz, artist and activist served as artist in the schools.
 | --- |
 | Stay Connected to Sexto Sol |
 
-[![](http://www.sextosol.org/images/buttons/facebook48.png =40x)](http://www.facebook.com/pages/The-Sexto-Sol-Center/211129337269?ref=ts)[![](http://www.sextosol.org/images/buttons/Youtube48.png =40x)](http://www.youtube.com/v/-vwotU5GDUs?fs=1&hl=en_US)[Subscribe to our newsletter](http://eepurl.com/b6CyD)
+[follow us on Facebook](http://www.facebook.com/pages/The-Sexto-Sol-Center/211129337269?ref=ts "Sexto Sol Center Facebook")
+
+[Subscribe to our newsletter](http://eepurl.com/b6CyD)
 
 **Privacy Policy: We will guard your information in a vacuum sealed box, never to be shared.**
 
@@ -48,7 +50,11 @@ December, 2007: Josue Diaz, artist and activist served as artist in the schools.
 
 #### Sexto Sol's t-shirt coming soon!
 
-#### ![](http://www.sextosol.org/images/T-shirt.jpg =140x) Find out when on our Facebook page
+#### 
+
+![](/assets/img/t-shirt.jpg)
+
+#### Find out when on our Facebook page
 
 #### Sell your used items on eBay and direct the funds to Sexto Sol. Contact [Luis](http://www.sextosol.org/contact.html) for more information.
 
@@ -65,7 +71,7 @@ Fundraiser heroes: How about doing a fundraiser for Sexto Sol? It's as easy as h
 
 #### Your contribution will help make this possible.
 
-[![](http://www.sextosol.org/images/buttons/DonateClear.png)](http://www.sextosol.org/donations.html)
+[DONATE]( "Donate")
 
 **Success!** Thanks to a grant from Water Charity, we installed 260 meters of rain gutters on buildings at an elementary school located at 10K elevation. The school had suffered from flooding which made classrooms dark and wet.[**See Sexto Sol's Project**](http://www.watercharity.org/node/113) featured on Water Charity's site!
 
