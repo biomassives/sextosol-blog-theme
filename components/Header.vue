@@ -183,7 +183,7 @@ nav {
         <li><a href="#">Environment</a>
             <ul>        
                 <li><a href="/2021/04/24/reforestation/">Reforestation</a></li>
-                <li><a href="#">Environmental Justice</a></li>
+                <li><a href="/2021/04/24/writing-a-vuepress-theme-3/">Environmental Justice</a></li>
                 <li><a href="/2021/04/24/upcycling/">Upcycling</a></li>
             </ul>
         </li>
