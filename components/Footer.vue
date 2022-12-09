@@ -22,6 +22,7 @@
 
 
 
+
 </div>
 <div class="col text-right">
 <ul v-if="contact" class="list-unstyled">
@@ -37,6 +38,8 @@ class="contact-item"
 </li>
 </ul>
 <ul v-if="copyright" class="list-unstyled">
+<li><script type="text/javascript" src="http://jj.revolvermaps.com/t.js"></script><script type="text/javascript">rmt_ki101('0',130,'9dl9sih00gd','00fff6');</script></li>         
+
 <li v-for="item in copyright" :key="item.text" class="copyright-item">
 <NavLink :link="item.link">{{ item.text }}</NavLink>
 </li>
