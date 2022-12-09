@@ -34,8 +34,8 @@ December, 2007: Josue Diaz, artist and activist served as artist in the schools.
 
 #### Helping people to improve life for their communities since 1997
 
-| --- |
-| Stay Connected to Sexto Sol |
+
+| _Stay Connected to Sexto Sol_ |
 
 [follow us on Facebook](http://www.facebook.com/pages/The-Sexto-Sol-Center/211129337269?ref=ts "Sexto Sol Center Facebook")
 
@@ -60,7 +60,7 @@ December, 2007: Josue Diaz, artist and activist served as artist in the schools.
 
 ***
 
-Fundraiser heroes: How about doing a fundraiser for Sexto Sol? It's as easy as holding a yardsale, throwing a benefit dance party, or wherever your creativity leads. Amy from Michigan held an open mic night, Rubi in Washington sold coffee, Cheryl and friends in Colorado recycled goods, Melinda in Oregon organized two benefits raising 2,000 dollars. Sarah in San Cristobal sponosored a reaggae dance benefit. Alex organized fans of actor Edward James Olmos to collectively donate as a birthday gift to him. Rick got sponsors for his marathon run. Need ideas? tamara@sextosol.org.
+Fundraiser heroes: How about doing a fundraiser for Sexto Sol? It's as easy as holding a yardsale, throwing a benefit dance party, or wherever your creativity leads. Amy from Michigan held an open mic night, Rubi in Washington sold coffee, Cheryl and friends in Colorado recycled goods, Melinda in Oregon organized two benefits raising 2,000 dollars. Sarah in San Cristobal sponsored a reggae dance benefit. Alex organized fans of actor Edward James Olmos to collectively donate as a birthday gift to him. Rick got sponsors for his marathon run. Need ideas? tamara@sextosol.org.
 
 | --- |
 | Recent Successes |
