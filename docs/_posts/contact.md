@@ -10,7 +10,7 @@ summary: ''
 ---
 ## Changing the world for the better is a team effort
 
-[![](/assets/img/facebook48.png)](https://www.facebook.com/pages/The-Sexto-Sol-Center/211129337269?ref=ts "Facebook")[![](/assets/img/youtube48.png)](https://www.youtube.com/watch?v=0ensxgLyh1k "Sexto Sol Youtube") [![](/assets/img/newsletter.png)](http://eepurl.com/b6CyD "Receive Newsletter")
+[(/assets/img/facebook48.png)](https://www.facebook.com/pages/The-Sexto-Sol-Center/211129337269?ref=ts "Facebook")[(/assets/img/youtube48.png)](https://www.youtube.com/watch?v=0ensxgLyh1k "Sexto Sol Youtube") [(/assets/img/newsletter.png)](http://eepurl.com/b6CyD "Receive Newsletter")
 
 
 ### Tamara Brennan, Ph.D., Executive Director
@@ -38,7 +38,7 @@ Cell: 52 962 466 0575
 
 ### Luis Manriquez, Treasurer
 
-[lmanriquez2@cox.net](https://web.archive.org/web/20211025171416/mailto:lmanriquez2@cox.net)
+[lmanriquez2@cox.net](mailto:lmanriquez2@cox.net)
 
 The Sexto Sol Center  
 5764 E Hampton, Mesa, AZ,  
