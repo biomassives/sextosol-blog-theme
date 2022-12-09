@@ -1,9 +1,9 @@
 ---
 tags: []
 title: Donate
-date: 2022-12-06 23:00:00 -0800
+date: 2022-12-06T23:00:00.000-08:00
 author: Tamara
-featuredimg: ''
+featuredimg: "/assets/img/header_circulomale.jpg"
 summary: ''
 
 ---
