@@ -19,4 +19,4 @@ With the adoption of the United Nations Declaration on the Rights of Indigenous 
 
 What if we mined our garbage dumps instead of pristine ecosystems? According to the NGO Japan Sustainability, it is more cost effective to recover the gold from obsolete cellphones than to open a new mine.
 
-    https://www.youtube.com/embed/HLTAq8NnkJc?rel=0
+[https://www.youtube.com/embed/HLTAq8NnkJc?rel=0](https://www.youtube.com/embed/HLTAq8NnkJc?rel=0 "https://www.youtube.com/embed/HLTAq8NnkJc?rel=0")
