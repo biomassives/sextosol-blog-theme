@@ -21,7 +21,7 @@ Favor de visitar el resto del sitio, usando el traductor de Google, para leer ma
 
 **Mayo, 2012:** Te ofrecemos unos videos acerca de como dar otra vida a las botellas de plástico. Con la ayuda de voluntarios quienes están apoyando a Sexto Sol, estamos construyendo un techo para el gallinero, hecho de botellas de plástico encontradas en la carretera. También estamos haciendo luces solares de botellas para instalarlas en las escuelas pobres en la Sierra Madre. El video abajo demuestra como hacerlas.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rYTIYUUK70I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[https://www.youtube.com/embed/rYTIYUUK70I](https://www.youtube.com/embed/rYTIYUUK70I "https://www.youtube.com/embed/rYTIYUUK70I")
 
 **Dale otra vida a una botella de plastico...**
 
@@ -87,16 +87,12 @@ Todos de los proyectos del Instituto Sexto Sol se basan en nuestros compromisos 
 
 ## 3. LA SITUACION ECOLOGICA EN CHIAPAS
 
-![](https://web.archive.org/web/20160330063335im_/http://www.sextosol.org/images/eco_concerns/primavera.jpg =246x159)   
- Se calcula que unas 600 mil hectáreas de selva antigua son cortadas cada año en Mêxico. Sólo una pequeña fracción de la tierra dañada es reforestada.   
-   
-   
-   
- 
+![](https://web.archive.org/web/20160330063335im_/http://www.sextosol.org/images/eco_concerns/primavera.jpg =246x159)  
+Se calcula que unas 600 mil hectáreas de selva antigua son cortadas cada año en Mêxico. Sólo una pequeña fracción de la tierra dañada es reforestada.
 
 ## La situación del medio ambiente y su impacto en la gente local
 
- La Sierra Madre de Chiapas, Mêxico, es un medio ambiente increíblemente diverso, con selvas tropicales cálidas a sólo pocos kilómetros bosques nublados de coníferas. Hay especies de orquídeas que sólo se encuentran aquí. Bandadas de loros verdes vuelan hacia las Ãºltimas luces del atardecer, cuando las sombras enfrían sus nidos invernales. Los cactus se mezclan con fragantes copales y graciosos huanacastles. Desde la Sierra Madre nacen 46 ríos que desembocan en el Pacífico. Muchos otros fluyen hacia el interior, para unirse al río Grijalva, proveniente de Guatemala.
+La Sierra Madre de Chiapas, Mêxico, es un medio ambiente increíblemente diverso, con selvas tropicales cálidas a sólo pocos kilómetros bosques nublados de coníferas. Hay especies de orquídeas que sólo se encuentran aquí. Bandadas de loros verdes vuelan hacia las Ãºltimas luces del atardecer, cuando las sombras enfrían sus nidos invernales. Los cactus se mezclan con fragantes copales y graciosos huanacastles. Desde la Sierra Madre nacen 46 ríos que desembocan en el Pacífico. Muchos otros fluyen hacia el interior, para unirse al río Grijalva, proveniente de Guatemala.
 
 Alguna vez esta masiva cubierta de árboles formó parte de lo que era la continua y espesa selva centroamericana. Pero la selva chiapaneca fue dañada severamente hace 16 años, por un proyecto forestal de gran escala de nada menos que un gobernador del Estado. Esta deforestación fue tan voraz que una fotografía satelital de la NASA, tomada hace más de doce años, muestra claramente la frontera entre la selva guatemalteca y las montañas desnudas de la Sierra Madre mexicana. La selva tropical El Triunfo, considerada unas de las áreas salvajes de protección prioritaria a nivel mundial, está siendo â€œcarcomidaâ€ en los costados, por campesinos pobres que siguen arrasando con los árboles para plantar maíz.
 
@@ -116,7 +112,7 @@ Los antiguos recuerdan con nostalgia los tiempos en que jaguares, tucanes, monos
 
 ## El panorama general
 
- Este pequeño rincón del planeta, la Sierra Madre, cumple un importante rol en la ecología de las Amêricas. Estudios de poblaciones de aves migratorias que viajan cada año a Estados Unidos o Canadá muestran que su nÃºmero cae año a año a una velocidad alarmante. Esto se debe al aumento en el uso de agroquímicos, impulsados por EE.UU y los mismos gobiernos latinoamericanos, y la continua pêrdida de hábitat para destinarlo a la agricultura. Estos pájaros son sólo parte de la red vital, y nos piden atención, mostrándonos a cuánto ha llegado el daño.
+Este pequeño rincón del planeta, la Sierra Madre, cumple un importante rol en la ecología de las Amêricas. Estudios de poblaciones de aves migratorias que viajan cada año a Estados Unidos o Canadá muestran que su nÃºmero cae año a año a una velocidad alarmante. Esto se debe al aumento en el uso de agroquímicos, impulsados por EE.UU y los mismos gobiernos latinoamericanos, y la continua pêrdida de hábitat para destinarlo a la agricultura. Estos pájaros son sólo parte de la red vital, y nos piden atención, mostrándonos a cuánto ha llegado el daño.
 
 ### Ayudando a reparar las relaciones entre la Humanidad y la Tierra, una aproximación pragmática
 
@@ -227,8 +223,9 @@ Ellos sobrevivieron un largo período de adversidad y lucha para volver del exil
 
 Coopeartivas de cafe podrían convertirse en una poderosa y unificada cooperativa que sea una fuente de productos de calidad, como miel orgánica, nueces macadamia y cafê de exportación. Los seguiremos ayudando para que logren la certificación orgánica. Eso, sin olvidar que lo más urgente es capacitarlos para que implanten la permacultura en sus granjas y así satisfagan sus necesidades alimenticias.
 
-## 6. Escuela de Agroecología y Permacultura  
- "Tierra Linda"
+## 6. Escuela de Agroecología y Permacultura
+
+"Tierra Linda"
 
 ### Granja Demostrativa para Vivir con Autosuficiencia: Un Modelo para el Desarrollo de la Sierra Madre
 
@@ -256,7 +253,7 @@ INFORMACION ES PODER - PODER IMPLICA RESPONIBILIDAD - RESPONISBILIDAD ES ABILIDA
 
 Â¿Desea saber más acerca del libre comercio, el impacto de la globalización, la lucha para proteger el medio ambiente y encontrar un desarollo mas sostenible? Le invitamos a inscribir al foro electrónico Mundoposible@hotmail.com que pretende buscar soluciones ante los problemas que enfrenten los piases en desarrollo. Enviamos documentos, análisis, y cartas escritas por autores Latinoamericanos e internacionales. Por medio del contenido, te interás de los asuntos importantes y de quienes están ya trabajando para lograr políticas más justas y ecológicas. Esperamos que esta información sea de utilidad para tus estudios, investigaciones, educación y activismo.
 
- Para inscribir, manda un correo a mundoposible@hotmail.com
+Para inscribir, manda un correo a mundoposible@hotmail.com
 
 Hoy en dia, las relaciones entre piases y entre los pueblos y sus gobiernos están cambiando radicalmente. Los tratados de libre comercio obligan los gobiernos someter su autoridad a reglas que ahora tienen mas peso que las leyes nacionales. Los costos de estas nuevas relaciones económicas afectan mas a los países en desarrollo mientras que los beneficios llegan en su mayoría a pocas manos.
 
@@ -270,7 +267,7 @@ Estudiantes Universitarios, Investigadores, Sociedad Civil y otros interesados.
 
 INFORMACION ES PODER - PODER IMPLICA RESPONIBILIDAD - RESPONISBILIDAD ES ABILIDAD RESPONDER - SEA PARTE DE LA SOLUCION...
 
-> "Hace 2000 años, como dijo un carpintero sencillo y descalzo, 'Amemonos los unos a los otros', pero ustedes intendieron mal, 'Armamosnos unos en contra de los otros'."   
+> "Hace 2000 años, como dijo un carpintero sencillo y descalzo, 'Amemonos los unos a los otros', pero ustedes intendieron mal, 'Armamosnos unos en contra de los otros'."  
 > Cantinflas en "Excelencia"
 
 ## Huracán Stan - tratando el estres pos-traumatico
