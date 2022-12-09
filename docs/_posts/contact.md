@@ -8,9 +8,10 @@ featuredimg: "/assets/img/header_terra.jpg"
 summary: ''
 
 ---
-[![](/assets/img/facebook48.png)](https://web.archive.org/web/20211025171416/http://www.facebook.com/pages/The-Sexto-Sol-Center/211129337269?ref=ts "Facebook")[![](/assets/img/youtube48.png)](https://web.archive.org/web/20211025171416/http://www.youtube.com/watch?v=0ensxgLyh1k "Sexto Sol Youtube") [![](/assets/img/newsletter.png)](https://web.archive.org/web/20211025171416/http://eepurl.com/b6CyD "Receive Newsletter")
-
 ## Changing the world for the better is a team effort
+
+[![](/assets/img/facebook48.png)](https://www.facebook.com/pages/The-Sexto-Sol-Center/211129337269?ref=ts "Facebook")[![](/assets/img/youtube48.png)](https://www.youtube.com/watch?v=0ensxgLyh1k "Sexto Sol Youtube") [![](/assets/img/newsletter.png)](http://eepurl.com/b6CyD "Receive Newsletter")
+
 
 ### Tamara Brennan, Ph.D., Executive Director
 
@@ -46,4 +47,4 @@ The Sexto Sol Center
 
 Financial information available upon request
 
-### 
+###
