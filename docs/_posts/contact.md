@@ -14,7 +14,7 @@ summary: ''
 
 ### Tamara Brennan, Ph.D., Executive Director
 
-[tamara@sextosol.org](https://web.archive.org/web/20211025171416/mailto:tamara@sextosol.org) (English y español)
+[tamara@sextosol.org](mailto:tamara@sextosol.org) (English y español)
 
 Please write to Dr.Tamara Brennan concerning:
 
