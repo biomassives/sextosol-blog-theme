@@ -10,13 +10,13 @@ module.exports = {
       {
       name: 'a',
       avatar: '/assets/img/sal.jpg',
-      link: 'https://wowthemes.net/donate',
+      link: '#',
       linktext: 'Follow',
       },
       {
         name: 'b',
         avatar: '/assets/img/avatar.png',
-        link: 'https://bootstrapstarter.com/',
+        link: '#',
         linktext: 'Follow',
       },
     ],
