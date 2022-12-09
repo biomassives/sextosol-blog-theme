@@ -2,9 +2,9 @@
 tags:
 - sextosol center
 title: Who we are
-date: 2022-12-06 23:00:00 -0800
+date: 2022-12-06T23:00:00.000-08:00
 author: Tamara
-featuredimg: ''
+featuredimg: "/assets/img/masetas-002.jpg"
 summary: ''
 
 ---
