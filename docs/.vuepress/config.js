@@ -8,13 +8,13 @@ module.exports = {
   themeConfig: {
   authors: [
       {
-      name: 'Sal',
+      name: 'Tamara',
       avatar: '/assets/img/sal.jpg',
       link: 'https://wowthemes.net/donate',
       linktext: 'Follow',
       },
       {
-        name: 'John Doe',
+        name: 'Luis',
         avatar: '/assets/img/avatar.png',
         link: 'https://bootstrapstarter.com/',
         linktext: 'Follow',
@@ -28,7 +28,7 @@ module.exports = {
         },
         {
           type: 'facebook',
-          link: '#',
+          link: 'https://www.facebook.com/The-Sexto-Sol-Center-211129337269/?ref=hl',
         },
         {
           type: 'github',
@@ -44,7 +44,7 @@ module.exports = {
         },
         {
           type: 'linkedin',
-          link: '#',
+          link: 'https://www.linkedin.com/in/tamara-brennan-126b7754/',
         },
         {
           type: 'mail',
