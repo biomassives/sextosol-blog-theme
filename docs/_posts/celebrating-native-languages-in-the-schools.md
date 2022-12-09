@@ -73,7 +73,7 @@ Fundraiser heroes: How about doing a fundraiser for Sexto Sol? It's as easy as h
 
 [DONATE]( "Donate")
 
-**Success!** Thanks to a grant from Water Charity, we installed 260 meters of rain gutters on buildings at an elementary school located at 10K elevation. The school had suffered from flooding which made classrooms dark and wet.[**See Sexto Sol's Project**](http://www.watercharity.org/node/113) featured on Water Charity's site!
+**Success!** Thanks to a grant from Water Charity, we installed 260 meters of rain gutters on buildings at an elementary school located at 10K elevation. The school had suffered from flooding which made classrooms dark and wet. [**See Sexto Sol's Project**](http://www.watercharity.org/node/113) featured on Water Charity's site!
 
 ***
 
