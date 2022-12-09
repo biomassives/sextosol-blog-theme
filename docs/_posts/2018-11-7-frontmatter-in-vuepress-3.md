@@ -5,7 +5,7 @@ tags:
 - frontmatter
 - vuepress
 author: Tamara
-featuredimg: "/assets/img/womenheader.JPG"
+featuredimg: ''
 summary: Giving women access to water in their homes; Empowering women to overcome
   the trauma of domestic violence
 
