@@ -88,7 +88,7 @@ module.exports = {
     },
     comment: {
       service: 'disqus',
-      shortname: 'demowebsite',
+      shortname: 'sextosol',
     },
     newsletter: {
       endpoint: 'https://sextosol.us2.list-manage.com/subscribe?u=24abe2b217c6bfff52bd46b8e&id=b26714d01c'
