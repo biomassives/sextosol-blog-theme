@@ -12,6 +12,7 @@ summary: ''
 
 [(/assets/img/facebook48.png)](https://www.facebook.com/pages/The-Sexto-Sol-Center/211129337269?ref=ts "Facebook")[(/assets/img/youtube48.png)](https://www.youtube.com/watch?v=0ensxgLyh1k "Sexto Sol Youtube") [(/assets/img/newsletter.png)](http://eepurl.com/b6CyD "Receive Newsletter")
 
+[![](/assets/img/facebook48.png)](https://www.facebook.com/The-Sexto-Sol-Center-211129337269/?ref=hl "Sexto Sol Center Facebook Page")[![](/assets/img/youtube48.png)](https://www.youtube.com/watch?v=0ensxgLyh1k "Sexto Sol Center Youtube Channel") [![](/assets/img/newsletter.png)](https://sextosol.us2.list-manage.com/subscribe?u=24abe2b217c6bfff52bd46b8e&id=b26714d01c "Sexto Sol Mailchimp Newsletter")
 
 ### Tamara Brennan, Ph.D., Executive Director
 
@@ -47,4 +48,4 @@ The Sexto Sol Center
 
 Financial information available upon request
 
-###
+### 
