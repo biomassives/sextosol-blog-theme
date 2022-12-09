@@ -35,8 +35,8 @@ module.exports = {
           link: '#',
         },
         {
-          type: 'gitlab',
-          link: '#',
+          type: 'youtube',
+          link: 'https://www.youtube.com/channel/UC7kqtf_yv9Mf0GvRtBdKWPg',
         },
         {
           type: 'instagram',
