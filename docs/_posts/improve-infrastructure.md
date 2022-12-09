@@ -4,7 +4,7 @@ tags:
 title: Improve Infrastructure
 date: 2022-12-06T23:00:00.000-08:00
 author: Tamara
-featuredimg: ''
+featuredimg: "/assets/img/23kidsschool.jpg"
 summary: ''
 
 ---
