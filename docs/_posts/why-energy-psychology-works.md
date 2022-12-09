@@ -1,10 +1,12 @@
 ---
 tags:
 - Energy psychology
+- EFT
+- Dr. Craig Weiner
 title: Why Energy Psychology Works
-date: 2022-12-06 23:00:00 -0800
+date: 2022-12-06T23:00:00.000-08:00
 author: Tamara
-featuredimg: ''
+featuredimg: "/assets/img/23kidsschool.jpg"
 summary: ''
 
 ---
