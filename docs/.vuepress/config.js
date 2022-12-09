@@ -67,13 +67,17 @@ module.exports = {
           link: '#',
         }
       ],
-      copyright: [
+      copyright: [        
+        {
+          text: 'Donate',
+          link: 'https://www.paypal.com/donate?token=8LySedvicNp1hkesjTrym3dRChyPdrba4i31-FxUgrcfpwgYhcursy4vGNYkDfRfTsX0ku3cL9DwtJdQ',
+        },    
         {
           text: 'Site uses Vercel, Git, Foresty.io',
           link: 'https://github.com/biomassives/sextosol-blog-theme',
         },
         {
-          text: '© 2022 Tamara Brennan, The Sexto Sol Center',
+          text: '© 2022, 2023 Tamara Brennan, The Sexto Sol Center',
           link: '#',
         },
       ],
