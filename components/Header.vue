@@ -140,8 +140,8 @@ nav {
       <ul>
         <li><a href="#">Humanitarian Crisis Health</a>
             <ul>
-                <li><a href="#">About</a></li>
-                <li><a href="#">Why We Do This</a></li>
+                <li><a href="/2022/12/07/international-partners-for-healing">About</a></li>
+                <li><a href="/2022/12/07/why-we-do-this">Why We Do This</a></li>
                 <li><a href="#">Science Behind This</a></li>
                 <li><a href="#">Previous Efforts</a></li>
                 <li><a href="#">Hurricaine Stan</a></li>
@@ -210,7 +210,7 @@ nav {
       </li>
       <li><a href="#">Issues</a>
           <ul>
-              <li><a href="/2019/02/26/markdown-slot/">Poverty</a></li>
+              <li><a href="/2022/12/06/poverty/">Poverty</a></li>
               <li><a href="/2020/01/28/whats-the-most-beautiful-website-world/">Coffee Challenges</a></li>
               <li><a href="/2021/04/24/writing-a-vuepress-theme-3/">Environment</a></li>
               <li><a href="/2021/04/24/frontmatter-in-vuepress-3/">Women</a></li>
