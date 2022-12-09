@@ -5,7 +5,7 @@ title: Contact
 date: 2022-12-06T23:00:00.000-08:00
 author: Tamara
 featuredimg: "/assets/img/header_terra.jpg"
-summary: ''
+summary: Get in touch with Sextosol Center!
 
 ---
 ## Changing the world for the better is a team effort
