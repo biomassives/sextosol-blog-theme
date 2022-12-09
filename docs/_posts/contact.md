@@ -2,14 +2,13 @@
 tags:
 - sexto sol center
 title: Contact
-date: 2022-12-06 23:00:00 -0800
+date: 2022-12-06T23:00:00.000-08:00
 author: Tamara
 featuredimg: "/assets/img/header_terra.jpg"
 summary: ''
 
 ---
-
-[![](https://web.archive.org/web/20211025171416im_/http://www.sextosol.org/images/buttons/facebook48.png =40x)](https://web.archive.org/web/20211025171416/http://www.facebook.com/pages/The-Sexto-Sol-Center/211129337269?ref=ts) [![](https://web.archive.org/web/20211025171416im_/http://www.sextosol.org/images/buttons/Youtube48.png =40x)](https://web.archive.org/web/20211025171416/http://www.youtube.com/watch?v=0ensxgLyh1k) [![](https://web.archive.org/web/20211025171416im_/http://www.sextosol.org/images/buttons/Newsletter.png)](https://web.archive.org/web/20211025171416/http://eepurl.com/b6CyD)
+[![](/assets/img/facebook48.png)](https://web.archive.org/web/20211025171416/http://www.facebook.com/pages/The-Sexto-Sol-Center/211129337269?ref=ts "Facebook")[![](/assets/img/youtube48.png)](https://web.archive.org/web/20211025171416/http://www.youtube.com/watch?v=0ensxgLyh1k "Sexto Sol Youtube") [![](/assets/img/newsletter.png)](https://web.archive.org/web/20211025171416/http://eepurl.com/b6CyD "Receive Newsletter")
 
 ## Changing the world for the better is a team effort
 
@@ -34,15 +33,15 @@ Financial information available upon request
 
 ### Field Office in Mexico
 
- Apartado Postal 64  
- Motozintla, Chiapas  
- Mexico   
- CP 30900  
- Cell: 52.1.962.109.4824 
+Apartado Postal 64  
+Motozintla, Chiapas  
+Mexico  
+CP 30900  
+Cell: 52.1.962.109.4824
 
 ### In the United States
 
- The Sexto Sol Center  
- 3514 E. Contessa, Mesa, AZ,   
- 85213-7036 U.S.A.  
- (480) 854-758
+The Sexto Sol Center  
+3514 E. Contessa, Mesa, AZ,  
+85213-7036 U.S.A.  
+(480) 854-758
