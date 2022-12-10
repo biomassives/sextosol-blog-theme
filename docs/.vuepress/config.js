@@ -67,9 +67,13 @@ module.exports = {
           link: '#',
         }
       ],
-      copyright: [        
+      copyright: [  
         {
-          text: 'Donate',
+          text: 'Donate $50/ mo.',
+          link: 'https://www.paypal.com/webapps/hermes?token=8CA67409EJ048601P&mfid=1670634990331_f7237678a0e71&useraction=commit',
+        },                  
+        {
+          text: 'Sponsor $20 / mo.',
           link: 'https://www.paypal.com/donate?token=8LySedvicNp1hkesjTrym3dRChyPdrba4i31-FxUgrcfpwgYhcursy4vGNYkDfRfTsX0ku3cL9DwtJdQ',
         },    
         {
