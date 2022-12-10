@@ -138,11 +138,11 @@ nav {
     <li><a href="/espanol/">Español</a></li>
     <li><a href="#">What We Do</a>
       <ul>
-        <li><a href="#">Humanitarian Crisis Health</a>
+        <li><a href="/2022/12/07/international-partners-for-healing">Humanitarian Crisis Health</a>
             <ul>
                 <li><a href="/2022/12/07/international-partners-for-healing">About</a></li>
-                <li><a href="/2022/12/07/why-we-do-this">Why We Do This</a></li>
-                <li><a href="#">Science Behind This</a></li>
+                <li><a href="/2022/12/06/why-we-do-this/">Why We Do This</a></li>
+                <li><a href="/2022/12/07/why-energy-psychology-works/">Science Behind This</a></li>
                 <li><a href="#">Previous Efforts</a></li>
                 <li><a href="#">Hurricaine Stan</a></li>
             </ul>
@@ -220,7 +220,7 @@ nav {
     <li><a href="/2022/12/02/volunteer-and-internship-program/">Volunteer</a>
         <ul>
             <li><a href="/2022/12/06/who-we-are/">Who we are</a></li>
-            <li><a href="/2022/12/06/contact/">Contact us</a></li>
+            <li><a href="/2022/12/07/contact/">Contact us</a></li>
             <li><a href="https://www.paypal.com/webapps/hermes?token=3D146116309133424&mfid=1670540060785_f917933dfd11a">Donate</a></li>
         </ul>    
     </li>
