@@ -86,12 +86,12 @@ module.exports = {
         },    
         
         {
-          text: 'Site uses Vercel, Git, Foresty.io',
-          link: 'https://github.com/biomassives/sextosol-blog-theme',
+          text: 'Source code',
+          link: 'https://github.com/biomassives/sextosol-blog-theme/tree/sextosol_repair1',
         },
         {
-          text: '© 2022, 2023 Tamara Brennan, The Sexto Sol Center',
-          link: '#',
+          text: '©2022,2023 The Sexto Sol Center',
+          link: '',
         },
       ],
     },
