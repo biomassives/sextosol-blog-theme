@@ -69,13 +69,22 @@ module.exports = {
       ],
       copyright: [  
         {
+          text: 'Donate $100/ mo.',
+          link: 'https://www.paypal.com/webapps/hermes?token=8CA67409EJ048601P&mfid=1670634990331_f7237678a0e71&useraction=commit',
+        },    
+        {
           text: 'Donate $50/ mo.',
           link: 'https://www.paypal.com/webapps/hermes?token=8CA67409EJ048601P&mfid=1670634990331_f7237678a0e71&useraction=commit',
         },                  
         {
-          text: 'Sponsor $20 / mo.',
-          link: 'https://www.paypal.com/donate?token=8LySedvicNp1hkesjTrym3dRChyPdrba4i31-FxUgrcfpwgYhcursy4vGNYkDfRfTsX0ku3cL9DwtJdQ',
+          text: 'Sponsor $35 / mo.',
+          link: 'https://www.paypal.com/webapps/hermes?token=3MB616900T614782E&mfid=1670635772937_003b755116244&useraction=commit',
         },    
+        {
+          text: 'Sponsor $10 / mo.',
+          link: 'https://www.paypal.com/webapps/hermes?token=1K2861397Y215903N&mfid=1670636006367_087743b06188b&useraction=commit',
+        },    
+        
         {
           text: 'Site uses Vercel, Git, Foresty.io',
           link: 'https://github.com/biomassives/sextosol-blog-theme',
