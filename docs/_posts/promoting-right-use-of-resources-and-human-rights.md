@@ -5,7 +5,7 @@ tags:
 title: Promoting Right Use of Resources and Human Rights
 date: 2021-04-24T04:00:00.000+00:00
 author: Tamara
-featuredimg: "/assets/img/volunteers_dianepaint2.JPG"
+featuredimg: "/assets/img/aronsorting.JPG"
 summary: ''
 
 ---
