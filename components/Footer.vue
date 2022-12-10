@@ -9,7 +9,7 @@
 
 
 
-<div style="color: #000;border-radius: 25px; height: 280px; width: 320px; background-color: #fff; padding: 20px; background-position: left top; padding: 20px;">
+<div style="color: #000;border-radius: 25px; height: 280px; width: 320px; background-color: #FAF0E6; padding: 20px; background-position: left top; padding: 20px;">
     <a href="/"><img src="https://cdn.forestry.io/res2/5nCQbpDfRJxHCjIoded-EMLNZGp_hfoVa4yFLWdclK4/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDUjFsdGNFRjNQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tN2Iw/NGFiMjMwNjQzY2Yx/YjA1NTlmOTkwZjZk/NDQ2MWFlNWM2MjE5/OC9TY3JlZW5zaG90/XzIwMjEtMDQtMjYl/MjBWb2x1bnRlZXIl/MjBhbmQlMjBJbnRl/cm5zaGlwJTIwUHJv/Z3JhbSUyMC0lMjBT/ZXh0byUyMFNvbCwl/MjBNZXhpY28lMjBh/bmQlMjBHdWF0ZW1h/bGEucG5n" class="logofooter" width="322" height="37"></a> 
     <br><br> <form action="https://www.paypal.com/cgi-bin/webscr" method="post"><font size="2" face="helvetica">Please donate monthly if you can</font> 
 
@@ -19,6 +19,7 @@
 
     </div>
 
+<a href="https://www.facebook.com/The-Sexto-Sol-Center-211129337269/?ref=hl" title="Sexto Sol Center Facebook Page" target="_blank" rel="noopener noreferrer"><img src="/assets/img/facebook48.png" alt="" width=32 height=32><span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a><a href="https://www.youtube.com/watch?v=0ensxgLyh1k" title="Sexto Sol Center Youtube Channel" target="_blank" rel="noopener noreferrer"><img src="/assets/img/youtube48.png" alt=""  width=32 height=32><span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a> <a href="https://sextosol.us2.list-manage.com/subscribe?u=24abe2b217c6bfff52bd46b8e&amp;id=b26714d01c" title="Sexto Sol Mailchimp Newsletter" target="_blank" rel="noopener noreferrer"><img src="/assets/img/newsletter.png" alt="" height=32><span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a>
 
 
 
