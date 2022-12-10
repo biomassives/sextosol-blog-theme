@@ -16,6 +16,13 @@
     <br><b>$</b><input type="textfield" name="a3" value="" size="10"> <br><font size="2" face="helvetica">
     for <input type="text fields" name="Number_of_Months" value="12" size="2"> months*<br><br></font><font face="helvetica"><input type="hidden" name="p3" value="1"> <input type="hidden" name="no_note" value="1"> <input type="hidden" name="t3" value="M"> <input type="hidden" name="src" value="1"> <input type="hidden" name="sra" value="1"> <input type="hidden" name="cmd" value="_xclick-subscriptions"> <input type="hidden" name="return" value="http://www.sextosol.org/thanks.html"> <input type="hidden" name="currency_code" value="USD"> <input type="image" src="https://www.paypal.com/images/x-click-but20.gif" name="submit3" alt="Click here to make monthly payments with PayPal.  It's fast, free and secure!" width="62" height="31" border="0"> <input type="hidden" name="business" value="donations@sextosol.org"> <input type="hidden" name="item_name" value="The Sexto Sol Center"> <input type="hidden" name="item_number" value="Winter 2005 appeal"> <br></font></form>
     
+    <table><tr><td>
+    <a href="https://greatnonprofits.org/org/sexto-sol-center-for-community-action?badge=1"><img 
+       src="/assets/img/top_rated-hi-res-1.png" alt="top rated" title="top rated non profits" border=0></a>
+       </td><td>     
+        <h3 style="color: sienna;">Helping people to improve life for their communities since 1997</h3>
+       </td></tr>
+    </table>
     </div>
 
 
