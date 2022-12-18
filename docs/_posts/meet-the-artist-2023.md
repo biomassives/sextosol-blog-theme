@@ -20,3 +20,5 @@ From 10 AM to 5 PM
 For Maps & Information on the Tour
 
 Click on Contact in the Navigation Bar
+
+![](/assets/img/morning-bouquet-72.webp)
