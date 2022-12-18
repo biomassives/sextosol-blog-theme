@@ -1,9 +1,9 @@
 ---
 tags: []
 title: About
-date: 2022-12-01 07:00:00 +0000
+date: 2022-12-01T07:00:00.000+00:00
 author: Mary
-featuredimg: "/assets/img/holiday2_maryholtz.jpg"
+featuredimg: "/assets/img/durga-72.jpg"
 summary: " intuitive art interpretation"
 
 ---
