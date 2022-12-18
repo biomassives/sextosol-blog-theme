@@ -3,7 +3,7 @@ tags: []
 title: Art Statement
 date: 2022-12-01T07:00:00.000+00:00
 author: Mary
-featuredimg: "/assets/img/mary-holtz-healing-blessing.png"
+featuredimg: "/assets/img/psychedelic-sunday-72.jpg"
 summary: Creating art is the perfect anti-depressant, and in that healing power, I
   can find myself
 
