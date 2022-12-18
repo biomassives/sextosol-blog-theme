@@ -1,4 +1,33 @@
 ---
 label: homepage
 hide_body: true
-fields: []
+fields:
+- name: headline
+  type: text
+  config:
+    required: false
+  label: headline
+- name: slides
+  type: image_gallery
+  config: {}
+  label: slides
+- name: extr
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: extratext-tra
+  description: ya, just like it sounds ;)
+- name: slide_captions
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: slide captions
+  description: delimited by line
