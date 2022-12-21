@@ -3,8 +3,9 @@ tags: []
 title: About
 date: 2022-12-01T07:00:00.000+00:00
 author: Dr. Mary Holtz
-featuredimg: "/assets/img/durga-72.jpg"
-summary: " intuitive art interpretation"
+featuredimg: "/assets/img/img_9725.jpeg"
+summary: " Dr. Mary Holtz Acupuncture Physician, Transpersonal Psychology &  Complementary
+  Alternative Medical Therapies"
 
 ---
 Native Floridian and artist, Mary Holtz, has always had the passion and skills for interpreting the visual whether seen through the eyes or felt in the spirit. Her life passions are healing the needy and creating art in mixed mediums. An avid photographer, Mary has the experience and education in acrylics, wire wrapping jewelry, crafting, Sumi-e-ink art, Japanese floral design, Ikebana, and intuitive pastel art.
