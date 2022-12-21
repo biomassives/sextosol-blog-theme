@@ -2,7 +2,7 @@
 tags: []
 title: About
 date: 2022-12-01T07:00:00.000+00:00
-author: Mary
+author: Dr. Mary Holtz
 featuredimg: "/assets/img/durga-72.jpg"
 summary: " intuitive art interpretation"
 
