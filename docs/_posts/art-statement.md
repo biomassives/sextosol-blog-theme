@@ -4,8 +4,8 @@ title: Art Statement
 date: 2022-12-01T07:00:00.000+00:00
 author: Mary
 featuredimg: "/assets/img/psychedelic-sunday-72.jpg"
-summary: Creating art is the perfect anti-depressant, and in that healing power, I
-  can find myself
+summary: 'Creating art has healing power. I find peace, joy and happiness in creating
+  art. '
 
 ---
 Art makes me happy and brings me extreme joy. I have drawn my whole life. I get lost in the experience and find that creating art is the perfect anti-depressant, and in that healing power, I can find myself. When the waking world leaves me weary, I always find solace getting in the flow of creating art.
