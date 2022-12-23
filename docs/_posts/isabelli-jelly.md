@@ -1,6 +1,6 @@
 ---
 tags: []
-title: Isabelli Jelly
+title: Jellyfish - Isabelli Jelly
 date: 
 author: ''
 featuredimg: "/assets/img/isabelli-jelly-w72.jpg"
