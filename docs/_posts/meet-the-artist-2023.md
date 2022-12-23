@@ -1,6 +1,6 @@
 ---
 tags: []
-title: MEET THE ARTIST 2023
+title: Arts Tour - MEET THE ARTIST 2023
 date: 
 author: Mary Holtz
 featuredimg: "/assets/img/jellies3.jpg"
