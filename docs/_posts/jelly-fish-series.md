@@ -1,6 +1,6 @@
 ---
 tags: []
-title: 'My Inspiration '
+title: 'About Inspiration '
 date: 
 author: Dr Mary Holtz
 featuredimg: "/assets/img/img_2859.jpeg"
