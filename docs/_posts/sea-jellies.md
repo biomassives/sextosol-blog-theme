@@ -1,9 +1,10 @@
 ---
 tags: []
-title: Sea Jelly 'Gelata's'
+title: Jellyfish - Hennessy
 date: 
 author: Dr Mary Holtz
-featuredimg: "/assets/img/jellies3.jpg"
+featuredimg: "/assets/img/hennesy-jelly-w72.jpg"
 summary: ''
 
 ---
+Bold, and beautiful
