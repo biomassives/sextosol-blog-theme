@@ -1,6 +1,6 @@
 ---
 tags: []
-title: Inspiration to paint
+title: 'My Inspiration '
 date: 
 author: Dr Mary Holtz
 featuredimg: "/assets/img/img_2859.jpeg"
