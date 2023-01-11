@@ -135,7 +135,7 @@ nav {
 <nav>
   <ul class="nav">
     <li><a href="https://sextosol.org">Home</a></li>
-    <li><a href="/espanol/">Español</a></li>
+    <li><a href="/2022/12/08/espanol">Español</a></li>
     <li><a href="#">What We Do</a>
       <ul>
         <li><a href="/2022/12/07/international-partners-for-healing">Humanitarian Crisis Health</a>
