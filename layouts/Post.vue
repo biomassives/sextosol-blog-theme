@@ -43,10 +43,7 @@ itemtype="https://schema.org/BlogPosting"
 </article>
 
 <div class="row justify-content-center">
-  <div class="col-md-9">
-    <Newsletter v-if="$service.email.enabled" />
-    <Comment />
-  </div>
+
 </div>
 
 <Toc />
@@ -57,15 +54,12 @@ itemtype="https://schema.org/BlogPosting"
 import Toc from '@theme/components/Toc.vue'
 import PostMeta from '@theme/components/PostMeta.vue'
 import Avatar from '@theme/components/Avatar.vue'
-import { Comment } from '@vuepress/plugin-blog/lib/client/components'
 
 export default {
   components: {
     Toc,
     PostMeta,
     Avatar,
-    Comment,
-    Newsletter: () => import('@theme/components/Newsletter.vue'),
   },
 
 }
