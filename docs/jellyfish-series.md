@@ -3,7 +3,7 @@ title: Jellyfish Series
 description: 1. Kir Royale
 
 ---
-![](/assets/img/kira-royal-jelly-w72.jpg)
+![](/assets/img/kira-royal-jelly-w72.jpg "Kira Royale")
 
 * Kira Royale Jelly
 
