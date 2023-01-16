@@ -7,3 +7,4 @@ featuredimg: "/assets/img/bluebayou-w72.jpeg"
 summary: ''
 
 ---
+Deland Museum of Art Fundraiser
