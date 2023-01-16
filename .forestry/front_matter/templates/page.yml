@@ -13,5 +13,6 @@ fields:
     required: false
   label: description
 pages:
+- docs/floral-blooms-in-alcohol-ink.md
 - docs/jellyfish-series.md
 - docs/jewelry.md
