@@ -1,6 +1,6 @@
 ---
 tags: []
-title: 'About Dr. Mary '
+title: Dr. Mary Holtz
 date: 
 author: Dr. Mary Holtz
 featuredimg: "/assets/img/img_9725.jpeg"
