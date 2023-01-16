@@ -35,7 +35,7 @@ description: 1. Kir Royale
 
 ![](/assets/img/hennesy-jelly-w72.jpg)
 
-* Hennesy Jelly
+* Hennessy Jelly
 
   \~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~
 
