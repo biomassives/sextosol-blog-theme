@@ -1,9 +1,9 @@
 ---
 tags: []
 title: Contact Page
-date: 
+date: 2023-01-05 07:00:00 +0000
 author: ''
-featuredimg: ''
+featuredimg: "/assets/img/morning-bouquet-w72.jpg"
 summary: ''
 
 ---
