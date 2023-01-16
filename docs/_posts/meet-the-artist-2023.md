@@ -1,7 +1,7 @@
 ---
 tags: []
 title: Arts Tour - MEET THE ARTIST 2023
-date: 
+date: 2023-03-04 15:00:00 +0000
 author: Mary Holtz
 featuredimg: "/assets/img/jellies3.jpg"
 summary: Saturday March 4th & Sunday March 5th -10 AM to 5 PM
