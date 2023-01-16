@@ -13,6 +13,7 @@ fields:
     required: false
   label: description
 pages:
+- docs/art-whispers.md
 - docs/floral-blooms-in-alcohol-ink.md
 - docs/floral-blooms.md
 - docs/jellyfish-series.md
