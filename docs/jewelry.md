@@ -1,5 +1,5 @@
 ---
-title: Jewelry
+title: Pendant - Jewelry
 description: Dichroic Fused Glass Pendant, wrapped in Gold Filled wire
 
 ---
