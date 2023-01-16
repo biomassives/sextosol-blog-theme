@@ -1,9 +1,9 @@
 ---
 tags: []
 title: Exhibitions - Arts Tour - MEET THE ARTIST 2023
-date: 
+date: 2023-01-06 07:00:00 +0000
 author: ''
-featuredimg: "/assets/img/jellies3.jpg"
+featuredimg: "/assets/img/violetflame-w72.jpg"
 summary: Saturday March 4th & Sunday March 5th -10 AM to 5 PM
 
 ---
