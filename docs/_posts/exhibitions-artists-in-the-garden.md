@@ -7,4 +7,4 @@ featuredimg: "/assets/img/bluebayou-w72.jpeg"
 summary: ''
 
 ---
-Deland Museum of Art Fundraiser
+Mark your calendar for Artists in the Garden, an outdoor fundraiser presented by the Guild of the Museum of Art DeLand.
