@@ -13,13 +13,13 @@ If you are interested in purchasing artwork, please fill out the form & include 
 
 **Originals:**  
 Name of Piece  
-Your Shipping Address  
-  
+Your Shipping Address
+
 **Prints:**  
 Size of Prints  
 Quantity  
 Your Shipping Address
 
-I will reply with shipping details & cost.  
-  
+I will reply with shipping details & cost.
+
 If you have other questions, please feel free to ask.
