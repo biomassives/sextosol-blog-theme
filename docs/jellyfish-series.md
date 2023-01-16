@@ -1,6 +1,6 @@
 ---
 title: Jellyfish Series
-description: 1. Kir Royale
+description: 'Alcohol Ink Prints '
 
 ---
 ![](/assets/img/kira-royal-jelly-w72.jpg "Kira Royale")
@@ -15,31 +15,31 @@ description: 1. Kir Royale
 
   \~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~
 
-![](/assets/img/pina-colada-jelly-w72.jpg)
+![](/assets/img/pina-colada-jelly-w72.jpg "Pina Colada ")
 
 * Pina Colada Jelly
 
   \~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~
 
-![](/assets/img/lady-mojito-jelly-w72.jpeg)
+![](/assets/img/lady-mojito-jelly-w72.jpeg "Lady Mojito")
 
 * Lady Mojito Jelly
 
   \~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~
 
-![](/assets/img/isabelli-jelly-w72.jpg)
+![](/assets/img/isabelli-jelly-w72.jpg "Isabelli")
 
 * Isabelli Jelly
 
   \~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~
 
-![](/assets/img/hennesy-jelly-w72.jpg)
+![](/assets/img/hennesy-jelly-w72.jpg "Hennessy")
 
 * Hennessy Jelly
 
   \~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~
 
-![](/assets/img/confetti-jelly-w72.jpeg)
+![](/assets/img/confetti-jelly-w72.jpeg "Confetti")
 
 * Confetti Jelly
 
