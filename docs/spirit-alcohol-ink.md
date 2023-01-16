@@ -1,5 +1,5 @@
 ---
-title: Spirit Alcohol Ink
+title: Alcohol Ink Prints
 description: ''
 
 ---
