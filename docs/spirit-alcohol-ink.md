@@ -18,3 +18,19 @@ description: ''
 ![](/assets/img/higher-self-w72.jpg)
 
 * Higher Self
+
+![](/assets/img/kitty-galore-w72.jpg)
+
+* Kitty Galore
+
+![](/assets/img/durga-w72.jpg)
+
+* Durga
+
+![](/assets/img/lady-justice-w72.jpg)
+
+* Lady Justice
+
+![](/assets/img/matrix-w72.jpg)
+
+* Matrix
