@@ -1,7 +1,7 @@
 ---
 tags: []
 title: 'About Dr. Mary '
-date: 2022-12-01T07:00:00.000+00:00
+date: 
 author: Dr. Mary Holtz
 featuredimg: "/assets/img/img_9725.jpeg"
 summary: " Dr. Mary Holtz Acupuncture Physician, Transpersonal Psychology &  Complementary
