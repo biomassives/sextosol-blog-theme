@@ -1,8 +1,9 @@
 ---
 tags: []
-title: Arts Tour - MEET THE ARTIST 2023
+title: Exhibitions - Arts Tour - MEET THE ARTIST 2023
 date: 
-author: Mary Holtz
+author: Meet the Artist 2023 Florida Arts Tour West Volusia County Saturday March
+  4 & Sunday March 5 from 10-5 171 W. Pennsylvania Ave. Lake Helen, FL 32744
 featuredimg: "/assets/img/jellies3.jpg"
 summary: Saturday March 4th & Sunday March 5th -10 AM to 5 PM
 
