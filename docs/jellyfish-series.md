@@ -5,11 +5,11 @@ description: 1. Kir Royale
 ---
 ![](/assets/img/kira-royal-jelly-w72.jpg)
 
-* Kira Royale
+* Kira Royale Jelly
 
 ![](/assets/img/martina-rossi-jelly-w72.jpg)
 
-* Martini & Rossi
+* Martini & Rossi Jelly
 
 ![](/assets/img/pina-colada-jelly-w72.jpg)
 
@@ -18,5 +18,7 @@ description: 1. Kir Royale
 ![](/assets/img/isabelli-jelly-w72.jpg)
 
 ![](/assets/img/hennesy-jelly-w72.jpg)
+
+* Hennesy Jelly
 
 ![](/assets/img/confetti-jelly-w72.jpeg)
