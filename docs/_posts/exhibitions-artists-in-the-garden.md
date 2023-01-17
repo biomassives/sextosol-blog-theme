@@ -7,7 +7,7 @@ featuredimg: "/assets/img/bluebayou-w72.jpeg"
 summary: ''
 
 ---
-Mark your calendar for Artists in the Garden, an outdoor fundraiser presented by the Guild of the Museum of Art DeLand.
+Mark your calendar for Artists in the Garden!               The Guild of the Museum of Art - Deland is hosting their anual outdoor fundraiser to support the Museums Art Education Programs.
 
 **Saturday, March 18, 2023**
 
