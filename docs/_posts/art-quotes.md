@@ -71,4 +71,4 @@ _24._ . “The only time I feel alive is when I'm painting.” _Vincent Van Gogh
 
 31\. “Art lifts the veil of the unconscious allowing one to see into their higher self” _Mary Holtz_
 
-32\. “Art is natures anti-depressant” _Mary Holtz_
+32\. “Art, is natures anti-depressant” _Mary Holtz_
