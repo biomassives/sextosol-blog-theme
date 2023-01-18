@@ -53,7 +53,7 @@ _18._ “The object of art is not to reproduce reality, but to create a reality 
 
 22\. “Painting is a means of self-enlightenment.” _John Olsen_
 
-23\. “Nature is not only all that is visible to the eye.. it also includes the inner pictures of the soul.” _Edvard Munch_
+23\. “Nature is not only all that is visible to the eye.. but it also includes the inner pictures of the soul.” _Edvard Munch_
 
 _24._ . “The only time I feel alive is when I'm painting.” _Vincent Van Gogh_
 
