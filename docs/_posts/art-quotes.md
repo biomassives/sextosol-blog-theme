@@ -3,7 +3,7 @@ tags: []
 title: Art Quotes
 date: 
 author: ''
-featuredimg: ''
+featuredimg: "/assets/img/luminousbeauty-w72.jpg"
 summary: ''
 
 ---
