@@ -7,7 +7,7 @@ featuredimg: "/assets/img/luminousbeauty-w72.jpg"
 summary: ''
 
 ---
-QUOTES ON ART
+FAMOUS QUOTES ON ART
 
 1\. “Creativity takes courage.” _Henri Matisse_
 
@@ -69,6 +69,8 @@ _24._ . “The only time I feel alive is when I'm painting.” _Vincent Van Gogh
 
 30\. “Painting is just another way of keeping a diary.” _Pablo Picasso_
 
-31\. “Art lifts the veil of the unconscious allowing one to see their higher self” _Mary Holtz_
+31\. “Art lifts the veil of the unconscious allowing one to see their higher self.” _Mary Holtz_
 
-32\. “Art, is natures anti-depressant” _Mary Holtz_
+32\. “Art, is natures anti-depressant.” _Mary Holtz_
+
+33. "Mistakes are almost always of a sacred nature." _Salvador_ _Dali_
