@@ -19,6 +19,10 @@ description: ''
 
 * Kitty Galore
 
+![](/assets/img/magdalina-w72.jpeg)
+
+* Magdalena
+
 ![](/assets/img/bluebayou-w72.jpeg)
 
 * Blue Bayou - Gelly Plate Print
@@ -30,3 +34,7 @@ description: ''
 ![](/assets/img/sea-graden-w72.jpg)
 
 * Sea Garden
+
+![](/assets/img/flower-pop-w72.jpeg)
+
+* Flower Pop
