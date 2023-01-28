@@ -53,4 +53,4 @@ description: ''
 
 ![](/assets/img/fuschia-fusion-w72.jpg)
 
-1. Fuschia Fusion
+* Fuschia Fusion
