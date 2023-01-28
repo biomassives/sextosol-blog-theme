@@ -1,5 +1,5 @@
 ---
-title: 'Alcohol Ink Prints '
+title: Alcohol Ink Prints Keep
 description: ''
 
 ---
@@ -9,7 +9,7 @@ description: ''
 
 ![](/assets/img/bluebayou-w72.jpeg)
 
-* Blue Bayou
+* Blue Bayou - Gelly Plate
 
 ![](/assets/img/springtime-w72.jpeg)
 
