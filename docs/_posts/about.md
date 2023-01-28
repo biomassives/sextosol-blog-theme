@@ -1,7 +1,10 @@
 ---
-tags: []
+tags:
+- art
+- interests
+- Intuitive Art Classes
 title: Meet Dr. Mary Holtz
-date: 
+date: 2023-01-27 07:00:00 +0000
 author: Dr. Mary Holtz
 featuredimg: "/assets/img/img_9725.jpeg"
 summary: " Dr. Mary Holtz Acupuncture Physician, Transpersonal Psychology &  Complementary
