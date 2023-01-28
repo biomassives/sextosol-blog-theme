@@ -1,6 +1,6 @@
 ---
 tags: []
-title: Exhibitions - Arts Tour - MEET THE ARTIST 2023
+title: Exhibitions - West Volusia Arts Tour 2023
 date: 2023-01-06 07:00:00 +0000
 author: ''
 featuredimg: "/assets/img/violetflame-w72.jpg"
