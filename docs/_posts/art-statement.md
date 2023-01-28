@@ -1,6 +1,6 @@
 ---
 tags: []
-title: Mary's Art Statement
+title: Art Statement
 date: 2022-12-01T07:00:00.000+00:00
 author: Mary
 featuredimg: "/assets/img/night-bloom-w72.jpg"

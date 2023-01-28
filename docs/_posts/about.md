@@ -3,7 +3,7 @@ tags:
 - art
 - interests
 - Intuitive Art Classes
-title: Meet Dr. Mary Holtz
+title: Dr. Mary Holtz
 date: 2023-01-27 07:00:00 +0000
 author: Dr. Mary Holtz
 featuredimg: "/assets/img/img_9725.jpeg"
@@ -17,4 +17,4 @@ Her energy for art is unending even as she has spent the last forty-six years he
 
 Recently, she has been educated in the field of alcohol ink taking classes from Linda Clifford and Alexis Bonavitacola.
 
-She prides herself for seeing color, shape, and dimension not through conventional eyes but through a deep, other-dimensional energy. She currently shows her art in craft fairs, restaurants, and local community events. If interested in Intuitive Art classes, you can find Mary on Facebook.
+She prides herself on seeing color, shape, and dimension not through conventional eyes but through deep, other-dimensional energy. She currently shows her art at craft fairs, restaurants, and local community events. You can find Mary on Facebook, Mary Holtz Art

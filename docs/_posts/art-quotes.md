@@ -1,14 +1,12 @@
 ---
 tags: []
-title: Art Quotes
+title: Quotes of Artists
 date: 
 author: ''
 featuredimg: "/assets/img/luminousbeauty-w72.jpg"
 summary: ''
 
 ---
-FAMOUS QUOTES ON ART
-
 1\. “Creativity takes courage.” _Henri Matisse_
 
 2\. “Great art picks up where nature ends.” _Marc Chagall_
@@ -73,4 +71,4 @@ _24._ . “The only time I feel alive is when I'm painting.” _Vincent Van Gogh
 
 32\. “Art, is natures anti-depressant.” _Mary Holtz_
 
-33. "Mistakes are almost always of a sacred nature." _Salvador_ _Dali_
+1. "Mistakes are almost always of a sacred nature." _Salvador_ _Dali_
