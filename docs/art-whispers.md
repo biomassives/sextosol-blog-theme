@@ -46,3 +46,15 @@ description: ''
 ![](/assets/img/durga-w72.jpg)
 
 * Durga
+
+![](/assets/img/higher-self-w72.jpg)
+
+* Higher Self
+
+![](/assets/img/lady-justice-w72.jpg)
+
+* Lady Justice
+
+![](/assets/img/holiday-tree-w72.jpg)
+
+* Holiday Tree
