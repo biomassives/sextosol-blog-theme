@@ -39,7 +39,7 @@ description: ''
 
 * Ruby
 
-![](/assets/img/stella-w72.jpg)
+by![](/assets/img/stella-w72.jpg)
 
 * Stella
 
