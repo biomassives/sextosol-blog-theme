@@ -15,6 +15,10 @@ description: ''
 
 * Matrix
 
+![](/assets/img/kitty-galore-w72.jpg)
+
+* Kitty Galore
+
 ![](/assets/img/bluebayou-w72.jpeg)
 
 * Blue Bayou - Gelly Plate Print
