@@ -11,6 +11,10 @@ description: ''
 
 * Spirit Guide
 
+![](/assets/img/matrix-w72.jpg)
+
+* Matrix
+
 ![](/assets/img/bluebayou-w72.jpeg)
 
 * Blue Bayou - Gelly Plate
