@@ -7,6 +7,10 @@ description: ''
 
 * Luminous Beauty
 
+![](/assets/img/ring-of-fire.JPEG)
+
+* Ring of Fire
+
 ![](/assets/img/stella-w72.jpg)
 
 * Stella
