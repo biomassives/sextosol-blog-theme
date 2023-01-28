@@ -3,7 +3,7 @@ title: Floral Blooms in Alcohol Ink
 description: ''
 
 ---
-![](/assets/img/luminousbeauty-w72.jpg)
+![](/assets/img/earthala-w72.jpeg)![](/assets/img/luminousbeauty-w72.jpg)
 
 * Luminous Beauty
 
