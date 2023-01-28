@@ -17,7 +17,7 @@ description: ''
 
 ![](/assets/img/bluebayou-w72.jpeg)
 
-* Blue Bayou - Gelly Plate
+* Blue Bayou - Gelly Plate Print
 
 ![](/assets/img/marina-w72.jpeg)
 
@@ -25,4 +25,4 @@ description: ''
 
 ![](/assets/img/sea-graden-w72.jpg)
 
-* Sea garden
+* Sea Garden
