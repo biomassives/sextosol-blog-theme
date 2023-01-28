@@ -3,9 +3,6 @@ title: Alcohol Ink Prints
 description: ''
 
 ---
-![](/assets/img/spirit-guide-w72.jpg)
-
-* Spirit Guide
 
 ![](/assets/img/lady-valentina-w72.jpeg)
 
@@ -30,10 +27,6 @@ description: ''
 ![](/assets/img/lady-justice-w72.jpg)
 
 * Lady Justice
-
-![](/assets/img/matrix-w72.jpg)
-
-* Matrix
 
 ![](/assets/img/holiday-tree-w72.jpg)
 
