@@ -7,6 +7,8 @@ description: ''
 
 * Luminous Beauty
 
+![](/assets/img/purple-rains-w72.jpeg)
+
 ![](/assets/img/morning-bouquet-w72.jpeg)
 
 * Morning Bouquet

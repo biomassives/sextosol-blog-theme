@@ -3,7 +3,6 @@ title: Floral Blooms MERGE
 description: ''
 
 ---
-![](/assets/img/purple-rains-w72.jpeg)
 
 * Purple Rains
 
@@ -26,7 +25,5 @@ description: ''
 ![](/assets/img/fuschia-fusion-w72.jpg)
 
 * Fushia Fusion
-
-![](/assets/img/avalon-w72.jpg)
 
 * Avalon
