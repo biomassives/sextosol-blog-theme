@@ -11,6 +11,10 @@ description: ''
 
 * Ring of Fire
 
+![](/assets/img/jubilee.jpg)
+
+* Jubilee
+
 ![](/assets/img/stella-w72.jpg)
 
 * Stella
