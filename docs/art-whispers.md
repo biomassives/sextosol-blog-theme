@@ -7,6 +7,10 @@ description: ''
 
 * Dancing Diva
 
+![](/assets/img/spirit-guide-w72.jpg)
+
+* Spirit Guide
+
 ![](/assets/img/bluebayou-w72.jpeg)
 
 * Blue Bayou - Gelly Plate
