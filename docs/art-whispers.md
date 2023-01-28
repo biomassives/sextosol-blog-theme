@@ -38,3 +38,11 @@ description: ''
 ![](/assets/img/flower-pop-w72.jpeg)
 
 * Flower Pop
+
+![](/assets/img/lady-valentina-w72.jpeg)
+
+* Lady Valentina
+
+![](/assets/img/durga-w72.jpg)
+
+* Durga
