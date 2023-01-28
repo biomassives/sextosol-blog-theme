@@ -3,6 +3,10 @@ title: Floral Blooms in Alcohol Ink
 description: ''
 
 ---
+![](/assets/img/stella-w72.jpg)
+
+* Stella
+
 ![](/assets/img/earthala-w72.jpeg)
 
 * Earthala
@@ -62,3 +66,19 @@ description: ''
 ![](/assets/img/christina-w72.jpeg)
 
 * Christina
+
+![](/assets/img/ruby-w72.jpg)
+
+* Ruby
+
+![](/assets/img/melody-w72.jpg)
+
+* Melody
+
+![](/assets/img/pricilla-w72.jpeg)
+
+* Pricilla
+
+![](/assets/img/harmony-w72.jpeg)
+
+* Harmony
