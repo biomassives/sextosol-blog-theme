@@ -7,7 +7,7 @@ featuredimg: "/assets/img/violetflame-w72.jpg"
 summary: Saturday March 4th & Sunday March 5th -10 AM to 5 PM
 
 ---
-**Meet the Artist 2023**
+**Off The Beaten Path - Meet the Artist 2023**
 
 ![](/assets/img/event1.jpg "Art Tour 2023")
 
