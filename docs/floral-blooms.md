@@ -4,10 +4,6 @@ description: ''
 
 ---
 
-* Purple Rains
-
-![](/assets/img/psychedelic-sunday-w72.jpg)
-
 * Psychadelic Sunday
 
 ![](/assets/img/jazelle-w72.jpeg)
@@ -25,5 +21,4 @@ description: ''
 ![](/assets/img/fuschia-fusion-w72.jpg)
 
 * Fushia Fusion
-
 * Avalon
