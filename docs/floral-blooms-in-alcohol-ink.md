@@ -7,6 +7,10 @@ description: ''
 
 * Luminous Beauty
 
+![](/assets/img/scan.jpeg)
+
+* Love Me Tender
+
 ![](/assets/img/ring-of-fire.JPEG)
 
 * Ring of Fire
