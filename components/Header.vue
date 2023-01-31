@@ -10,6 +10,14 @@
 </button>
 <div class="collapse navbar-collapse" id="navbarsExampleDefault">
 <ul v-if="$themeConfig.nav" class="navbar-nav ml-auto">
+
+<li
+class="nav-item"
+>
+<NavLink :link="https://dainty-cajeta-913814.netlify.app/" class="nav-link">Slideshow</NavLink>
+</li>
+
+
 <li
 v-for="item in $themeConfig.nav"
 :key="item.text"
