@@ -42,5 +42,3 @@ description: 'Alcohol Ink Prints '
 ![](/assets/img/confetti-jelly-w72.jpeg "Confetti")
 
 * Confetti Jelly
-
-  \~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~
