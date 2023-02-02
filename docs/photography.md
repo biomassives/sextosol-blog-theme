@@ -55,38 +55,38 @@ description: ''
 
 ![](/assets/img/img_9694.jpeg "Setting Sundance")
 
-* Sunset 112
+* Setting Sundance
 
 ![](/assets/img/img_9338.jpeg "Light House")
 
-* Sunset 113
+* Light House
 
 ![](/assets/img/img_0213.jpeg "Wisdom Unfolded")
 
-* Sunset 115
+* Wisdom Unfolded
 
 ![](/assets/img/img_7887.jpeg "Sky Candies")
 
-* Sunset 116
+* Sky Candies
 
 ![](/assets/img/img_9693.jpeg "Rising Vision")
 
-* Sunset 117
+* Rising Vision
 
   ![](/assets/img/img_9518.jpeg "Light My Fire")
-* Sunset 118
+* Light My Fire
 
 ![](/assets/img/img_7580.jpeg "Red Tide")
 
-* Sunset 119
+* Red Tide
 
 ![](/assets/img/img_9880.jpeg "Sunset Trails")
 
-* Sunset 120
+* Sunset Trails
 
 ![](/assets/img/img_9516.jpeg "Sunset Sailing")
 
-* Sunset 121
+* Sunset Sailing
 
 ![](/assets/img/sunsetgoldenray.JPG)
 
