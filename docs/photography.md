@@ -7,6 +7,14 @@ f![](/assets/img/printfavorite.JPG "Matrix of Creation")
 
 * Matrix of Creation
 
+![](/assets/img/img_1601.jpeg)
+
+* Light of Lights
+
+![](/assets/img/img_1590.jpeg)
+
+* Sea of Energy
+
 ![](/assets/img/img_0154.jpeg "Heavens Domain")
 
 * Heavens Domain
@@ -55,6 +63,10 @@ f![](/assets/img/printfavorite.JPG "Matrix of Creation")
 
 * Setting Sundance
 
+![](/assets/img/img_1592.jpeg)
+
+* Eight Winds
+
 ![](/assets/img/img_9338.jpeg "Light House")
 
 * Light House
@@ -71,7 +83,10 @@ f![](/assets/img/printfavorite.JPG "Matrix of Creation")
 
 * Rising Vision
 
-  ![](/assets/img/img_9518.jpeg "Light My Fire")
+![](/assets/img/img_3206.jpeg)
+
+* Celestial Power
+* ![](/assets/img/img_9518.jpeg "Light My Fire")
 * Light My Fire
 
 ![](/assets/img/img_7580.jpeg "Red Tide")
