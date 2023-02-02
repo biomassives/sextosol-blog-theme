@@ -55,15 +55,15 @@ description: ''
 
 * Sunset 111
 
-![](/assets/img/img_9694.jpeg)
+![](/assets/img/img_9694.jpeg "Setting Sundance")
 
 * Sunset 112
 
-![](/assets/img/img_9338.jpeg)
+![](/assets/img/img_9338.jpeg "Light House")
 
 * Sunset 113
 
-![](/assets/img/img_0213.jpeg)
+![](/assets/img/img_0213.jpeg "Wisdom Unfolded")
 
 * Sunset 115
 
@@ -81,8 +81,6 @@ description: ''
 ![](/assets/img/img_7580.jpeg "Red Tide")
 
 * Sunset 119
-
-![](/assets/img/img_9694.jpeg "Setting Sundance")
 
 * Sunset 120
 
