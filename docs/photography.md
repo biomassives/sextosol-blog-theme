@@ -106,9 +106,9 @@ f![](/assets/img/printfavorite.JPG "Matrix of Creation")
 
 * Sky Shadows
 
-![](/assets/img/img_0154.JPEG "Heavens Domain")
+![](/assets/img/img_4764.jpeg)
 
-* Heavens Domain
+* Heavens Dominion
 
 ![](/assets/img/img_9215.jpeg "Reflections")
 
