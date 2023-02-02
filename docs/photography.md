@@ -3,27 +3,25 @@ title: Photography - Sunsets
 description: ''
 
 ---
-![](/assets/img/printfavorite.JPG)
+![](/assets/img/printfavorite.JPG "Matrix of Creation")
 
-* Sunset 98
-
-* Sunset 99
+* Matrix of Creation
 
 ![](/assets/img/img_0154.jpeg "Heavens Domain")
 
-* Sunset 100
+* Heavens Domain
 
 ![](/assets/img/img_0138.jpeg "Green Lantern")
 
-* Sunset  102
+* Green Lantern
 
 ![](/assets/img/img_0087.jpeg "Sundown")
 
-* Sunset 103
+* Sundown
 
 ![](/assets/img/img_0021.jpeg "Rejuvinating")
 
-* Sunset 104
+* Rejuvinating
 
 ![Rejuvination](/assets/img/img_0019.jpeg)
 
