@@ -3,7 +3,7 @@ title: Photography - Sunsets
 description: ''
 
 ---
-![](/assets/img/printfavorite.JPG "Matrix of Creation")
+f![](/assets/img/printfavorite.JPG "Matrix of Creation")
 
 * Matrix of Creation
 
@@ -27,8 +27,6 @@ description: ''
 
 * Rejuvenated
 
-   
-
 ![](/assets/img/img_0125.jpeg "Gold Lantern")
 
 * Golden Lantern
@@ -39,7 +37,7 @@ description: ''
 
 ![](/assets/img/img_9996.jpeg "Rejuvinate")
 
-* Rejuvinate
+* Rejuvenate
 
 ![](/assets/img/img_9768.jpeg "Ethereal Lights")
 
@@ -88,34 +86,34 @@ description: ''
 
 * Sunset Sailing
 
-![](/assets/img/sunsetgoldenray.JPG)
+![](/assets/img/sunsetgoldenray.JPG "Sacred Language")
 
-* Sunset 122
+* Sacred Language
 
 ![](/assets/img/img_9664.jpeg "Mind Bender")
 
-* Sunset 123
+* Mind Bender
 
 ![](/assets/img/img_9332.jpeg "Sunset Serenity Site")
 
-* Sunset 124
+* Sunset Serenity Site
 
-![](/assets/img/sunset-valleys.JPG)
+![](/assets/img/sunset-valleys.JPG "Matrix of Life")
 
-* Sunset 125
+* Matrix of Life
 
 ![](/assets/img/img_3692.jpeg "Sky Shadows")
 
-* Sunset 126
+* Sky Shadows
 
 ![](/assets/img/img_0154.JPEG "Heavens Domain")
 
-* Sunset 127
+* Heavens Domain
 
 ![](/assets/img/img_9215.jpeg "Reflections")
 
-* Sunset 128
+* Reflections
 
 ![](/assets/img/img_9324.jpeg "Hidden Worlds")
 
-* Sunset 129
+* Hidden Worlds
