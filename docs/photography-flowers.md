@@ -52,3 +52,7 @@ description: ''
 ![](/assets/img/img_7329.jpeg "Awakening")
 
 * Awakening
+
+![](/assets/img/mary_bloom_where_planted300.jpeg)
+
+* Bloom Where You're Planted
