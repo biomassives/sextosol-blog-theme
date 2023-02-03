@@ -43,7 +43,7 @@ description: ''
 
 * Lady Valentina
 
-![](/assets/img/durga-w72.jpg)
+![](/assets/img/durga-w72.jpeg)
 
 * Durga
 
