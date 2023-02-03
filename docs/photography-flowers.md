@@ -7,8 +7,6 @@ description: ''
 
 * Adoration
 * ![](/assets/img/img_1665.jpeg)
-
-
 * Infinite Splendor
 
 ![](/assets/img/img_2348.jpeg)
