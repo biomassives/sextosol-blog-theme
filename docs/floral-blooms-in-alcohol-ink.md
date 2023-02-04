@@ -91,7 +91,7 @@ description: ''
 
 * Pricilla
 
-![](/assets/img/bloom-where-you-re-planted75.jpeg)
+![](/assets/img/bloom-where-you-re-planted75.jpeg "Bloom Where You're Planted")
 
 * Bloom Where You're Planted
 
