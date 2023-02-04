@@ -15,7 +15,6 @@ description: ''
 
 * Athena
 
-  
-![](/assets/img/printcranelove.JPG "Edward and Bella")
+![](/assets/img/printcranelove.JPG "Love Birds")
 
-* Edward and Bella
+* Love Birds
