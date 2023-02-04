@@ -91,6 +91,10 @@ description: ''
 
 * Pricilla
 
+![](/assets/img/bloom-where-you-re-planted75.jpeg)
+
+* Bloom Where You're Planted
+
 ![](/assets/img/harmony-w72.jpeg)
 
 * Harmony
