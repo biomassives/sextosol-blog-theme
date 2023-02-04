@@ -1,9 +1,9 @@
 ---
 tags: []
 title: Exhibitions - West Volusia Arts Tour 2023
-date: 2023-01-06 07:00:00 +0000
+date: 2023-01-06T07:00:00.000+00:00
 author: ''
-featuredimg: "/assets/img/violetflame-w72.jpg"
+featuredimg: "/assets/img/west-volusia-art-tour.jpg"
 summary: Saturday March 4th & Sunday March 5th -10 AM to 5 PM
 
 ---
