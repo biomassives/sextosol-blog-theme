@@ -1,5 +1,5 @@
 ---
-title: Pendant Jewelry Dichroic Glass
+title: Pendant Jewelry - Dichroic Glass
 description: 'Dichroic Fused Glass - 14K gold filled wire wrapped '
 
 ---
