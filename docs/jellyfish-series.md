@@ -1,5 +1,5 @@
 ---
-title: Jellyfish Series - Alcohol Ink
+title: Alcohol Ink Jellyfish Series
 description: 'Alcohol Ink Prints '
 
 ---

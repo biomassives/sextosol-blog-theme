@@ -1,5 +1,5 @@
 ---
-title: Floral Blooms in Alcohol Ink
+title: Alcohol Ink Floral Blooms
 description: ''
 
 ---

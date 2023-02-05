@@ -1,5 +1,5 @@
 ---
-title: 'Alcohol Ink  '
+title: 'Alcohol Ink '
 description: ''
 
 ---
