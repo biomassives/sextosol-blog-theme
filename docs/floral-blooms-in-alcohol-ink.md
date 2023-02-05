@@ -7,6 +7,10 @@ description: ''
 
 * Luminous Beauty
 
+![](/assets/img/dancing-diva-w72.jpg)
+
+* Dancing Diva
+
 ![](/assets/img/scan.jpeg)
 
 * Love Me Tender

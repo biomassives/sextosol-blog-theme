@@ -3,9 +3,6 @@ title: 'Alcohol Ink Prints '
 description: ''
 
 ---
-![](/assets/img/dancing-diva-w72.jpg)
-
-* Dancing Diva
 
 ![](/assets/img/spirit-guide-w72.jpg)
 
