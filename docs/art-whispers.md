@@ -3,7 +3,6 @@ title: 'Alcohol Ink Prints '
 description: ''
 
 ---
-
 ![](/assets/img/spirit-guide-w72.jpg)
 
 * Spirit Guide
