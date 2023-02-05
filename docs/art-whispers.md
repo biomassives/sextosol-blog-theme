@@ -1,5 +1,5 @@
 ---
-title: 'Alcohol Ink Prints '
+title: 'Alcohol Ink  '
 description: ''
 
 ---
