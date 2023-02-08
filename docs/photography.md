@@ -57,7 +57,7 @@ f![](/assets/img/printfavorite.JPG "Matrix of Creation")
 
 ![](/assets/img/img_9772.jpeg "Happy Hour")
 
-* Happy Hour
+* Grand Divinity
 
 ![](/assets/img/img_9959.jpeg "Trust & Believe")
 
