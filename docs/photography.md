@@ -143,7 +143,7 @@ f![](/assets/img/printfavorite.JPG "Matrix of Creation")
 
 ![](/assets/img/img_7009.jpeg)
 
-* Candy Land
+* Luminara
 
 ![](/assets/img/img_4720.jpeg)
 
