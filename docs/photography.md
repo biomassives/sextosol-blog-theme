@@ -49,7 +49,7 @@ f![](/assets/img/printfavorite.JPG "Matrix of Creation")
 
 ![](/assets/img/img_9768.jpeg "Ethereal Lights")
 
-* Ethereal Lights
+* Southern Lights
 
 ![](/assets/img/img_4718.jpeg)
 
