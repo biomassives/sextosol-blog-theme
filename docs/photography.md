@@ -81,7 +81,7 @@ f![](/assets/img/printfavorite.JPG "Matrix of Creation")
 
 ![](/assets/img/img_7887.jpeg "Sky Candies")
 
-* Sky Candies
+* Sky Gateway 
 
 ![](/assets/img/img_9693.jpeg "Rising Vision")
 
@@ -115,7 +115,7 @@ f![](/assets/img/printfavorite.JPG "Matrix of Creation")
 
 ![](/assets/img/img_9332.jpeg "Sunset Serenity Site")
 
-* Sunset Serenity Site
+* Serenity Spark
 
 ![](/assets/img/sunset-valleys.JPG "Matrix of Life")
 
