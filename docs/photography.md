@@ -139,7 +139,7 @@ f![](/assets/img/printfavorite.JPG "Matrix of Creation")
 
 ![](/assets/img/img_3697.jpeg)
 
-* Infinite Glory
+* Lady of the Lake
 
 ![](/assets/img/img_7009.jpeg)
 
