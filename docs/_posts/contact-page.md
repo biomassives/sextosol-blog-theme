@@ -1,7 +1,7 @@
 ---
 tags: []
 title: The Contact Page
-date: 2022-12-01 07:00:00 +0000
+date: 2022-12-01T07:00:00.000+00:00
 author: ''
 featuredimg: "/assets/img/morning-bouquet-w72.jpg"
 summary: ''
@@ -9,7 +9,7 @@ summary: ''
 ---
 ### **Contact**
 
-If you are interested in purchasing artwork, please fill out the form & include the following in the Message block:
+If you are interested in purchasing artwork, please fill out the form & include the following in the Message block: 
 
 **Originals:**  
 Name of Piece  
