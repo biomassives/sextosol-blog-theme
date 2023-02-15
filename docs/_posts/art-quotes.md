@@ -71,4 +71,4 @@ _24._ . “The only time I feel alive is when I'm painting.” _Vincent Van Gogh
 
 32\. “Art, is natures anti-depressant.” _Mary Holtz_
 
-1. "Mistakes are almost always of a sacred nature." _Salvador_ _Dali_ 
+33. "Mistakes are almost always of a sacred nature." _Salvador_ _Dali_
