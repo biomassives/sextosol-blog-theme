@@ -17,4 +17,8 @@ Her energy for art is unending even as she has spent the last forty-six years he
 
 Recently, she has been educated in the field of alcohol ink taking classes from Linda Clifford and Alexis Bonavitacola.
 
-She prides herself on seeing color, shape, and dimension not through conventional eyes but through deep, other-dimensional energy. She currently shows her art at craft fairs, restaurants, and local community events. You can find Mary on Facebook, Mary Holtz Art. Email - Drmaryholtz@gmail.com for more information.
+She prides herself on seeing color, shape, and dimension not through conventional eyes but through deep, other-dimensional energy. She currently shows her art at craft fairs, restaurants, and local community events. 
+
+You can find Mary on Facebook - Mary Holtz Art. 
+
+Email - Drmaryholtz@gmail.com for more information.
