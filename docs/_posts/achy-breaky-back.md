@@ -1,6 +1,6 @@
 ---
 tags: []
-title: Achy-Breaky Back
+title: Achy-Breaky Back, Self Help Book
 date: 
 author: Arnie Holtz
 featuredimg: "/assets/img/achybreakyback.jpg"
