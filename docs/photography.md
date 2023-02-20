@@ -3,7 +3,6 @@ title: Photography - Sunsets
 description: ''
 
 ---
-  
 ![](/assets/img/printfavorite.JPG "Matrix of Creation")
 
 * Matrix of Creation
