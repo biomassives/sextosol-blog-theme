@@ -3,7 +3,8 @@ title: Photography - Sunsets
 description: ''
 
 ---
-f![](/assets/img/printfavorite.JPG "Matrix of Creation")
+  
+![](/assets/img/printfavorite.JPG "Matrix of Creation")
 
 * Matrix of Creation
 
@@ -81,7 +82,7 @@ f![](/assets/img/printfavorite.JPG "Matrix of Creation")
 
 ![](/assets/img/img_7887.jpeg "Sky Candies")
 
-* Sky Gateway 
+* Sky Gateway
 
 ![](/assets/img/img_9693.jpeg "Rising Vision")
 
