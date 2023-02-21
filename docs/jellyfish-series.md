@@ -5,7 +5,7 @@ description: 'Alcohol Ink Prints '
 ---
 ![](/assets/img/kira-royal-jelly-w72.jpg "Kira Royale")
 
-* Kira Royale Jelly
+* Kir Royale Jelly
 
   \~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~
 
