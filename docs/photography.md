@@ -113,7 +113,7 @@ description: ''
 
 * Mind Bender
 
-![](/assets/img/img_9332.jpeg "Sunset Serenity Site")
+![](/assets/img/img_9332.jpeg "Serenity Spark")
 
 * Serenity Spark
 
