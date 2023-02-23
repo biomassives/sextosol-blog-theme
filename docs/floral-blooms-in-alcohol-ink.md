@@ -79,10 +79,6 @@ description: ''
 
 * Fuschia Fusion
 
-![](/assets/img/christina-w72.jpeg)
-
-* Christina
-
 ![](/assets/img/ruby-w72.jpg)
 
 * Ruby
