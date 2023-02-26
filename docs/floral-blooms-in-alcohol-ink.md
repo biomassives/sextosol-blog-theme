@@ -81,7 +81,7 @@ description: ''
 
 ![](/assets/img/ruby-w72.jpg)
 
-* Ruby
+* Florentina
 
 ![](/assets/img/melody-w72.jpg)
 
