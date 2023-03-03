@@ -1,5 +1,23 @@
 <template>
 
+  <div class="container">
+  <h2>Contact</h2>
+
+    <p> If you are interested in purchasing artwork, please fill out the form & include the following in the Message block:
+
+    <ul>  
+       <ol>Originals:Name of PieceYour Shipping Address</ol>
+
+       <ol>Prints:Size of PrintsQuantityYour Shipping Address</ol>
+
+       <ol>I will reply with shipping details & cost. If you have other questions, please feel free to ask</ol> 
+       
+       <ol>My email is - Drmaryholtz@gmail.com</ol>
+    </ul>
+
+    </p>
+    </div>
+
     <router-link :to="'/tag/' + tag"> {{ tag }} </router-link>
 
 </template>
