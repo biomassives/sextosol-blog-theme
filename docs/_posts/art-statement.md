@@ -1,9 +1,9 @@
 ---
 tags: []
 title: Artists
-date: 2022-12-01T07:00:00.000+00:00
+date: 2023-03-10 07:00:00 +0000
 author: Mary
-featuredimg: "/assets/img/night-bloom-w72.jpg"
+featuredimg: "/assets/img/dall-e-2023-02-10-19-35-06-a-pen-and-ink-line-drawing-in-the-early-morning-light-of-goats-and-cows-eating-garbage.png"
 summary: 'Creating art has healing power. I find peace, joy and happiness in creating
   art. '
 
@@ -16,4 +16,4 @@ OT
 
 Ria
 
-Yo
+Youth Performers
