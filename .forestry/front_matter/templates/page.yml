@@ -12,13 +12,3 @@ fields:
   config:
     required: false
   label: description
-pages:
-- docs/art-whispers.md
-- docs/floral-blooms-in-alcohol-ink.md
-- docs/jellyfish-series.md
-- docs/pendant-jewelry-gemstones.md
-- docs/pendant-jewelry-sea-shells.md
-- docs/pendant-jewelry.md
-- docs/photography-birds.md
-- docs/photography-flowers.md
-- docs/photography.md
