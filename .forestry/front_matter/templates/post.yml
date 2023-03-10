@@ -24,7 +24,5 @@ fields:
   name: summary
   label: summary
 pages:
-- docs/_posts/about.md
-- docs/_posts/achy-breaky-back.md
 - docs/_posts/art-statement.md
 - docs/_posts/contact-page.md
