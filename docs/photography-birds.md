@@ -19,7 +19,6 @@ description: ''
 
 * Love Birds
 
-  
 ![](/assets/img/printcranecouple260.JPG)
 
-* Beloved
+* Crane Love 
